@@ -16,9 +16,10 @@ nav_order: 1
 | #8: Mar 1-5      |                                                                           |          |    |
 | #9: Mar 8-12     |                                                                           |          |        |
 | #10: Mar 15-19    |                                                                           |          |        |
-| **Eid AlFitr Break**
-| #11: Mar 29-Apr 2 |                                                                           |          |        |
-| #12: Apr 5-9      |                                                                           |          |        |
-| #13: Apr 12-16    |                                      							            |          |        |
-| #14: Apr 19-23    |                                                                           |          |        |
+|  Mar 25-Apr 5| **Eid AlFitr Break**| | |
+| #11: Apr 6-10 |                                                                           |          |        |
+| #12: Apr 13-17      |                                                                           |          |        |
+| #13: Apr 20-24    |                                      							            |          |        |
+| #14: Apr 27-May 1   |                                                                           |          |        |
+| #15: Apr 27-May 1 | | | |
 {: class="schedule-table"}
