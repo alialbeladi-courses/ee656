@@ -1,35 +1,27 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# EE380: Control Engineering I
+{: .mb-2 }
+with Dr. Ali AlBeladi
+{: .fs-6 .fw-300 }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## Course Overview
+Welcome to the Control Systems Design course, an introduction to the principles and methods that form the foundation of modern control engineering. This course is tailored for undergraduate students, focusing on single-input–single-output (SISO) systems and bridging the gap between theory and practical application.
 
-More specifically, the created site:
+## What You Will Learn
+In this course, you will explore the essential techniques required to model, analyze, and design control systems. By the end of the course, you will have a solid understanding of how to create effective and robust control solutions for a variety of dynamic systems, from mechanical and electrical systems to real-world examples like quadrotor drones.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## Course Highlights
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+* Dynamic System Modeling: Learn how to derive mathematical models for mechanical, electrical, and electromechanical systems.
+* System Analysis: Gain insights into system behavior using Laplace transforms, transfer functions, poles and zeros, and stability criteria.
+* Feedback Control: Understand the principles of feedback, including its impact on disturbance rejection, tracking accuracy, and dynamic response.
+* Advanced Control Techniques: Master key design methods such as root locus, frequency response, and state-space approaches for control systems.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Why This Course Matters
+Control systems are at the heart of modern technology, powering everything from industrial automation and robotics to aerospace systems and automotive design. Through this course, you will acquire the tools and skills to tackle real-world engineering challenges and contribute to innovative solutions in a variety of industries.
 
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
