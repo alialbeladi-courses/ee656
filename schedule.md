@@ -6,7 +6,7 @@ nav_order: 1
 ---
 | Week              | Topics                                                                    | Readings | HW |
 |-------------------|---------------------------------------------------------------------------|----------|----|
-| #1: Jan 12-16     | [Course Overview<br />Dynamics of Electrical Circuits<br />Dynamics of Mechanical Systems]({{ site.baseurl }}{% link lectures/week1.md %})                                                                       |          |    |
+| #1: Jan 12-16     | [Course Overview<br />Dynamics of Electrical Circuits<br />Dynamics of Mechanical Systems]({{ site.url }}{% link lectures/week1.md %})                                                                       |          |    |
 | #2: Jan 19-23 | [Dynamics of Electromechanical Systems<br />Review of Laplace Transform]({{ site.baseurl }}/modules/module2)                                                                                              |          |     |
 | #3: Jan 26-30       |                            			                                    |          |      |
 | #4: Feb 2-6      |                                                                           |          |    |
