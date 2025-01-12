@@ -23,11 +23,11 @@ In this course, you will explore the essential techniques required to model, ana
 
 **Note:** The course focuses primarily on mathematical and computational aspects of robotics. It does not cover the mechanical or electrical design of robotic platforms.
 
-##Textbooks:
+## Textbooks
 * S. Thrun, W. Burghart, D. Fox: [Probabilistic Robotics](http://robots.stanford.edu/probabilistic-robotics/)
 * Timothy D. Barfoot, [State Estimation for Robotics](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf), University of Toronto, 2021
 
-**Prerequisites:**
+## Prerequisites
 To succeed in this course, students should have foundational knowledge in the following areas:
 * Linear Algebra (e.g., matrices, eigenvalues, and vector spaces).
 * Probability and Statistics (e.g., random variables, Bayes’ rule, and distributions).
