@@ -9,7 +9,7 @@ nav_order: 5
 All homework submissions must be submitted to Gradescope (entry code: TBA ) by 11:59 pm on the due date. 
 * To easily identify you, use your KFUPM email and enter your name as written in the university's system.
 * Please ensure you have a good way to scan your homework. You can use a traditional scanner or a scanner app on your smartphone (if it has a good camera) 
-* We highly recommend typesetting your homework in [LATEX](www.overleaf.com).
+* We highly recommend typesetting your homework in [LATEX](https://www.overleaf.com).
 A bonus point in the homework will be give for those who do so. We will be posting the LaTeX source code of the homework assignments so you can borrow the LaTex code from the problem statements.
 
 ## Late Day Policy
