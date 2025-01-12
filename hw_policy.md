@@ -2,7 +2,7 @@
 layout: page
 title: Homework Policy
 permalink: /hwpolicy/
-nav_order: 4
+nav_order: 5
 ---
 
 ## Submission Policy
@@ -39,3 +39,6 @@ Here are a few of the examples of honor code violations:
 * Uploading your writeup or code to a public repository (e.g. github, bitbucket, pastebin) so that it can be accessed by other students.
 * Looking at solutions from online repository or previous years’ homeworks
 * Entering homework questions into any software, apps, or websites. Accessing resources that directly explain how to answer questions from the actual assignment or exam is a violation of course policy.
+
+## Generative AI Tools Policy: 
+In this course, every element of class assignments must be fully prepared by the student. The use of generative AI tools for any part of your work is not allowed and will be treated as plagiarism – unless it is permitted and announced by the instructor.
