@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: Module 4 - Frequency Response Methods
+title: Module 4
 permalink: /modules/module4
 parent: Modules
 nav_order: 4
