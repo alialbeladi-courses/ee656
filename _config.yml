@@ -1,7 +1,7 @@
-title: EE380 - Spring 2025
+title: EE656 - Spring 2025
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-baseurl: '/e380'
+baseurl: '/ee656'
 url: 'alialbeladi-courses.github.io'
 search_enabled: false
 # aux_links:
