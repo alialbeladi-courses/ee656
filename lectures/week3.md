@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: Module 3 - Root Locus Methods
+title: Module 3
 permalink: /modules/module3
 parent: Modules
 nav_order: 3
