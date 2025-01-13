@@ -6,10 +6,7 @@ nav_order: 2
 ---
 | Week              | Topics                                                                    | Readings | HW |
 |-------------------|---------------------------------------------------------------------------|----------|----|
-| #1: Jan 12-16     | Course Overview<br />Bayesian Statistics<br />Please look at the following videos before Tuesday class to ensure you have the required background:
-[Random Variables]([{{ site.baseurl }}/modules/module1](https://www.youtube.com/watch?v=ijX8Xs0OaAs))
-[Distributions](https://www.youtube.com/watch?v=X7ePpI4qgTQ)
-[Expectation](https://www.youtube.com/watch?v=z4qv272LSKw) |          |    |
+| #1: Jan 12-16     | Course Overview<br />Bayesian Statistics<br />Please look at the following videos before Tuesday class to ensure you have the required background: <br />[Random Variables](https://www.youtube.com/watch?v=ijX8Xs0OaAs)<br />[Distributions](https://www.youtube.com/watch?v=X7ePpI4qgTQ)<br />[Expectation](https://www.youtube.com/watch?v=z4qv272LSKw) |          |    |
 | #2: Jan 19-23 |                                                                                            |          |     |
 | #3: Jan 26-30       |                            			                                    |          |      |
 | #4: Feb 2-6      |                                                                           |          |    |
