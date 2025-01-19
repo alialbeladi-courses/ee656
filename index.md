@@ -6,7 +6,7 @@ nav_order: 1
 
 # EE656: Geometric Methods for Robotic Perception
 {: .mb-2 }
-with Ali AlBeladi (Office Hour: UTR 10-11 am @ 59-1070)
+with Ali AlBeladi (Office Hours: Sunday/Tuesday 2:15-3:15 pm and Thursday 10 - 11 am @ 59-1070)
 {: .fs-6 .fw-300 }
 
 ## Course Overview
