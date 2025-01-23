@@ -29,14 +29,15 @@ I will provide more details about the project soon. Here are some sample papers 
 
 # Overview
 The goal of your project is to try something new and, perhaps, to contribute something to the field of Robotics. Projects should be done in **groups of two**. Individual projects require the instructor's approval before submission of the project proposal. Feel free to use the ["Project teammate search"](https://teams.microsoft.com/l/channel/19%3Aed7d1f50d13b488db4f9c2eee4db0209%40thread.tacv2/Project%20teammate%20search?groupId=0a17bb8b-effd-4595-a721-04f5c3d73e7e&tenantId=29b4b088-d27d-4129-b9f9-8637b59ea4b3) channel on MSTeams to form teams. There is also a ["Project Ideas"](https://teams.microsoft.com/l/channel/19%3A7339df7f90004407b7357b7b88aca647%40thread.tacv2/Project%20Ideas?groupId=0a17bb8b-effd-4595-a721-04f5c3d73e7e&tenantId=29b4b088-d27d-4129-b9f9-8637b59ea4b3) channel for discussing project ideas. And of course, you're encouraged to discuss possible topics with me during office hours. Here are some ideas for getting started on projects:
-Find a previously published paper related to Robotic Perception (either a recent or classic one), reimplement and test its approach.
+* Find a previously published paper related to Robotic Perception (either a recent or classic one), reimplement and test its approach.
 
-Take some publicly available code, apply it to an interesting dataset, explore various extensions and modifications, or compare multiple approaches. Note, however, that merely running existing code on the data provided by the authors is not sufficient -- you need to do more in-depth exploration along the lines suggested above.
+* Take some publicly available code, apply it to an interesting dataset, explore various extensions and modifications, or compare multiple approaches. Note, however, that merely running existing code on the data provided by the authors is not sufficient -- you need to do more in-depth exploration along the lines suggested above.
 
-Design and implement a solution to a problem that interests you. It is fine to pick a problem related to your dissertation research, but be sure to formulate a clear short-term goal and desired outcome for the class project. Ideally, you should use the class project as an opportunity to try new techniques that you might not consider or have a chance to use otherwise.
+* Design and implement a solution to a problem that interests you. It is fine to pick a problem related to your dissertation research, but be sure to formulate a clear short-term goal and desired outcome for the class project. Ideally, you should use the class project as an opportunity to try new techniques that you might not consider or have a chance to use otherwise.
 
-Find an interesting competition or dataset. It is not necessary to actually enter the competition -- just use however much of the data or problem definition or evaluation makes sense to you and is feasible in your circumstances.
+* Find an interesting competition or dataset. It is not necessary to actually enter the competition -- just use however much of the data or problem definition or evaluation makes sense to you and is feasible in your circumstances.
 
+* Implement the methods you learned in this course on your own hardware.
 
 # Proposal
 Your proposal should consist of two to three pages and contain the following:
