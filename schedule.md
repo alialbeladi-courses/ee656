@@ -6,11 +6,11 @@ nav_order: 2
 ---
 | Week              | Topics                                                                    | Readings | HW |
 |-------------------|---------------------------------------------------------------------------|----------|----|
-| #1: Jan 12     |[ Course Overview](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/01_12_Introduction.pdf?csf=1&web=1&e=w8iRrg)<br /> |          |  [HW1 due Jan. 25](https://github.com/alialbeladi-courses/ee656/tree/main/homeworks/hw01)  |
+| #1: Jan 12     |[ Course Overview](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/01_12_Introduction.pdf?csf=1&web=1&e=w8iRrg)<br /> |          |    |
 | #1: Jan 14     |  [Bayesian Statistics](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/01_14_probability.pdf?csf=1&web=1&e=uJnr6K)<br />Please look at the following videos before Tuesday class to ensure you have the required background: <br />[Random Variables](https://www.youtube.com/watch?v=ijX8Xs0OaAs)<br />[Distributions](https://www.youtube.com/watch?v=X7ePpI4qgTQ)<br />[Expectation](https://www.youtube.com/watch?v=z4qv272LSKw) |  |  |
 | #2: Jan 19     | [Bayesian Statistics 2](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/01_19_probability2.pdf?csf=1&web=1&e=6S7lJc) |  |  |
 | #2: Jan 21     | [Bayes Filter](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/01_21_bayes_filter.pdf?csf=1&web=1&e=u8RqO3)  |  |  |
-| |           Kalman Filtering, Non-linear Kalman Filtering                                                                                 |          |     |
+| |           Kalman Filtering, Non-linear Kalman Filtering                                                                                 |          |  [**HW1 Due Jan. 25**{: .label .label-orange }]({{site.baseurl}}/hw/)   |
 | #3: Jan 26       |     Particle Filtering, Rigid Body Motion                       			                                    |          |      |
 | #3: Jan 28      |  |  |  |
 | #4: Feb 2      |        Matrix Lie Groups                                                                   |          |    |
