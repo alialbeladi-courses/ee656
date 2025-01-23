@@ -25,7 +25,7 @@ I will provide more details about the project soon. Here are some sample papers 
 [paper 8](https://ieeexplore.ieee.org/abstract/document/10539262)
 
 -->
-[Proposals](#proposal) due February 8, [progress reports](#progress-report) due March 19, [final reports](#final-report) due May 11
+[Proposals](#proposal) due February 8, [Progress reports](#progress-report) due March 19, [Final reports](#final-report) due May 11
 
 # Overview
 The goal of your project is to try something new and, perhaps, to contribute something to the field of Robotics. Projects should be done in **groups of two**. Individual projects require the instructor's approval before submission of the project proposal. Feel free to use the ["Project teammate search"](https://teams.microsoft.com/l/channel/19%3Aed7d1f50d13b488db4f9c2eee4db0209%40thread.tacv2/Project%20teammate%20search?groupId=0a17bb8b-effd-4595-a721-04f5c3d73e7e&tenantId=29b4b088-d27d-4129-b9f9-8637b59ea4b3) channel on MSTeams to form teams. There is also a ["Project Ideas"](https://teams.microsoft.com/l/channel/19%3A7339df7f90004407b7357b7b88aca647%40thread.tacv2/Project%20Ideas?groupId=0a17bb8b-effd-4595-a721-04f5c3d73e7e&tenantId=29b4b088-d27d-4129-b9f9-8637b59ea4b3) channel for discussing project ideas. And of course, you're encouraged to discuss possible topics with me during office hours. Here are some ideas for getting started on projects:
@@ -50,7 +50,7 @@ Your proposal should consist of two to three pages and contain the following:
 
 The proposal in PDF format should be uploaded on Gradescope by one designated group member (but make sure that everybody's names are on the document). The proposal will receive feedback but no separate score. 
 
-# Progress report
+# Progress Report
 The progress report should be at least three pages and should be structured as follows:
 * **List of group members.**
 * **Informative project title.**
@@ -64,7 +64,7 @@ The progress report should be at least three pages and should be structured as f
 
 The progress report should be uploaded on Gradescope by one designated group member (but make sure that everybody's names are on the document). The report will not receive a separate score, but its content and quality will contribute holistically to the overall project grade at the end of the semester.
 
-# Final report
+# Final Report
 The final report should be submitted in PDF format by one designated group member on Canvas. It should be (the equivalent of) at least six pages (single-spaced, 10 point font) and mimic the style of a research paper. Here is an outline to follow for the report:
 * **Cover page:** Executive summary: Give an informative project title and list of authors. Briefly summarize your problem, line of attack, and most interesting/surprising findings. Be sure to include at least one diagram or example result figure. The cover page is not counted in the six-page minimum.
 * **Introduction:** Define and motivate the problem, discuss background material or related work, and briefly summarize your approach.
