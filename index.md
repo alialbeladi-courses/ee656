@@ -24,8 +24,8 @@ In this course, you will explore the essential techniques required to model, ana
 **Note:** The course focuses primarily on mathematical and computational aspects of robotics. It does not cover the mechanical or electrical design of robotic platforms.
 
 ## Textbooks
-* S. Thrun, W. Burghart, D. Fox: [Probabilistic Robotics](http://robots.stanford.edu/probabilistic-robotics/)
-* Timothy D. Barfoot, [State Estimation for Robotics](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf), University of Toronto, 2021
+* [TBF] S. Thrun, W. Burghart, D. Fox: [Probabilistic Robotics](http://robots.stanford.edu/probabilistic-robotics/)
+* [TDB] Timothy D. Barfoot, [State Estimation for Robotics](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf), University of Toronto, 2021
 
 ## Prerequisites
 To succeed in this course, students should have foundational knowledge in the following areas:
