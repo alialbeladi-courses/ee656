@@ -10,9 +10,9 @@ nav_order: 2
 | #1: Jan 14     |  [Bayesian Statistics](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/01_14_probability.pdf?csf=1&web=1&e=uJnr6K)<br />Please look at the following videos before Tuesday class to ensure you have the required background: <br />[Random Variables](https://www.youtube.com/watch?v=ijX8Xs0OaAs)<br />[Distributions](https://www.youtube.com/watch?v=X7ePpI4qgTQ)<br />[Expectation](https://www.youtube.com/watch?v=z4qv272LSKw) | [[TBF]]({{site.baseurl}}/#textbooks) Ch. 2.1-2.3, [[TDB]]({{site.baseurl}}/#textbooks) Ch.2.1 |  |
 | #2: Jan 19     | [Bayesian Statistics 2](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/01_19_probability2.pdf?csf=1&web=1&e=6S7lJc) |[[TDB]]({{site.baseurl}}/#textbooks) Ch.2.2   |  |
 | #2: Jan 21     | [Bayes Filter](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/01_21_bayes_filter.pdf?csf=1&web=1&e=u8RqO3)  | [[TBF]]({{site.baseurl}}/#textbooks) Ch. 2.4|  |
-| |           Kalman Filtering, Non-linear Kalman Filtering                                                                                 |          |  [**HW1 Due Jan. 25**{: .label .label-orange }]({{site.baseurl}}/hw/)   |
-| #3: Jan 26       |     Particle Filtering, Rigid Body Motion                       			                                    |          |      |
-| #3: Jan 28      |  |  |  |
+| #3: Jan 26  |           [Kalman Filtering](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/01_26_kalman_filter.pdf?csf=1&web=1&e=H56Qvo)                                                                                |    [[TDB]]({{site.baseurl}}/#textbooks) Ch.3.2.1-3.2.3       |  [**HW1 Due Jan. 25**{: .label .label-orange }]({{site.baseurl}}/hw/)   |
+| #3: Jan 28      | Kalman Filter Proof |  [[TDB]]({{site.baseurl}}/#textbooks) Ch.3.2.4 |  |
+|       |    , Non-linear Kalman Filtering  Particle Filtering, Rigid Body Motion                       			                                    |          |      |
 | #4: Feb 2      |        Matrix Lie Groups                                                                   |          |    |
 | #4: Feb 4      |  |  |  |
 | #5: Feb 9     |        Robot Motion and Uncertainty Propagation                                                                    |          |    |
