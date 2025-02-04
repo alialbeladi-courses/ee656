@@ -14,7 +14,7 @@ nav_order: 2
 | #3: Jan 28      | [Kalman Filter Proof - Part 1](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/Kalman_Proof.pdf?csf=1&web=1&e=ZcSlZF) |  [[TDB]]({{site.baseurl}}/#textbooks) Ch.3.2.4 |  |
 |       |                         			                                    |          |      |
 | #4: Feb 2      | [Kalman Filter Proof - Part 2](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_02_kalman_filter_derivation.pdf?csf=1&web=1&e=o6pj8P)                                                                       |          |    |
-| #4: Feb 4      | [Non-linear Kalman Filtering](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_04_nonlinear_Kalman.pdf?csf=1&web=1&e=b4b6hv)     |  |  |
+| #4: Feb 4      | [Non-linear Kalman Filtering](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_04_nonlinear_Kalman.pdf?csf=1&web=1&e=b4b6hv)     | [[TDB]]({{site.baseurl}}/#textbooks) Ch.3.3  |  |
 | #5: Feb 9     |   Non-linear Kalman Filtering 2                                                                         |          |    |
 | #5: Feb 11      | Rigid Body Motion |  |  |
 | #6: Feb 16     |   Matrix Lie Groups                                                                      |          |        |
