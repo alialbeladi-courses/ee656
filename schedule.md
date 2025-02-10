@@ -15,26 +15,26 @@ nav_order: 2
 |       |                         			                                    |          |      |
 | #4: Feb 2      | [Kalman Filter Proof - Part 2](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_02_kalman_filter_derivation.pdf?csf=1&web=1&e=o6pj8P)                                                                       |          |    |
 | #4: Feb 4      | [Non-linear Kalman Filtering](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_04_nonlinear_Kalman.pdf?csf=1&web=1&e=b4b6hv)     | [[TDB]]({{site.baseurl}}/#textbooks) Ch.3.3  |  |
-| #5: Feb 9     |   Non-linear Kalman Filtering 2                                                                         |          |    |
+| #5: Feb 9     |   [Non-linear Kalman Filtering 2](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_09_nonlinear_filters.pdf?csf=1&web=1&e=dvhDUU)                                                                         |          |    |
 | #5: Feb 11      | Rigid Body Motion |  |  |
-| #6: Feb 16     |   Matrix Lie Groups                                                                      |          |        |
-| #6: Feb 18      |  Robot Motion and Uncertainty Propagation|  |  |
-| #7: Feb 23       |  Invariant Kalman Filtering                                                           |          |        |
-| #7: Feb 25      |  Localization, Occupancy Grid Mapping  |  |  |
-| #8: Mar 2      |        Robotics Mapping                                                                   |          |    |
-| #8: Mar 4      |  |  |  |
-| #9: Mar 9     |        Optimization and Smoothing                                                                  |          |        |
-| #9: Mar 11      |  |  |  |
-| #10: Mar 16    |       Point Cloud Registration, RKHS Registration                                                                    |          |        |
-| #10: Mar 18      |  |  |  |
+| #6: Feb 16     |   Matrix Lie Groups 1                                                                     |          |        |
+| #6: Feb 18      |  Matrix Lie Groups 1 |  |  |
+| #7: Feb 23       |                                                          |          |        |
+| #7: Feb 25      |   Robot Motion and Uncertainty Propagation |  |  |
+| #8: Mar 2      |    Invariant Kalman Filtering 1                                                                    |          |    |
+| #8: Mar 4      |    Invariant Kalman Filtering 2    |  |  |
+| #9: Mar 9     |                                                                             |          |        |
+| #9: Mar 11      | Localization |  |  |
+| #10: Mar 16    |   Occupancy Grid Mapping                                                                           |          |        |
+| #10: Mar 18      | Robotics Mapping |  |  |
 |  Mar 23-Apr 3| **Eid AlFitr Break**| | |
-| #11: Apr 6 |           RGB-D Visual Odometry                                                                |          |        |
-| #11: Apr 8      |  |  |  |
-| #12: Apr 13      |     SLAM                                                                      |          |        |
+| #11: Apr 6 |        Optimization and Smoothing 1                                                            |          |        |
+| #11: Apr 8      | Optimization and Smoothing 2   |  |  |
+| #12: Apr 13      |  Point Cloud Registration                                                                        |          |        |
 | #12: Apr 15      |  |  |  |
-| #13: Apr 20    |                                      							            |          |        |
-| #13: Apr 22      |  |  |  |
-| #14: Apr 27   |                                                                           |          |        |
+| #13: Apr 20    |    RGB-D Visual Odometry                                  							            |          |        |
+| #13: Apr 22      |  SLAM 1 |  |  |
+| #14: Apr 27   |       SLAM 2                                                                     |          |        |
 | #14: Apr 29      |  |  |  |
 | #15: May 4 | | | |
 | #15: May 6      |  |  |  |
