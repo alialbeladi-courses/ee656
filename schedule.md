@@ -16,7 +16,7 @@ nav_order: 2
 | #4: Feb 2      | [Kalman Filter Proof - Part 2](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_02_kalman_filter_derivation.pdf?csf=1&web=1&e=o6pj8P)                                                                       |          |    |
 | #4: Feb 4      | [Non-linear Kalman Filtering](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_04_nonlinear_Kalman.pdf?csf=1&web=1&e=b4b6hv)     | [[TDB]]({{site.baseurl}}/#textbooks) Ch.3.3  | [**P1 Due Feb. 8**{: .label .label-orange }]({{site.baseurl}}/project/#final-report)  |
 | #5: Feb 9     |   [Non-linear Kalman Filtering 2](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_09_nonlinear_filters.pdf?csf=1&web=1&e=dvhDUU)                                                                         |          |    |
-| #5: Feb 11      | Rigid Body Motion |  | [**HW2 Due Feb. 14**{: .label .label-orange }]({{site.baseurl}}/hw/) |
+| #5: Feb 11      | [Rigid Body Motion](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_11_rigid_mody_motions.pdf?csf=1&web=1&e=gfXB4G) |  | [**HW2 Due Feb. 14**{: .label .label-orange }]({{site.baseurl}}/hw/) |
 | #6: Feb 16     |   Matrix Lie Groups 1                                                                     |          |        |
 | #6: Feb 18      |  Matrix Lie Groups 2 |  | [**HW3 Due Feb. 21**{: .label .label-orange }]({{site.baseurl}}/hw/) |
 | #7: Feb 23       |                                                          |          |        |
