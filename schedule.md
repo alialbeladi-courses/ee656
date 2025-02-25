@@ -19,9 +19,9 @@ nav_order: 2
 | #5: Feb 11      | [Rigid Body Motion](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_11_rigid_mody_motions.pdf?csf=1&web=1&e=gfXB4G) |  [[TDB]]({{site.baseurl}}/#textbooks) Ch.6| [**HW2 Due Feb. 14**{: .label .label-orange }]({{site.baseurl}}/hw/) |
 | #6: Feb 16     |   [Matrix Lie Groups 1  ](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_16_rigid_mody_motions_2.pdf?csf=1&web=1&e=uLoxQk)                                                                   |          |        |
 | #6: Feb 18      |  [Matrix Lie Groups 2](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_18_rigid_mody_motions_3.pdf?csf=1&web=1&e=1FlYnc) | [[TDB]]({{site.baseurl}}/#textbooks) Ch.7.1.1 - 7.1.4 |  |
-| #7: Feb 23       |                                                          |          |        |
-| #7: Feb 25      |   Robot Motion and Uncertainty Propagation |  | [**HW3 Due Feb. 27**{: .label .label-orange }]({{site.baseurl}}/hw/) |
-| #8: Mar 2      |    Invariant Kalman Filtering 1                                                                    |          |    |
+| #7: Feb 23       |  **National Day**                                                       |          |        |
+| #7: Feb 25      |  [Matrix Lie Groups 3](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_20_rigid_mody_motions_4.pdf?csf=1&web=1&e=2jG32Q)   |  | [**HW3 Due Mar. 1**{: .label .label-orange }]({{site.baseurl}}/hw/) |
+| #8: Mar 2      |    Invariant Kalman Filtering 1      Robot Motion and Uncertainty Propagation                                                              |          |    |
 | #8: Mar 4      |    Invariant Kalman Filtering 2    |  | [**HW4 Due Mar. 7**{: .label .label-orange }]({{site.baseurl}}/hw/) |
 | #9: Mar 9     |     Localization                                                                        |          |        |
 | #9: Mar 11      |  Occupancy Grid Mapping|  | [**HW5 Due Mar. 14**{: .label .label-orange }]({{site.baseurl}}/hw/) |
