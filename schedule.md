@@ -22,20 +22,21 @@ nav_order: 2
 | #7: Feb 23       |  **National Day**                                                       |          |        |
 | #7: Feb 25      |  [Matrix Lie Groups 3](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/02_20_rigid_mody_motions_4.pdf?csf=1&web=1&e=2jG32Q)   |  | [**HW3 Due Mar. 1**{: .label .label-orange }]({{site.baseurl}}/hw/) |
 | #8: Mar 2      |    Matrix Lie Groups 4                                                                    |          |    |
-| #8: Mar 4      |    Robot Motion and Uncertainty Propagation    |  | [**HW4 Due Mar. 7**{: .label .label-orange }]({{site.baseurl}}/hw/) |
+| #8: Mar 4      |    Robot Motion and Uncertainty Propagation    |  |  |
 | #9: Mar 9     |     Invariant Kalman Filtering                                                                         |          |        |
-| #9: Mar 11      |  Invariant Kalman Filtering |  | [**HW5 Due Mar. 14**{: .label .label-orange }]({{site.baseurl}}/hw/) |
+| #9: Mar 11      |  Invariant Kalman Filtering |  |  |
 | #10: Mar 16    |     Invariant Kalman Filtering                                                                          |          |        |
-| #10: Mar 18      |  Invariant Kalman Filtering |  | [**HW6 Due Mar. 21**{: .label .label-orange }]({{site.baseurl}}/hw/) |
+| #10: Mar 18      |  Invariant Kalman Filtering |  |  |
 |  Mar 23-Apr 3| **Eid AlFitr Break**| | |
 | #11: Apr 6 |  Occupancy Grid Mapping  & Robotics Mapping|          |        |
 | #11: Apr 8      | Optimization and Smoothing 1   |  | [**P2 Due Apr. 12**{: .label .label-orange }]({{site.baseurl}}/project/#final-report)  |
 | #12: Apr 13      |  Optimization and Smoothing 2                                                                       |          |        |
-| #12: Apr 15      |  Point Cloud Registration   |  | [**HW5 Due Apr. 25**{: .label .label-orange }]({{site.baseurl}}/hw/) |
+| #12: Apr 15      |  Point Cloud Registration   |  | [**HW4 Due Apr. 19**{: .label .label-orange }]({{site.baseurl}}/hw/) |
 | #13: Apr 20    |   RGB-D Visual Odometry                                  							            |          |        |
-| #13: Apr 22      | SLAM 1 |  | [**HW5 Due Apr. 25**{: .label .label-orange }]({{site.baseurl}}/hw/) |
+| #13: Apr 22      | SLAM 1 |  | [**HW5 Due Apr. 26**{: .label .label-orange }]({{site.baseurl}}/hw/) |
 | #14: Apr 27   |   SLAM 2                                                                         |          |        |
 | #14: Apr 29      |  |  |  |
 | #15: May 4 | | | |
-| #15: May 6      |  |  | [**P3 Due May. 11**{: .label .label-orange }]({{site.baseurl}}/project/#final-report) |
+| #15: May 6      |  |  | [**HW6 Due May. 10**{: .label .label-orange }]({{site.baseurl}}/hw/) |
+| #16: May 11 | | [**P3 Due May. 11**{: .label .label-orange }]({{site.baseurl}}/project/#final-report)|
 {: class="schedule-table"}
