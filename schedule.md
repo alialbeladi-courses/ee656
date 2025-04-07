@@ -26,9 +26,9 @@ nav_order: 2
 | #9: Mar 9     |     Invariant Kalman Filtering                                                                         |          |        |
 | #9: Mar 11      |  Invariant Kalman Filtering |  |  |
 | #10: Mar 16    |     Invariant Kalman Filtering                                                                          |          |        |
-| #10: Mar 18      |  Invariant Kalman Filtering |  |  |
+| #10: Mar 18      |  [Invariant Kalman Filtering](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/03_18_invariant_kalman_filter_full.pdf?csf=1&web=1&e=rzdmaK) |  |  |
 |  Mar 23-Apr 3| **Eid AlFitr Break**| | |
-| #11: Apr 6 |  Occupancy Grid Mapping  & Robotics Mapping|          |        |
+| #11: Apr 6 |  [Occupancy Grid Mapping](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/04_06_occupancy_grid_mapping.pdf?csf=1&web=1&e=0ypf80)|          |        |
 | #11: Apr 8      | Optimization and Smoothing 1   |  | [**P2 Due Apr. 12**{: .label .label-orange }]({{site.baseurl}}/project/#final-report)  |
 | #12: Apr 13      |  Optimization and Smoothing 2                                                                       |          |        |
 | #12: Apr 15      |  Point Cloud Registration   |  | [**HW4 Due Apr. 19**{: .label .label-orange }]({{site.baseurl}}/hw/) |
