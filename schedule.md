@@ -24,7 +24,7 @@ nav_order: 2
 | #8: Mar 2      |    Matrix Lie Groups 4                                                                    |          |    |
 | #8: Mar 4      |    Robot Motion and Uncertainty Propagation    |  |  |
 | #9: Mar 9     |     Invariant Kalman Filtering                                                                         |          |        |
-| #9: Mar 11      |  Invariant Kalman Filtering |  |  |
+| #9: Mar 11      |  [Localization Example Notebook](https://kfupmedusa.sharepoint.com/:f:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/SE2_localization_example?csf=1&web=1&e=ZaCru2) |  |  |
 | #10: Mar 16    |     Invariant Kalman Filtering                                                                          |          |        |
 | #10: Mar 18      |  [Invariant Kalman Filtering](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/03_18_invariant_kalman_filter_full.pdf?csf=1&web=1&e=rzdmaK) | [I-EKF Intro](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/An_Introduction_to_the_Invariant_Extended_Kalman_Filter_Lecture_Notes.pdf?csf=1&web=1&e=excpsU) |  |
 |  Mar 23-Apr 3| **Eid AlFitr Break**| | |
