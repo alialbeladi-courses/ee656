@@ -29,13 +29,13 @@ nav_order: 2
 | #10: Mar 18      |  [Invariant Kalman Filtering](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/03_18_invariant_kalman_filter_full.pdf?csf=1&web=1&e=rzdmaK) | [I-EKF Intro](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/An_Introduction_to_the_Invariant_Extended_Kalman_Filter_Lecture_Notes.pdf?csf=1&web=1&e=excpsU) |  |
 |  Mar 23-Apr 3| **Eid AlFitr Break**| | |
 | #11: Apr 6 |  [Occupancy Grid Mapping](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/04_06_occupancy_grid_mapping.pdf?csf=1&web=1&e=0ypf80)|          |        |
-| #11: Apr 8      | Optimization and Smoothing 1   |  | [**P2 Due Apr. 12**{: .label .label-orange }]({{site.baseurl}}/project/#final-report)  |
-| #12: Apr 13      |  Optimization and Smoothing 2                                                                       |          |        |
-| #12: Apr 15      |  Point Cloud Registration   |  | [**HW4 Due Apr. 19**{: .label .label-orange }]({{site.baseurl}}/hw/) |
-| #13: Apr 20    |   RGB-D Visual Odometry                                  							            |          |        |
-| #13: Apr 22      | SLAM 1 |  | [**HW5 Due Apr. 26**{: .label .label-orange }]({{site.baseurl}}/hw/) |
-| #14: Apr 27   |   SLAM 2                                                                         |          |        |
-| #14: Apr 29      |  |  |  |
+| #11: Apr 8      | [Optimization and Smoothing 1](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/04_08_optimization_1.pdf?csf=1&web=1&e=fW8qYk)   |  | [**P2 Due Apr. 12**{: .label .label-orange }]({{site.baseurl}}/project/#final-report)  |
+| #12: Apr 13      |                                                                        |          |        |
+| #12: Apr 15      |  [Optimization and Smoothing 2](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/04_15_optimization_2.pdf?csf=1&web=1&e=YEgLFn) |  | [**HW4 Due Apr. 19**{: .label .label-orange }]({{site.baseurl}}/hw/) |
+| #13: Apr 20    |  [ Optimization on Lie Groups ](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/04_20_optimization_lie_group.pdf?csf=1&web=1&e=8ydlMz)                                							            |          |        |
+| #13: Apr 22      | [Point Cloud Registration](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/04_22_pointcloud_registration.pdf?csf=1&web=1&e=OlHxjF) |  | [**HW5 Due Apr. 26**{: .label .label-orange }]({{site.baseurl}}/hw/) |
+| #14: Apr 27   |                                                                           |          |        |
+| #14: Apr 29      | SLAM |  |  |
 | #15: May 4 | | | |
 | #15: May 6      |  |  | [**HW6 Due May. 10**{: .label .label-orange }]({{site.baseurl}}/hw/) |
 | #16: May 11 | | [**P3 Due May. 11**{: .label .label-orange }]({{site.baseurl}}/project/#final-report)|
