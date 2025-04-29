@@ -35,7 +35,7 @@ nav_order: 2
 | #13: Apr 20    |  [ Optimization on Lie Groups ](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/04_20_optimization_lie_group.pdf?csf=1&web=1&e=8ydlMz)                                							            |          |        |
 | #13: Apr 22      | [Point Cloud Registration](https://kfupmedusa.sharepoint.com/:b:/r/sites/Section_242121295/Class%20Materials/Lecture%20Slides/04_22_pointcloud_registration.pdf?csf=1&web=1&e=OlHxjF) |  | [**HW5 Due Apr. 26**{: .label .label-orange }]({{site.baseurl}}/hw/) |
 | #14: Apr 27   |                                                                           |          |        |
-| #14: Apr 29      | SLAM |  |  |
+| #14: Apr 29      | SLAM | [[TBF]]({{site.baseurl}}/#textbooks) Ch.11 and  [Graph-Slam Lecture](https://www.youtube.com/watch?v=uHbRKvD8TWg)|  |
 | #15: May 4 | | | |
 | #15: May 6      |  |  | [**HW6 Due May. 10**{: .label .label-orange }]({{site.baseurl}}/hw/) |
 | #16: May 11 | | [**P3 Due May. 11**{: .label .label-orange }]({{site.baseurl}}/project/#final-report)|
