@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Homework Policies"
 format: html
@@ -83,4 +82,3 @@ Regrade requests must be submitted via the course submission system (e.g., Grade
 ### Illegitimate regrade requests
 - Disagreeing with the rubric without a grading error.
 - “My solution wasn’t clear, but what I meant is correct.”
-```

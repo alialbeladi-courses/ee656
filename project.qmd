@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Project"
 format: html
@@ -108,4 +107,4 @@ Yes, but cite it and clearly state what you implemented vs reused.
 
 **What if our results are negative?**  
 That’s okay. A good project can show what didn’t work and why, as long as the evaluation is thoughtful.
-```
+

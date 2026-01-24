@@ -13,7 +13,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: calendar.qmd
+      - href: schedule.qmd
         text: Schedule
       - href: homework.qmd
         text: Homework
