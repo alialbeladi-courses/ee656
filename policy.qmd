@@ -1,0 +1,81 @@
+---
+title: "Course Policy"
+format: html
+toc: true
+---
+
+::: {.callout-note appearance="minimal"}
+## EE656 Course Policy
+This page summarizes grading, collaboration rules, and course resources.  
+Updates will be reflected here throughout the semester.
+:::
+
+---
+
+## Grading
+
+::: {.callout-important appearance="minimal"}
+### Grading scheme (overview)
+
+| Component | Weight | What it includes |
+|---|---:|---|
+| **Assignments** | **40%** | Homework sets and programming/computation tasks |
+| **Quizzes** | **20%** | Short quizzes (in-class or announced) |
+| **Project** | **40%** | Proposal, checkpoint, final report, and presentation/demo |
+
+:::
+
+::: {.callout-note appearance="minimal"}
+**Note:** Exact quiz count/timing and project milestone dates will be posted on the Schedule and Project pages.
+:::
+
+---
+
+## Academic integrity and collaboration
+
+::: {.callout-warning appearance="minimal"}
+### What is allowed vs not allowed
+
+✅ **Allowed**
+- Discussing concepts and approaches at a high level with classmates
+- Studying together and comparing understanding *without sharing written solutions*
+- Using course notes and posted examples
+
+❌ **Not allowed**
+- Copying any part of another student’s written solution
+- Copying code, derivations, or calculations (even if you “understand it”)
+- Submitting work that is not fully your own
+:::
+
+If you collaborate, your submitted work must be written independently and reflect your own understanding.
+
+---
+
+## Generative AI tools
+
+::: {.callout-important appearance="minimal"}
+Unless explicitly permitted by the instructor for a specific assignment, the use of generative AI tools for any part of your submitted work is **not allowed** and will be treated as plagiarism.
+:::
+
+---
+
+## Resources
+
+::: {.columns}
+::: {.column width="50%"}
+### Textbooks
+- **Main:** *TBA* (will be announced in Week 1)
+- **Optional:** *TBA*
+:::
+
+::: {.column width="50%"}
+### Software
+- MATLAB/Simulink and/or Python may be used for assignments and project work (details will be announced).
+:::
+:::
+
+::: {.callout-tip appearance="minimal"}
+### Recommendation
+If you need a refresher on rigid-body transformations, Jacobians, and basic dynamics, start reviewing early.  
+The Schedule page will list what you need for each week.
+:::

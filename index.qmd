@@ -16,7 +16,7 @@ A graduate-level course on modeling and control of robotic manipulators: kinemat
 
 **Before the first lecture**
 - Read the [Course Policy](policy.qmd) (grading, expectations, integrity)
-- Check the [Schedule & Materials](calendar.qmd) for this week’s topics and slides
+- Check the [Schedule & Materials](schedule.qmd) for this week’s topics and slides
 - Review the [Homework](homework.qmd) page (deadlines and submission format)
 - Skim the [Project](project.qmd) page (milestones and deliverables)
 
@@ -30,7 +30,7 @@ This website is the **single source of truth** for announcements, schedule updat
 ## Quick links
 
 [📘 Course Policy](policy.qmd){.btn .btn-primary .btn-lg .d-block .mb-2}
-[📅 Schedule & Materials](calendar.qmd){.btn .btn-outline-primary .btn-lg .d-block .mb-2}
+[📅 Schedule & Materials](schedule.qmd){.btn .btn-outline-primary .btn-lg .d-block .mb-2}
 [📝 Homework](homework.qmd){.btn .btn-outline-primary .btn-lg .d-block .mb-2}
 [🧩 Modules](modules.qmd){.btn .btn-outline-primary .btn-lg .d-block .mb-2}
 [🚀 Project](project.qmd){.btn .btn-outline-primary .btn-lg .d-block .mb-3}
@@ -51,7 +51,7 @@ This website is the **single source of truth** for announcements, schedule updat
 ::: {.card .mb-3}
 ::: {.card-body}
 ### Week 1 — Getting started
-Welcome! Please review the [Course Policy](policy.qmd) and bookmark the [Schedule](calendar.qmd) and [Homework](homework.qmd) pages.
+Welcome! Please review the [Course Policy](policy.qmd) and bookmark the [Schedule](schedule.qmd) and [Homework](homework.qmd) pages.
 :::
 :::
 
