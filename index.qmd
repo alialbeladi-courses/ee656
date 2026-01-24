@@ -30,7 +30,6 @@ This website is the **single source of truth** for announcements, schedule updat
 [📘 Course Policy](policy.qmd){.btn .btn-primary .btn-sm w-100 .mb-2}
 [📅 Schedule & Materials](calendar.qmd){.btn .btn-outline-primary .btn-sm w-100 .mb-2}
 [📝 Homework](homework.qmd){.btn .btn-outline-primary .btn-sm w-100 .mb-2}
-[🧩 Modules](modules.qmd){.btn .btn-outline-primary .btn-sm w-100 .mb-2}
 [🚀 Project](project.qmd){.btn .btn-outline-primary .btn-sm w-100}
 :::
 
