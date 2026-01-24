@@ -44,13 +44,37 @@
   {
     "objectID": "homework.html",
     "href": "homework.html",
-    "title": "EE656: Robotics & Control",
+    "title": "Homework",
     "section": "",
-    "text": "---\ntitle: \"Homework\"\nformat: html\ntoc: true\n---\n\n::: {.callout-note appearance=\"minimal\"}\n## Submission\nHomework is due by **11:59 PM (Asia/Riyadh)** unless stated otherwise.  \nSubmit via Gradescope (link/code will be posted when available).\n:::\n\n---\n\n## Assignments\n\n| Assignment | Release | Due | Files |\n|---|---:|---:|---|\n| **HW 1** | TBA | TBA | — |\n| **HW 2** | TBA | TBA | — |\n| **HW 3** | TBA | TBA | — |\n\n::: {.callout-tip appearance=\"minimal\"}\n### Quick checklist (submission)\n- Submit **one PDF** (clear scans, high contrast).\n- Start **each question on a new page** (recommended).\n- If asked to submit code, include it in the PDF **or** as a separate file as instructed.\n- Make sure your work is **readable**. Illegible submissions may lose points.\n:::\n\n---\n\n## Policies\n\n::: {.callout-warning appearance=\"minimal\"}\n### Late days\nYou have **6 late days** total, with a maximum of **2 late days per assignment**.  \nEach late day is a **24-hour extension** (e.g., Wed 11:59 PM → Thu 11:59 PM = 1 late day).  \nNo credit is given after **48 hours** past the deadline, or after late days are exhausted.\n:::\n\n::: {.accordion}\n::: {.accordion-item}\n### Collaboration policy and honor code\nHomework must be completed **individually**.  \nYou may discuss concepts and approaches at a high level, but your submitted work must be entirely your own.\n\n- Copying any part of another student’s solution is not allowed.\n- Copying code or derivations is not allowed.\n\nSmall snippets of publicly available code (e.g., StackOverflow) may be used **only if properly attributed**, and only when permitted by the homework instructions.\n:::\n\n::: {.accordion-item}\n### Generative AI tools policy\nUnless explicitly permitted by the instructor for a specific assignment, the use of generative AI tools for any part of your homework is **not allowed** and will be treated as plagiarism.\n:::\n\n::: {.accordion-item}\n### Regrade policy\nRegrade requests are submitted through Gradescope. Include a clear explanation of the grading error.\n\n- Deadline: within **1 week** of receiving your grade, by **11:59 PM**.\n- We may regrade the entire assignment (your score may go **up or down**).\n\n**Legitimate requests**\n- Points were added incorrectly.\n- The answer exists but was on a different page.\n- The grader claims a specific case fails, but your implementation works for that case.\n\n**Illegitimate requests**\n- Disagreeing with the rubric / asking for more partial credit without an error.\n- “My solution wasn’t clear, but what I meant was correct.”\n:::\n:::",
+    "text": "NoteSubmission\n\n\n\nHomework is due by 11:59 PM (Asia/Riyadh) unless stated otherwise.\nSubmit via Gradescope (link/code will be posted when available).",
     "crumbs": [
       "Home",
       "Assignments",
-      "```markdown"
+      "Homework"
+    ]
+  },
+  {
+    "objectID": "homework.html#assignments",
+    "href": "homework.html#assignments",
+    "title": "Homework",
+    "section": "Assignments",
+    "text": "Assignments\n\n\n\nAssignment\nRelease\nDue\nFiles\n\n\n\n\nHW 1\nTBA\nTBA\n—\n\n\nHW 2\nTBA\nTBA\n—\n\n\nHW 3\nTBA\nTBA\n—\n\n\n\n\n\n\n\n\n\nTipQuick checklist (submission)\n\n\n\n\nSubmit one PDF (clear scans, high contrast).\nStart each question on a new page (recommended).\nIf asked to submit code, include it in the PDF or as a separate file as instructed.\nMake sure your work is readable. Illegible submissions may lose points.",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Homework"
+    ]
+  },
+  {
+    "objectID": "homework.html#policies",
+    "href": "homework.html#policies",
+    "title": "Homework",
+    "section": "Policies",
+    "text": "Policies\n\n\n\n\n\n\nWarningLate days\n\n\n\nYou have 6 late days total, with a maximum of 2 late days per assignment.\nEach late day is a 24-hour extension (e.g., Wed 11:59 PM → Thu 11:59 PM = 1 late day).\nNo credit is given after 48 hours past the deadline, or after late days are exhausted.\n\n\n\n\nCollaboration policy and honor code\nHomework must be completed individually.\nYou may discuss concepts and approaches at a high level, but your submitted work must be entirely your own.\n\nCopying any part of another student’s solution is not allowed.\nCopying code or derivations is not allowed.\n\nSmall snippets of publicly available code (e.g., StackOverflow) may be used only if properly attributed, and only when permitted by the homework instructions.\n\n\nGenerative AI tools policy\nUnless explicitly permitted by the instructor for a specific assignment, the use of generative AI tools for any part of your homework is not allowed and will be treated as plagiarism.\n\n\nRegrade policy\nRegrade requests are submitted through Gradescope. Include a clear explanation of the grading error.\n\nDeadline: within 1 week of receiving your grade, by 11:59 PM.\nWe may regrade the entire assignment (your score may go up or down).\n\nLegitimate requests - Points were added incorrectly. - The answer exists but was on a different page. - The grader claims a specific case fails, but your implementation works for that case.\nIllegitimate requests - Disagreeing with the rubric / asking for more partial credit without an error. - “My solution wasn’t clear, but what I meant was correct.”",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Homework"
     ]
   },
   {
@@ -164,20 +188,151 @@
   {
     "objectID": "project.html",
     "href": "project.html",
-    "title": "EE656: Robotics & Control",
+    "title": "Project",
     "section": "",
-    "text": "---\ntitle: \"Project\"\nformat: html\ntoc: true\n---\n\n::: {.callout-note appearance=\"minimal\"}\n## EE656 Course Project\nThe project is a major part of the course and is designed to develop practical skill in **robot modeling and control**.\nYou will choose a topic, implement/validate a method, and communicate results in a short technical report and presentation.\n:::\n\n---\n\n## Overview\n\n### Goal\nBuild and evaluate a robotics/control solution that connects course theory to a realistic problem.\n\n**Typical project directions**\n- Modeling + control of a manipulator (joint-space control, computed torque, gravity compensation)\n- Kinematics/IK with constraints and singularity handling\n- Trajectory generation and tracking performance comparison\n- Dynamics identification or parameter sensitivity analysis\n- Task-space control concepts (if covered/time-permitting)\n\n::: {.callout-tip appearance=\"minimal\"}\n### Recommended scope\nA strong project is **small but complete**: clear problem statement → method → implementation → evaluation → conclusions.\n:::\n\n---\n\n## Team rules\n\n- Teams of **1–3 students** (unless announced otherwise).\n- Everyone must contribute to implementation and writing.\n- You may use simulation environments and public libraries, but you must **cite** external resources and clearly state what you reused.\n\n---\n\n## Deliverables\n\n| Deliverable | What to submit | Notes |\n|---|---|---|\n| **Proposal** | 1–2 pages PDF | problem, approach, expected results, tools, timeline |\n| **Checkpoint** | short update (slides or memo) | what works, what doesn’t, next steps |\n| **Final report** | 6–10 pages PDF | conference-style writing with figures and results |\n| **Presentation / demo** | slides + (optional) short video | 8–12 minutes typical |\n\n::: {.callout-important appearance=\"minimal\"}\n### Report quality expectations\nYour report should include: **problem statement**, **method**, **implementation details**, **results**, and **discussion**.\nPlots must be labeled and readable; claims must be supported by results.\n:::\n\n---\n\n## Milestones (template)\n\nDates will be posted on the Schedule page. This is the typical flow:\n\n- **Week 2–3:** topic selection + team formation\n- **Week 4:** proposal due\n- **Week 7–8:** checkpoint / early results\n- **Final weeks:** final report + presentation/demo\n\n---\n\n## Evaluation rubric (high level)\n\n| Category | Weight | What we look for |\n|---|---:|---|\n| **Technical correctness** | 35% | correct formulation, sound method, correct implementation |\n| **Results & evaluation** | 30% | meaningful experiments, clear comparisons, insights |\n| **Clarity & communication** | 20% | well-structured report, readable figures, clear writing |\n| **Originality & ambition** | 15% | thoughtful problem choice, extensions beyond baseline |\n\n---\n\n## Topic ideas (starter list)\n\n- Compare **PD vs computed-torque** on a 2-link arm (tracking + robustness tests)\n- Study **IK methods** (Jacobian transpose vs pseudoinverse vs damped least squares)\n- Analyze **singularities** and mitigation strategies in task-space motion\n- Trajectory design: compare **cubic vs quintic** polynomials for smoothness and tracking\n- Add constraints: joint limits, velocity limits, simple obstacle avoidance\n\n---\n\n## Academic integrity\n\n::: {.callout-warning appearance=\"minimal\"}\nYou may collaborate within your team, but the final submission must reflect your team’s own work.\nAll external resources (code, figures, ideas) must be **cited**.\n:::\n\n---\n\n## FAQ\n\n**Do we need hardware?**  \nNo—simulation-only projects are acceptable and often recommended.\n\n**Can we reuse code?**  \nYes, but cite it and clearly state what you implemented vs reused.\n\n**What if our results are negative?**  \nThat’s okay. A good project can show what didn’t work and why, as long as the evaluation is thoughtful.",
+    "text": "NoteEE656 Course Project\n\n\n\nThe project is a major part of the course and is designed to develop practical skill in robot modeling and control. You will choose a topic, implement/validate a method, and communicate results in a short technical report and presentation.",
     "crumbs": [
       "Home",
       "Project",
-      "```markdown"
+      "Project"
+    ]
+  },
+  {
+    "objectID": "project.html#overview",
+    "href": "project.html#overview",
+    "title": "Project",
+    "section": "Overview",
+    "text": "Overview\n\nGoal\nBuild and evaluate a robotics/control solution that connects course theory to a realistic problem.\nTypical project directions - Modeling + control of a manipulator (joint-space control, computed torque, gravity compensation) - Kinematics/IK with constraints and singularity handling - Trajectory generation and tracking performance comparison - Dynamics identification or parameter sensitivity analysis - Task-space control concepts (if covered/time-permitting)\n\n\n\n\n\n\nTipRecommended scope\n\n\n\nA strong project is small but complete: clear problem statement → method → implementation → evaluation → conclusions.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project"
+    ]
+  },
+  {
+    "objectID": "project.html#team-rules",
+    "href": "project.html#team-rules",
+    "title": "Project",
+    "section": "Team rules",
+    "text": "Team rules\n\nTeams of 1–3 students (unless announced otherwise).\nEveryone must contribute to implementation and writing.\nYou may use simulation environments and public libraries, but you must cite external resources and clearly state what you reused.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project"
+    ]
+  },
+  {
+    "objectID": "project.html#deliverables",
+    "href": "project.html#deliverables",
+    "title": "Project",
+    "section": "Deliverables",
+    "text": "Deliverables\n\n\n\n\n\n\n\n\nDeliverable\nWhat to submit\nNotes\n\n\n\n\nProposal\n1–2 pages PDF\nproblem, approach, expected results, tools, timeline\n\n\nCheckpoint\nshort update (slides or memo)\nwhat works, what doesn’t, next steps\n\n\nFinal report\n6–10 pages PDF\nconference-style writing with figures and results\n\n\nPresentation / demo\nslides + (optional) short video\n8–12 minutes typical\n\n\n\n\n\n\n\n\n\nImportantReport quality expectations\n\n\n\nYour report should include: problem statement, method, implementation details, results, and discussion. Plots must be labeled and readable; claims must be supported by results.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project"
+    ]
+  },
+  {
+    "objectID": "project.html#milestones-template",
+    "href": "project.html#milestones-template",
+    "title": "Project",
+    "section": "Milestones (template)",
+    "text": "Milestones (template)\nDates will be posted on the Schedule page. This is the typical flow:\n\nWeek 2–3: topic selection + team formation\nWeek 4: proposal due\nWeek 7–8: checkpoint / early results\nFinal weeks: final report + presentation/demo",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project"
+    ]
+  },
+  {
+    "objectID": "project.html#evaluation-rubric-high-level",
+    "href": "project.html#evaluation-rubric-high-level",
+    "title": "Project",
+    "section": "Evaluation rubric (high level)",
+    "text": "Evaluation rubric (high level)\n\n\n\n\n\n\n\n\nCategory\nWeight\nWhat we look for\n\n\n\n\nTechnical correctness\n35%\ncorrect formulation, sound method, correct implementation\n\n\nResults & evaluation\n30%\nmeaningful experiments, clear comparisons, insights\n\n\nClarity & communication\n20%\nwell-structured report, readable figures, clear writing\n\n\nOriginality & ambition\n15%\nthoughtful problem choice, extensions beyond baseline",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project"
+    ]
+  },
+  {
+    "objectID": "project.html#topic-ideas-starter-list",
+    "href": "project.html#topic-ideas-starter-list",
+    "title": "Project",
+    "section": "Topic ideas (starter list)",
+    "text": "Topic ideas (starter list)\n\nCompare PD vs computed-torque on a 2-link arm (tracking + robustness tests)\nStudy IK methods (Jacobian transpose vs pseudoinverse vs damped least squares)\nAnalyze singularities and mitigation strategies in task-space motion\nTrajectory design: compare cubic vs quintic polynomials for smoothness and tracking\nAdd constraints: joint limits, velocity limits, simple obstacle avoidance",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project"
+    ]
+  },
+  {
+    "objectID": "project.html#academic-integrity",
+    "href": "project.html#academic-integrity",
+    "title": "Project",
+    "section": "Academic integrity",
+    "text": "Academic integrity\n\n\n\n\n\n\nYou may collaborate within your team, but the final submission must reflect your team’s own work. All external resources (code, figures, ideas) must be cited.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project"
+    ]
+  },
+  {
+    "objectID": "project.html#faq",
+    "href": "project.html#faq",
+    "title": "Project",
+    "section": "FAQ",
+    "text": "FAQ\nDo we need hardware?\nNo—simulation-only projects are acceptable and often recommended.\nCan we reuse code?\nYes, but cite it and clearly state what you implemented vs reused.\nWhat if our results are negative?\nThat’s okay. A good project can show what didn’t work and why, as long as the evaluation is thoughtful.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project"
     ]
   },
   {
     "objectID": "hw_policy.html",
     "href": "hw_policy.html",
-    "title": "EE656: Robotics & Control",
+    "title": "Homework Policies",
     "section": "",
-    "text": "---\ntitle: \"Homework Policies\"\nformat: html\ntoc: true\n---\n\n::: {.callout-note appearance=\"minimal\"}\n## Homework Policies (EE656)\nThis page contains homework rules and procedures. For due dates and files, see the\n[Homework](homework.qmd) page.\n:::\n\n---\n\n## Submission guidelines\n\n::: {.callout-tip appearance=\"minimal\"}\n### What to submit\n- Submit a **single PDF** unless the assignment explicitly requests additional files.\n- Your submission must be **clear and readable** (high-quality scan or direct PDF export).\n- If code is required, include it **as instructed** (either embedded in the PDF or as a separate upload).\n:::\n\n### Good practices\n- Start **each question on a new page** (recommended).\n- For multi-page answers, keep pages in order and label them clearly.\n- If using Gradescope, map **pages to questions** accurately.\n\n---\n\n## Late day policy\n\n::: {.callout-warning appearance=\"minimal\"}\nYou have **6 late days** total for the semester, with a maximum of **2 late days per assignment**.\n\n- Each late day is a **24-hour extension**.\n- No credit is given after **48 hours** past the deadline.\n- You are responsible for tracking your remaining late days.\n:::\n\n---\n\n## Collaboration policy and honor code\n\n::: {.callout-warning appearance=\"minimal\"}\n### Collaboration rules\n✅ **Allowed**\n- Discussing concepts and high-level approaches with classmates\n- Studying together and comparing understanding *without sharing written solutions*\n\n❌ **Not allowed**\n- Copying any part of another student’s solution\n- Sharing or copying code, derivations, or calculations\n- Submitting work that is not fully your own\n:::\n\nIf you use any external resources (e.g., a textbook example, an online reference, or a small snippet of code),\nyou must **cite it clearly** in your submission.\n\n---\n\n## Generative AI tools policy\n\n::: {.callout-important appearance=\"minimal\"}\nUnless explicitly permitted by the instructor for a specific homework, the use of generative AI tools for any part of your work is **not allowed** and will be treated as plagiarism.\n:::\n\n---\n\n## Regrade policy\n\nRegrade requests must be submitted via the course submission system (e.g., Gradescope) and must include a clear explanation.\n\n- Deadline: within **1 week** of receiving your grade, by **11:59 PM**.\n- We reserve the right to regrade the **entire** homework; your score may go **up or down**.\n\n### Legitimate regrade requests\n- Points were added incorrectly.\n- The grader missed your work because it was on a different page.\n- The grader claims your method fails in a specific case, but it works as implemented.\n\n### Illegitimate regrade requests\n- Disagreeing with the rubric without a grading error.\n- “My solution wasn’t clear, but what I meant is correct.”"
+    "text": "NoteHomework Policies (EE656)\n\n\n\nThis page contains homework rules and procedures. For due dates and files, see the Homework page."
+  },
+  {
+    "objectID": "hw_policy.html#submission-guidelines",
+    "href": "hw_policy.html#submission-guidelines",
+    "title": "Homework Policies",
+    "section": "Submission guidelines",
+    "text": "Submission guidelines\n\n\n\n\n\n\nTipWhat to submit\n\n\n\n\nSubmit a single PDF unless the assignment explicitly requests additional files.\nYour submission must be clear and readable (high-quality scan or direct PDF export).\nIf code is required, include it as instructed (either embedded in the PDF or as a separate upload).\n\n\n\n\nGood practices\n\nStart each question on a new page (recommended).\nFor multi-page answers, keep pages in order and label them clearly.\nIf using Gradescope, map pages to questions accurately."
+  },
+  {
+    "objectID": "hw_policy.html#late-day-policy",
+    "href": "hw_policy.html#late-day-policy",
+    "title": "Homework Policies",
+    "section": "Late day policy",
+    "text": "Late day policy\n\n\n\n\n\n\nYou have 6 late days total for the semester, with a maximum of 2 late days per assignment.\n\nEach late day is a 24-hour extension.\nNo credit is given after 48 hours past the deadline.\nYou are responsible for tracking your remaining late days."
+  },
+  {
+    "objectID": "hw_policy.html#collaboration-policy-and-honor-code",
+    "href": "hw_policy.html#collaboration-policy-and-honor-code",
+    "title": "Homework Policies",
+    "section": "Collaboration policy and honor code",
+    "text": "Collaboration policy and honor code\n\n\n\n\n\n\nWarningCollaboration rules\n\n\n\n✅ Allowed - Discussing concepts and high-level approaches with classmates - Studying together and comparing understanding without sharing written solutions\n❌ Not allowed - Copying any part of another student’s solution - Sharing or copying code, derivations, or calculations - Submitting work that is not fully your own\n\n\nIf you use any external resources (e.g., a textbook example, an online reference, or a small snippet of code), you must cite it clearly in your submission."
+  },
+  {
+    "objectID": "hw_policy.html#generative-ai-tools-policy",
+    "href": "hw_policy.html#generative-ai-tools-policy",
+    "title": "Homework Policies",
+    "section": "Generative AI tools policy",
+    "text": "Generative AI tools policy\n\n\n\n\n\n\nUnless explicitly permitted by the instructor for a specific homework, the use of generative AI tools for any part of your work is not allowed and will be treated as plagiarism."
+  },
+  {
+    "objectID": "hw_policy.html#regrade-policy",
+    "href": "hw_policy.html#regrade-policy",
+    "title": "Homework Policies",
+    "section": "Regrade policy",
+    "text": "Regrade policy\nRegrade requests must be submitted via the course submission system (e.g., Gradescope) and must include a clear explanation.\n\nDeadline: within 1 week of receiving your grade, by 11:59 PM.\nWe reserve the right to regrade the entire homework; your score may go up or down.\n\n\nLegitimate regrade requests\n\nPoints were added incorrectly.\nThe grader missed your work because it was on a different page.\nThe grader claims your method fails in a specific case, but it works as implemented.\n\n\n\nIllegitimate regrade requests\n\nDisagreeing with the rubric without a grading error.\n“My solution wasn’t clear, but what I meant is correct.”"
   }
 ]
