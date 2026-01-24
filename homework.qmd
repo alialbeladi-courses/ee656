@@ -1,0 +1,77 @@
+```markdown
+---
+title: "Homework"
+format: html
+toc: true
+---
+
+::: {.callout-note appearance="minimal"}
+## Submission
+Homework is due by **11:59 PM (Asia/Riyadh)** unless stated otherwise.  
+Submit via Gradescope (link/code will be posted when available).
+:::
+
+---
+
+## Assignments
+
+| Assignment | Release | Due | Files |
+|---|---:|---:|---|
+| **HW 1** | TBA | TBA | — |
+| **HW 2** | TBA | TBA | — |
+| **HW 3** | TBA | TBA | — |
+
+::: {.callout-tip appearance="minimal"}
+### Quick checklist (submission)
+- Submit **one PDF** (clear scans, high contrast).
+- Start **each question on a new page** (recommended).
+- If asked to submit code, include it in the PDF **or** as a separate file as instructed.
+- Make sure your work is **readable**. Illegible submissions may lose points.
+:::
+
+---
+
+## Policies
+
+::: {.callout-warning appearance="minimal"}
+### Late days
+You have **6 late days** total, with a maximum of **2 late days per assignment**.  
+Each late day is a **24-hour extension** (e.g., Wed 11:59 PM → Thu 11:59 PM = 1 late day).  
+No credit is given after **48 hours** past the deadline, or after late days are exhausted.
+:::
+
+::: {.accordion}
+::: {.accordion-item}
+### Collaboration policy and honor code
+Homework must be completed **individually**.  
+You may discuss concepts and approaches at a high level, but your submitted work must be entirely your own.
+
+- Copying any part of another student’s solution is not allowed.
+- Copying code or derivations is not allowed.
+
+Small snippets of publicly available code (e.g., StackOverflow) may be used **only if properly attributed**, and only when permitted by the homework instructions.
+:::
+
+::: {.accordion-item}
+### Generative AI tools policy
+Unless explicitly permitted by the instructor for a specific assignment, the use of generative AI tools for any part of your homework is **not allowed** and will be treated as plagiarism.
+:::
+
+::: {.accordion-item}
+### Regrade policy
+Regrade requests are submitted through Gradescope. Include a clear explanation of the grading error.
+
+- Deadline: within **1 week** of receiving your grade, by **11:59 PM**.
+- We may regrade the entire assignment (your score may go **up or down**).
+
+**Legitimate requests**
+- Points were added incorrectly.
+- The answer exists but was on a different page.
+- The grader claims a specific case fails, but your implementation works for that case.
+
+**Illegitimate requests**
+- Disagreeing with the rubric / asking for more partial credit without an error.
+- “My solution wasn’t clear, but what I meant was correct.”
+:::
+:::
+```
