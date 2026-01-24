@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "homework.html",
+    "href": "homework.html",
+    "title": "Homework",
+    "section": "",
+    "text": "NoteSubmission\n\n\n\nAssignments are due by 11:59 PM (Asia/Riyadh) and submitted on Gradescope.\nOpen Gradescope Entry code: D684VR",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Homework"
+    ]
+  },
+  {
+    "objectID": "homework.html#assignments",
+    "href": "homework.html#assignments",
+    "title": "Homework",
+    "section": "Assignments",
+    "text": "Assignments\n\n\n\nAssignment\nRelease\nDue\nFiles\n\n\n\n\nHW 1\nJan 23\nJan 31\nHW1 PDF\n\n\nHW 2\nTBA\nTBA\n—\n\n\nHW 3\nTBA\nTBA\n—\n\n\n\n\n\n\n\n\n\nTipQuick checklist (Gradescope)\n\n\n\n\nSubmit one PDF (clear scans, high contrast).\nStart each question on a new page (recommended).\nUse Gradescope’s tool to map pages → questions.\nIf the grader cannot read it, they may request a resubmission or deduct points.\nFor multi-page answers, link all relevant pages to that question.\n\n\n\nNeed help submitting? See Gradescope’s student guide: How to submit variable-length assignments",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Homework"
+    ]
+  },
+  {
+    "objectID": "homework.html#policies",
+    "href": "homework.html#policies",
+    "title": "Homework",
+    "section": "Policies",
+    "text": "Policies\n\n\n\n\n\n\nWarningLate days\n\n\n\nYou have 6 late days total, with a maximum of 2 late days per assignment.\nEach late day is a 24-hour extension (e.g., Wed 11:59 PM → Thu 11:59 PM = 1 late day).\nNo credit is given after 48 hours past the deadline, or after late days are exhausted.\n\n\n\n\nCollaboration policy and honor code\nStudents must work individually on all homework assignments.\nYou may have high-level discussions with classmates, but anything you submit must be your own work.\nYou may reuse small snippets of publicly available code (e.g., StackOverflow) only if properly attributed.\n\n\nGenerative AI tools policy\nIn this course, every element of class assignments must be fully prepared by the student.\nThe use of generative AI tools for any part of your work is not allowed and will be treated as plagiarism — unless it is explicitly permitted and announced by the instructor.\n\n\nRegrade policy\nRegrade requests are submitted through Gradescope. Include a clear explanation of the grading error.\n\nDeadline: within 1 week of receiving your grade, by 11:59 PM.\nWe may regrade the entire assignment (your score may go up or down).\n\nLegitimate requests - Points were added incorrectly. - The answer exists but was on a different page. - The grader claims a specific case fails, but your implementation works for that case.\nIllegitimate requests - Disagreeing with the rubric / asking for more partial credit without an error. - “My solution wasn’t clear, but what I meant was correct.”",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Homework"
+    ]
+  },
+  {
+    "objectID": "policy.html",
+    "href": "policy.html",
+    "title": "Course Policy",
+    "section": "",
+    "text": "NoteEE380 Course Policy\n\n\n\nThis page summarizes grading, collaboration rules, and course resources.\nUpdates will be reflected here throughout the semester.",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "Course Policy"
+    ]
+  },
+  {
+    "objectID": "policy.html#grading",
+    "href": "policy.html#grading",
+    "title": "Course Policy",
+    "section": "Grading",
+    "text": "Grading\n\n\n\n\n\n\nImportantGrading scheme (overview)\n\n\n\n\n\n\n\n\n\n\n\nComponent\nWeight\nWhat it includes\n\n\n\n\nClasswork\n25%\nHomework, quizzes, in-class activities (and project, if assigned)\n\n\nMajor exams\n40%\nTBA (will be announced early in the semester)\n\n\nFinal exam\n35%\nTBA (university schedule)\n\n\n\n\n\n\n\n\n\n\n\nNote: Details such as the number of quizzes/exams, coverage, and formatting rules will be announced and posted here once finalized.",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "Course Policy"
+    ]
+  },
+  {
+    "objectID": "policy.html#academic-integrity-and-collaboration",
+    "href": "policy.html#academic-integrity-and-collaboration",
+    "title": "Course Policy",
+    "section": "Academic integrity and collaboration",
+    "text": "Academic integrity and collaboration\n\n\n\n\n\n\nWarningWhat is allowed vs not allowed\n\n\n\n✅ Allowed - Discussing concepts and approaches at a high level with classmates\n- Using course notes and posted examples\n- Studying together\n❌ Not allowed - Copying any part of another student’s written solution\n- Copying code, derivations, or calculations (even if you “understand it”)\n- Submitting work that is not fully your own\n\n\nIf you collaborate, your submitted work must be written independently and reflect your own understanding.",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "Course Policy"
+    ]
+  },
+  {
+    "objectID": "policy.html#resources",
+    "href": "policy.html#resources",
+    "title": "Course Policy",
+    "section": "Resources",
+    "text": "Resources\n\n\n\nTextbooks\n\nMain: R. Dorf & R. Bishop, Modern Control Systems, 13th ed. (2017)\nOptional: Franklin, Powell, Emami-Naeini, Feedback Control of Dynamic Systems, 8th ed.\n\n\n\n\nSoftware\n\nMATLAB/Simulink for computational work\nPython may be used for selected demos or optional simulations\n\n\n\n\n\n\n\n\n\n\nTipRecommendation\n\n\n\nIf you’re rusty on Laplace transforms and differential equations, spend a little time reviewing them in Week 1–2.\nThe Calendar page will list the specific topics to review when needed.",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "Course Policy"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EE380: Control Systems",
+    "section": "",
+    "text": "NoteEE380 — Control Systems\n\n\n\nSpring 2026 · Instructor: Dr. Ali AlBeladi & Ali Mustafa\nBuild intuition and design skills for feedback control using real engineering examples.",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "EE380: Control Systems"
+    ]
+  },
+  {
+    "objectID": "index.html#start-here",
+    "href": "index.html#start-here",
+    "title": "EE380: Control Systems",
+    "section": "Start here",
+    "text": "Start here\nWhat to do before the first lecture - Read the Syllabus (grading, exam rules, late policy) - Check the Calendar for this week’s slides + topics - Bookmark the Homework page (all deadlines live there) - Install MATLAB/Simulink (recommended) and Python (optional for demos)\n\n\n\n\n\n\nImportantWhere to look for updates\n\n\n\nThis website is the single source of truth for announcements, schedule updates, and deadlines.",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "EE380: Control Systems"
+    ]
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "EE380: Control Systems",
+    "section": "Quick links",
+    "text": "Quick links\n📘 Syllabus 📅 Calendar 📝 Homework\n\n\n\n\n\n\nNoteThis week\n\n\n\n\nTopic: Modeling + Intro to Feedback\nDeliverable: HW1 (see Homework page)\nReading: listed on the Calendar",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "EE380: Control Systems"
+    ]
+  },
+  {
+    "objectID": "index.html#announcements",
+    "href": "index.html#announcements",
+    "title": "EE380: Control Systems",
+    "section": "Announcements",
+    "text": "Announcements\n\n\nWeek 2 — HW1 is posted\nPlease check the Homework page for HW1 details and the due date/time.\n\n\n\n\nWeek 1 — Getting started\nWelcome to the course! Please review the Syllabus and install MATLAB/Simulink.\nPython is optional unless you want to run local simulations.",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "EE380: Control Systems"
+    ]
+  },
+  {
+    "objectID": "INSTRUCTOR_GUIDE.html",
+    "href": "INSTRUCTOR_GUIDE.html",
+    "title": "Instructor Guide: EE380 Course Website",
+    "section": "",
+    "text": "This website is built with Quarto. It uses GitHub Pages for hosting and Pyodide for interactive Python simulations.\n\n\n\n\n\nCreate a new repository on GitHub (e.g., ee380-website).\nClone this folder to your machine.\nPush this initial code to the main branch.\n\n\n\n\n\nInstall Quarto: Download from quarto.org.\nVS Code: Recommended editor. Install the “Quarto” extension.\nInstall Pyodide Extension: Open a terminal in this folder and run: bash     quarto add quarto-ext/shinylive     # OR for standard pyodide     quarto add coatless-quarto/pyodide (Note: The current template assumes standard code blocks initially. To use the interactive features, you must install the extension.)\n\n\n\n\n\n\n\n\nOpen calendar.qmd.\nAdd new rows to the table for the upcoming week.\nLink slides (put PDF files in a slides/ folder if you like, or link externally).\n\n\n\n\n\nOpen homework.qmd.\nAdd a new row to the table.\nLink the PDF assignment.\n\n\n\n\nTo publish, you just need to push to GitHub. The Setup is already configured (see .github/workflows/publish.yml).\ngit add .\ngit commit -m \"Update week 3 schedule\"\ngit push\nWithin nearly 60 seconds, your site at https://&lt;username&gt;.github.io/&lt;repo&gt; will update.\n\n\n\n\nOnce the Pyodide extension is installed, you can add interactive cells like this:\n```{pyodide-python}\nimport matplotlib.pyplot as plt\nimport numpy as np\nx = np.linspace(0, 10, 100)\nplt.plot(x, np.sin(x))\nplt.show()\n```\nThis will render as an interactive, editable, regular Python cell in the student’s browser."
+  },
+  {
+    "objectID": "INSTRUCTOR_GUIDE.html#initial-setup",
+    "href": "INSTRUCTOR_GUIDE.html#initial-setup",
+    "title": "Instructor Guide: EE380 Course Website",
+    "section": "",
+    "text": "Create a new repository on GitHub (e.g., ee380-website).\nClone this folder to your machine.\nPush this initial code to the main branch.\n\n\n\n\n\nInstall Quarto: Download from quarto.org.\nVS Code: Recommended editor. Install the “Quarto” extension.\nInstall Pyodide Extension: Open a terminal in this folder and run: bash     quarto add quarto-ext/shinylive     # OR for standard pyodide     quarto add coatless-quarto/pyodide (Note: The current template assumes standard code blocks initially. To use the interactive features, you must install the extension.)"
+  },
+  {
+    "objectID": "INSTRUCTOR_GUIDE.html#weekly-workflow",
+    "href": "INSTRUCTOR_GUIDE.html#weekly-workflow",
+    "title": "Instructor Guide: EE380 Course Website",
+    "section": "",
+    "text": "Open calendar.qmd.\nAdd new rows to the table for the upcoming week.\nLink slides (put PDF files in a slides/ folder if you like, or link externally).\n\n\n\n\n\nOpen homework.qmd.\nAdd a new row to the table.\nLink the PDF assignment.\n\n\n\n\nTo publish, you just need to push to GitHub. The Setup is already configured (see .github/workflows/publish.yml).\ngit add .\ngit commit -m \"Update week 3 schedule\"\ngit push\nWithin nearly 60 seconds, your site at https://&lt;username&gt;.github.io/&lt;repo&gt; will update."
+  },
+  {
+    "objectID": "INSTRUCTOR_GUIDE.html#adding-interactive-simulations",
+    "href": "INSTRUCTOR_GUIDE.html#adding-interactive-simulations",
+    "title": "Instructor Guide: EE380 Course Website",
+    "section": "",
+    "text": "Once the Pyodide extension is installed, you can add interactive cells like this:\n```{pyodide-python}\nimport matplotlib.pyplot as plt\nimport numpy as np\nx = np.linspace(0, 10, 100)\nplt.plot(x, np.sin(x))\nplt.show()\n```\nThis will render as an interactive, editable, regular Python cell in the student’s browser."
+  },
+  {
+    "objectID": "calendar.html",
+    "href": "calendar.html",
+    "title": "Schedule & Materials",
+    "section": "",
+    "text": "This is the official course schedule. Slides/notes are typically posted before each lecture.",
+    "crumbs": [
+      "Home",
+      "Schedule",
+      "Schedule & Materials"
+    ]
+  },
+  {
+    "objectID": "calendar.html#week-1",
+    "href": "calendar.html#week-1",
+    "title": "Schedule & Materials",
+    "section": "Week 1",
+    "text": "Week 1\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nJan 11\nCourse overview · Introduction to control\nSlides (PDF)\n\n\n\nJan 13\nDynamic systems · Differential equations\nSlides (PDF)\n\n\n\nJan 15\nLaplace review · Diff eqs → Laplace transforms\nSlides (PDF)",
+    "crumbs": [
+      "Home",
+      "Schedule",
+      "Schedule & Materials"
+    ]
+  },
+  {
+    "objectID": "calendar.html#week-2",
+    "href": "calendar.html#week-2",
+    "title": "Schedule & Materials",
+    "section": "Week 2",
+    "text": "Week 2\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nJan 18\nLaplace review (cont.) · Properties and examples\nSlides (PDF)\n\n\n\nJan 20\nModeling · DC motor modeling\nSlides (PDF)\n\n\n\nJan 22\nModeling · Mechanical systems, block diagrams\nSlides (PDF)\nHW1 out\n\n\n\n\n\n\n\n\n\nNoteNotes\n\n\n\n\nIf a slide link does not open, make sure you are logged in with your KFUPM account in the browser.\nThe schedule may be adjusted; updates will be posted on the Home → Announcements section.",
+    "crumbs": [
+      "Home",
+      "Schedule",
+      "Schedule & Materials"
+    ]
+  }
+]
