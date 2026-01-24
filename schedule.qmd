@@ -20,7 +20,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **TBA** | **Course overview** · Logistics, grading, and expectations | Slides: *TBA* |  |
+| J | **Course overview** · Logistics, grading, and expectations | Slides: *TBA* |  |
 | **TBA** | **Rigid-body transformations** · Frames, rotations, homogeneous transforms | Notes: *TBA* |  |
 | **TBA** | **Kinematics I** · Forward kinematics, DH convention | Notes: *TBA* | **HW1 out** |
 
