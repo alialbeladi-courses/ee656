@@ -54,6 +54,66 @@
     ]
   },
   {
+    "objectID": "policy.html",
+    "href": "policy.html",
+    "title": "Course Policy",
+    "section": "",
+    "text": "NoteEE656 Course Policy\n\n\n\nThis page summarizes grading, collaboration rules, and course resources.\nUpdates will be reflected here throughout the semester.",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "Course Policy"
+    ]
+  },
+  {
+    "objectID": "policy.html#grading",
+    "href": "policy.html#grading",
+    "title": "Course Policy",
+    "section": "Grading",
+    "text": "Grading\n\n\n\n\n\n\nImportantGrading scheme (overview)\n\n\n\n\n\n\n\n\n\n\n\nComponent\nWeight\nWhat it includes\n\n\n\n\nAssignments\n40%\nHomework sets and programming/computation tasks\n\n\nQuizzes\n20%\nShort quizzes (in-class or announced)\n\n\nProject\n40%\nProposal, checkpoint, final report, and presentation/demo\n\n\n\n\n\n\n\n\n\n\n\nNote: Exact quiz count/timing and project milestone dates will be posted on the Schedule and Project pages.",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "Course Policy"
+    ]
+  },
+  {
+    "objectID": "policy.html#academic-integrity-and-collaboration",
+    "href": "policy.html#academic-integrity-and-collaboration",
+    "title": "Course Policy",
+    "section": "Academic integrity and collaboration",
+    "text": "Academic integrity and collaboration\n\n\n\n\n\n\nWarningWhat is allowed vs not allowed\n\n\n\n✅ Allowed - Discussing concepts and approaches at a high level with classmates - Studying together and comparing understanding without sharing written solutions - Using course notes and posted examples\n❌ Not allowed - Copying any part of another student’s written solution - Copying code, derivations, or calculations (even if you “understand it”) - Submitting work that is not fully your own\n\n\nIf you collaborate, your submitted work must be written independently and reflect your own understanding.",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "Course Policy"
+    ]
+  },
+  {
+    "objectID": "policy.html#generative-ai-tools",
+    "href": "policy.html#generative-ai-tools",
+    "title": "Course Policy",
+    "section": "Generative AI tools",
+    "text": "Generative AI tools\n\n\n\n\n\n\nUnless explicitly permitted by the instructor for a specific assignment, the use of generative AI tools for any part of your submitted work is not allowed and will be treated as plagiarism.",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "Course Policy"
+    ]
+  },
+  {
+    "objectID": "policy.html#resources",
+    "href": "policy.html#resources",
+    "title": "Course Policy",
+    "section": "Resources",
+    "text": "Resources\n\n\n\nTextbooks\n\nMain: TBA (will be announced in Week 1)\nOptional: TBA\n\n\n\n\nSoftware\n\nMATLAB/Simulink and/or Python may be used for assignments and project work (details will be announced).\n\n\n\n\n\n\n\n\n\n\nTipRecommendation\n\n\n\nIf you need a refresher on rigid-body transformations, Jacobians, and basic dynamics, start reviewing early.\nThe Schedule page will list what you need for each week.",
+    "crumbs": [
+      "Home",
+      "Course Info",
+      "Course Policy"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "EE656: Robotics & Control",
