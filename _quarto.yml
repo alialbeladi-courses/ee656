@@ -44,9 +44,6 @@ website:
       - section: "Project"
         contents:
           - project.qmd
-      - section: "Modules"
-        contents:
-          - modules.qmd
 
   page-footer:
     border: true
@@ -67,4 +64,3 @@ format:
     highlight-style: github
     smooth-scroll: true
     link-external-newwindow: true
-```0
