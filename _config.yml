@@ -1,8 +1,0 @@
-title: EE656 - Spring 2025
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
-baseurl: '/ee656'
-url: 'alialbeladi-courses.github.io'
-search_enabled: false
-# aux_links:
-#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
