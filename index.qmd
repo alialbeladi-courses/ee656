@@ -26,14 +26,13 @@ This website is the **single source of truth** for announcements, schedule updat
 :::
 :::
 
-::: {.column width="40%"}
-## Quick links
-
-[📘 Course Policy](policy.qmd){.btn .btn-primary .btn-lg .d-block .mb-2}
-[📅 Schedule & Materials](schedule.qmd){.btn .btn-outline-primary .btn-lg .d-block .mb-2}
-[📝 Homework](homework.qmd){.btn .btn-outline-primary .btn-lg .d-block .mb-2}
-[🧩 Modules](modules.qmd){.btn .btn-outline-primary .btn-lg .d-block .mb-2}
-[🚀 Project](project.qmd){.btn .btn-outline-primary .btn-lg .d-block .mb-3}
+::: {.quick-links}
+[📘 Course Policy](policy.qmd){.btn .btn-primary .btn-sm w-100 .mb-2}
+[📅 Schedule & Materials](calendar.qmd){.btn .btn-outline-primary .btn-sm w-100 .mb-2}
+[📝 Homework](homework.qmd){.btn .btn-outline-primary .btn-sm w-100 .mb-2}
+[🧩 Modules](modules.qmd){.btn .btn-outline-primary .btn-sm w-100 .mb-2}
+[🚀 Project](project.qmd){.btn .btn-outline-primary .btn-sm w-100}
+:::
 
 ::: {.callout-note appearance="minimal"}
 ### This week
