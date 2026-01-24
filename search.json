@@ -1,198 +1,123 @@
 [
   {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule & Materials",
+    "section": "",
+    "text": "This is the official course schedule. Materials are typically posted before each lecture. Deadlines are listed in local time (Asia/Riyadh)."
+  },
+  {
+    "objectID": "schedule.html#week-1-foundations",
+    "href": "schedule.html#week-1-foundations",
+    "title": "Schedule & Materials",
+    "section": "Week 1 — Foundations",
+    "text": "Week 1 — Foundations\n\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nJ\nCourse overview · Logistics, grading, and expectations\nSlides: TBA\n\n\n\nTBA\nRigid-body transformations · Frames, rotations, homogeneous transforms\nNotes: TBA\n\n\n\nTBA\nKinematics I · Forward kinematics, DH convention\nNotes: TBA\nHW1 out"
+  },
+  {
+    "objectID": "schedule.html#week-2-kinematics",
+    "href": "schedule.html#week-2-kinematics",
+    "title": "Schedule & Materials",
+    "section": "Week 2 — Kinematics",
+    "text": "Week 2 — Kinematics\n\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nTBA\nKinematics II · Jacobians, velocities, singularities\nNotes: TBA\n\n\n\nTBA\nInverse kinematics · Numeric IK, constraints\nNotes: TBA\n\n\n\nTBA\nTrajectory generation · Interpolation, timing laws\nNotes: TBA\nHW1 due"
+  },
+  {
+    "objectID": "schedule.html#week-3-dynamics",
+    "href": "schedule.html#week-3-dynamics",
+    "title": "Schedule & Materials",
+    "section": "Week 3 — Dynamics",
+    "text": "Week 3 — Dynamics\n\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nTBA\nDynamics I · Lagrange formulation\nNotes: TBA\nProject teams\n\n\nTBA\nDynamics II · Newton–Euler, recursive formulations\nNotes: TBA\n\n\n\nTBA\nManipulator dynamics · Properties, structure, interpretation\nNotes: TBA\nHW2 out"
+  },
+  {
+    "objectID": "schedule.html#week-4-control-of-robots",
+    "href": "schedule.html#week-4-control-of-robots",
+    "title": "Schedule & Materials",
+    "section": "Week 4 — Control of Robots",
+    "text": "Week 4 — Control of Robots\n\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nTBA\nJoint-space control · PD/PI, gravity compensation\nNotes: TBA\n\n\n\nTBA\nComputed torque control · Feedback linearization\nNotes: TBA\n\n\n\nTBA\nOperational-space control · Task-space control ideas\nNotes: TBA\nHW2 due"
+  },
+  {
+    "objectID": "schedule.html#week-5-state-estimation-and-constraints-optional-time-permitting",
+    "href": "schedule.html#week-5-state-estimation-and-constraints-optional-time-permitting",
+    "title": "Schedule & Materials",
+    "section": "Week 5 — State Estimation and Constraints (Optional / time-permitting)",
+    "text": "Week 5 — State Estimation and Constraints (Optional / time-permitting)\n\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nTBA\nSensors & state estimation · encoders, IMU, filtering\nNotes: TBA\n\n\n\nTBA\nConstraints · contact, friction, simple models\nNotes: TBA\nProject proposal due\n\n\nTBA\nSpecial topic / review\nNotes: TBA\n\n\n\n\n\n\n\n\n\n\n\nWarningAccess note (if using SharePoint links)\n\n\n\nIf a file link does not open, ensure you are logged in with your KFUPM account in the same browser."
+  },
+  {
     "objectID": "homework.html",
     "href": "homework.html",
-    "title": "Homework",
+    "title": "EE656: Robotics & Control",
     "section": "",
-    "text": "NoteSubmission\n\n\n\nAssignments are due by 11:59 PM (Asia/Riyadh) and submitted on Gradescope.\nOpen Gradescope Entry code: D684VR",
+    "text": "---\ntitle: \"Homework\"\nformat: html\ntoc: true\n---\n\n::: {.callout-note appearance=\"minimal\"}\n## Submission\nHomework is due by **11:59 PM (Asia/Riyadh)** unless stated otherwise.  \nSubmit via Gradescope (link/code will be posted when available).\n:::\n\n---\n\n## Assignments\n\n| Assignment | Release | Due | Files |\n|---|---:|---:|---|\n| **HW 1** | TBA | TBA | — |\n| **HW 2** | TBA | TBA | — |\n| **HW 3** | TBA | TBA | — |\n\n::: {.callout-tip appearance=\"minimal\"}\n### Quick checklist (submission)\n- Submit **one PDF** (clear scans, high contrast).\n- Start **each question on a new page** (recommended).\n- If asked to submit code, include it in the PDF **or** as a separate file as instructed.\n- Make sure your work is **readable**. Illegible submissions may lose points.\n:::\n\n---\n\n## Policies\n\n::: {.callout-warning appearance=\"minimal\"}\n### Late days\nYou have **6 late days** total, with a maximum of **2 late days per assignment**.  \nEach late day is a **24-hour extension** (e.g., Wed 11:59 PM → Thu 11:59 PM = 1 late day).  \nNo credit is given after **48 hours** past the deadline, or after late days are exhausted.\n:::\n\n::: {.accordion}\n::: {.accordion-item}\n### Collaboration policy and honor code\nHomework must be completed **individually**.  \nYou may discuss concepts and approaches at a high level, but your submitted work must be entirely your own.\n\n- Copying any part of another student’s solution is not allowed.\n- Copying code or derivations is not allowed.\n\nSmall snippets of publicly available code (e.g., StackOverflow) may be used **only if properly attributed**, and only when permitted by the homework instructions.\n:::\n\n::: {.accordion-item}\n### Generative AI tools policy\nUnless explicitly permitted by the instructor for a specific assignment, the use of generative AI tools for any part of your homework is **not allowed** and will be treated as plagiarism.\n:::\n\n::: {.accordion-item}\n### Regrade policy\nRegrade requests are submitted through Gradescope. Include a clear explanation of the grading error.\n\n- Deadline: within **1 week** of receiving your grade, by **11:59 PM**.\n- We may regrade the entire assignment (your score may go **up or down**).\n\n**Legitimate requests**\n- Points were added incorrectly.\n- The answer exists but was on a different page.\n- The grader claims a specific case fails, but your implementation works for that case.\n\n**Illegitimate requests**\n- Disagreeing with the rubric / asking for more partial credit without an error.\n- “My solution wasn’t clear, but what I meant was correct.”\n:::\n:::",
     "crumbs": [
       "Home",
       "Assignments",
-      "Homework"
-    ]
-  },
-  {
-    "objectID": "homework.html#assignments",
-    "href": "homework.html#assignments",
-    "title": "Homework",
-    "section": "Assignments",
-    "text": "Assignments\n\n\n\nAssignment\nRelease\nDue\nFiles\n\n\n\n\nHW 1\nJan 23\nJan 31\nHW1 PDF\n\n\nHW 2\nTBA\nTBA\n—\n\n\nHW 3\nTBA\nTBA\n—\n\n\n\n\n\n\n\n\n\nTipQuick checklist (Gradescope)\n\n\n\n\nSubmit one PDF (clear scans, high contrast).\nStart each question on a new page (recommended).\nUse Gradescope’s tool to map pages → questions.\nIf the grader cannot read it, they may request a resubmission or deduct points.\nFor multi-page answers, link all relevant pages to that question.\n\n\n\nNeed help submitting? See Gradescope’s student guide: How to submit variable-length assignments",
-    "crumbs": [
-      "Home",
-      "Assignments",
-      "Homework"
-    ]
-  },
-  {
-    "objectID": "homework.html#policies",
-    "href": "homework.html#policies",
-    "title": "Homework",
-    "section": "Policies",
-    "text": "Policies\n\n\n\n\n\n\nWarningLate days\n\n\n\nYou have 6 late days total, with a maximum of 2 late days per assignment.\nEach late day is a 24-hour extension (e.g., Wed 11:59 PM → Thu 11:59 PM = 1 late day).\nNo credit is given after 48 hours past the deadline, or after late days are exhausted.\n\n\n\n\nCollaboration policy and honor code\nStudents must work individually on all homework assignments.\nYou may have high-level discussions with classmates, but anything you submit must be your own work.\nYou may reuse small snippets of publicly available code (e.g., StackOverflow) only if properly attributed.\n\n\nGenerative AI tools policy\nIn this course, every element of class assignments must be fully prepared by the student.\nThe use of generative AI tools for any part of your work is not allowed and will be treated as plagiarism — unless it is explicitly permitted and announced by the instructor.\n\n\nRegrade policy\nRegrade requests are submitted through Gradescope. Include a clear explanation of the grading error.\n\nDeadline: within 1 week of receiving your grade, by 11:59 PM.\nWe may regrade the entire assignment (your score may go up or down).\n\nLegitimate requests - Points were added incorrectly. - The answer exists but was on a different page. - The grader claims a specific case fails, but your implementation works for that case.\nIllegitimate requests - Disagreeing with the rubric / asking for more partial credit without an error. - “My solution wasn’t clear, but what I meant was correct.”",
-    "crumbs": [
-      "Home",
-      "Assignments",
-      "Homework"
-    ]
-  },
-  {
-    "objectID": "policy.html",
-    "href": "policy.html",
-    "title": "Course Policy",
-    "section": "",
-    "text": "NoteEE380 Course Policy\n\n\n\nThis page summarizes grading, collaboration rules, and course resources.\nUpdates will be reflected here throughout the semester.",
-    "crumbs": [
-      "Home",
-      "Course Info",
-      "Course Policy"
-    ]
-  },
-  {
-    "objectID": "policy.html#grading",
-    "href": "policy.html#grading",
-    "title": "Course Policy",
-    "section": "Grading",
-    "text": "Grading\n\n\n\n\n\n\nImportantGrading scheme (overview)\n\n\n\n\n\n\n\n\n\n\n\nComponent\nWeight\nWhat it includes\n\n\n\n\nClasswork\n25%\nHomework, quizzes, in-class activities (and project, if assigned)\n\n\nMajor exams\n40%\nTBA (will be announced early in the semester)\n\n\nFinal exam\n35%\nTBA (university schedule)\n\n\n\n\n\n\n\n\n\n\n\nNote: Details such as the number of quizzes/exams, coverage, and formatting rules will be announced and posted here once finalized.",
-    "crumbs": [
-      "Home",
-      "Course Info",
-      "Course Policy"
-    ]
-  },
-  {
-    "objectID": "policy.html#academic-integrity-and-collaboration",
-    "href": "policy.html#academic-integrity-and-collaboration",
-    "title": "Course Policy",
-    "section": "Academic integrity and collaboration",
-    "text": "Academic integrity and collaboration\n\n\n\n\n\n\nWarningWhat is allowed vs not allowed\n\n\n\n✅ Allowed - Discussing concepts and approaches at a high level with classmates\n- Using course notes and posted examples\n- Studying together\n❌ Not allowed - Copying any part of another student’s written solution\n- Copying code, derivations, or calculations (even if you “understand it”)\n- Submitting work that is not fully your own\n\n\nIf you collaborate, your submitted work must be written independently and reflect your own understanding.",
-    "crumbs": [
-      "Home",
-      "Course Info",
-      "Course Policy"
-    ]
-  },
-  {
-    "objectID": "policy.html#resources",
-    "href": "policy.html#resources",
-    "title": "Course Policy",
-    "section": "Resources",
-    "text": "Resources\n\n\n\nTextbooks\n\nMain: R. Dorf & R. Bishop, Modern Control Systems, 13th ed. (2017)\nOptional: Franklin, Powell, Emami-Naeini, Feedback Control of Dynamic Systems, 8th ed.\n\n\n\n\nSoftware\n\nMATLAB/Simulink for computational work\nPython may be used for selected demos or optional simulations\n\n\n\n\n\n\n\n\n\n\nTipRecommendation\n\n\n\nIf you’re rusty on Laplace transforms and differential equations, spend a little time reviewing them in Week 1–2.\nThe Calendar page will list the specific topics to review when needed.",
-    "crumbs": [
-      "Home",
-      "Course Info",
-      "Course Policy"
+      "```markdown"
     ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "EE380: Control Systems",
+    "title": "EE656: Robotics & Control",
     "section": "",
-    "text": "NoteEE380 — Control Systems\n\n\n\nSpring 2026 · Instructor: Dr. Ali AlBeladi & Ali Mustafa\nBuild intuition and design skills for feedback control using real engineering examples.",
+    "text": "NoteEE656 — Robotics & Control\n\n\n\nSpring 2026 · Instructor: Dr. Ali AlBeladi\nA graduate-level course on modeling and control of robotic manipulators: kinematics, dynamics, trajectory generation, and control.",
     "crumbs": [
       "Home",
       "Course Info",
-      "EE380: Control Systems"
+      "EE656: Robotics & Control"
     ]
   },
   {
     "objectID": "index.html#start-here",
     "href": "index.html#start-here",
-    "title": "EE380: Control Systems",
+    "title": "EE656: Robotics & Control",
     "section": "Start here",
-    "text": "Start here\nWhat to do before the first lecture - Read the Syllabus (grading, exam rules, late policy) - Check the Calendar for this week’s slides + topics - Bookmark the Homework page (all deadlines live there) - Install MATLAB/Simulink (recommended) and Python (optional for demos)\n\n\n\n\n\n\nImportantWhere to look for updates\n\n\n\nThis website is the single source of truth for announcements, schedule updates, and deadlines.",
+    "text": "Start here\nBefore the first lecture - Read the Course Policy (grading, expectations, integrity) - Check the Schedule & Materials for this week’s topics and slides - Review the Homework page (deadlines and submission format) - Skim the Project page (milestones and deliverables)\n\n\n\n\n\n\nImportantWhere to look for updates\n\n\n\nThis website is the single source of truth for announcements, schedule updates, and deadlines.",
     "crumbs": [
       "Home",
       "Course Info",
-      "EE380: Control Systems"
+      "EE656: Robotics & Control"
     ]
   },
   {
     "objectID": "index.html#quick-links",
     "href": "index.html#quick-links",
-    "title": "EE380: Control Systems",
+    "title": "EE656: Robotics & Control",
     "section": "Quick links",
-    "text": "Quick links\n📘 Syllabus 📅 Calendar 📝 Homework\n\n\n\n\n\n\nNoteThis week\n\n\n\n\nTopic: Modeling + Intro to Feedback\nDeliverable: HW1 (see Homework page)\nReading: listed on the Calendar",
+    "text": "Quick links\n📘 Course Policy 📅 Schedule & Materials 📝 Homework 🧩 Modules 🚀 Project\n\n\n\n\n\n\nNoteThis week\n\n\n\n\nTopic: Course overview + rigid-body transformations\nMaterials: see the Schedule page\nDeliverable: check Homework for due dates",
     "crumbs": [
       "Home",
       "Course Info",
-      "EE380: Control Systems"
+      "EE656: Robotics & Control"
     ]
   },
   {
     "objectID": "index.html#announcements",
     "href": "index.html#announcements",
-    "title": "EE380: Control Systems",
+    "title": "EE656: Robotics & Control",
     "section": "Announcements",
-    "text": "Announcements\n\n\nWeek 2 — HW1 is posted\nPlease check the Homework page for HW1 details and the due date/time.\n\n\n\n\nWeek 1 — Getting started\nWelcome to the course! Please review the Syllabus and install MATLAB/Simulink.\nPython is optional unless you want to run local simulations.",
+    "text": "Announcements\n\n\nWeek 1 — Getting started\nWelcome! Please review the Course Policy and bookmark the Schedule and Homework pages.\n\n\n\n\nWeek 1 — Project planning\nProject details are on the Project page. Start thinking about a topic early (even a rough idea is enough).",
     "crumbs": [
       "Home",
       "Course Info",
-      "EE380: Control Systems"
+      "EE656: Robotics & Control"
     ]
   },
   {
-    "objectID": "INSTRUCTOR_GUIDE.html",
-    "href": "INSTRUCTOR_GUIDE.html",
-    "title": "Instructor Guide: EE380 Course Website",
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "EE656: Robotics & Control",
     "section": "",
-    "text": "This website is built with Quarto. It uses GitHub Pages for hosting and Pyodide for interactive Python simulations.\n\n\n\n\n\nCreate a new repository on GitHub (e.g., ee380-website).\nClone this folder to your machine.\nPush this initial code to the main branch.\n\n\n\n\n\nInstall Quarto: Download from quarto.org.\nVS Code: Recommended editor. Install the “Quarto” extension.\nInstall Pyodide Extension: Open a terminal in this folder and run: bash     quarto add quarto-ext/shinylive     # OR for standard pyodide     quarto add coatless-quarto/pyodide (Note: The current template assumes standard code blocks initially. To use the interactive features, you must install the extension.)\n\n\n\n\n\n\n\n\nOpen calendar.qmd.\nAdd new rows to the table for the upcoming week.\nLink slides (put PDF files in a slides/ folder if you like, or link externally).\n\n\n\n\n\nOpen homework.qmd.\nAdd a new row to the table.\nLink the PDF assignment.\n\n\n\n\nTo publish, you just need to push to GitHub. The Setup is already configured (see .github/workflows/publish.yml).\ngit add .\ngit commit -m \"Update week 3 schedule\"\ngit push\nWithin nearly 60 seconds, your site at https://&lt;username&gt;.github.io/&lt;repo&gt; will update.\n\n\n\n\nOnce the Pyodide extension is installed, you can add interactive cells like this:\n```{pyodide-python}\nimport matplotlib.pyplot as plt\nimport numpy as np\nx = np.linspace(0, 10, 100)\nplt.plot(x, np.sin(x))\nplt.show()\n```\nThis will render as an interactive, editable, regular Python cell in the student’s browser."
-  },
-  {
-    "objectID": "INSTRUCTOR_GUIDE.html#initial-setup",
-    "href": "INSTRUCTOR_GUIDE.html#initial-setup",
-    "title": "Instructor Guide: EE380 Course Website",
-    "section": "",
-    "text": "Create a new repository on GitHub (e.g., ee380-website).\nClone this folder to your machine.\nPush this initial code to the main branch.\n\n\n\n\n\nInstall Quarto: Download from quarto.org.\nVS Code: Recommended editor. Install the “Quarto” extension.\nInstall Pyodide Extension: Open a terminal in this folder and run: bash     quarto add quarto-ext/shinylive     # OR for standard pyodide     quarto add coatless-quarto/pyodide (Note: The current template assumes standard code blocks initially. To use the interactive features, you must install the extension.)"
-  },
-  {
-    "objectID": "INSTRUCTOR_GUIDE.html#weekly-workflow",
-    "href": "INSTRUCTOR_GUIDE.html#weekly-workflow",
-    "title": "Instructor Guide: EE380 Course Website",
-    "section": "",
-    "text": "Open calendar.qmd.\nAdd new rows to the table for the upcoming week.\nLink slides (put PDF files in a slides/ folder if you like, or link externally).\n\n\n\n\n\nOpen homework.qmd.\nAdd a new row to the table.\nLink the PDF assignment.\n\n\n\n\nTo publish, you just need to push to GitHub. The Setup is already configured (see .github/workflows/publish.yml).\ngit add .\ngit commit -m \"Update week 3 schedule\"\ngit push\nWithin nearly 60 seconds, your site at https://&lt;username&gt;.github.io/&lt;repo&gt; will update."
-  },
-  {
-    "objectID": "INSTRUCTOR_GUIDE.html#adding-interactive-simulations",
-    "href": "INSTRUCTOR_GUIDE.html#adding-interactive-simulations",
-    "title": "Instructor Guide: EE380 Course Website",
-    "section": "",
-    "text": "Once the Pyodide extension is installed, you can add interactive cells like this:\n```{pyodide-python}\nimport matplotlib.pyplot as plt\nimport numpy as np\nx = np.linspace(0, 10, 100)\nplt.plot(x, np.sin(x))\nplt.show()\n```\nThis will render as an interactive, editable, regular Python cell in the student’s browser."
-  },
-  {
-    "objectID": "calendar.html",
-    "href": "calendar.html",
-    "title": "Schedule & Materials",
-    "section": "",
-    "text": "This is the official course schedule. Slides/notes are typically posted before each lecture.",
+    "text": "---\ntitle: \"Project\"\nformat: html\ntoc: true\n---\n\n::: {.callout-note appearance=\"minimal\"}\n## EE656 Course Project\nThe project is a major part of the course and is designed to develop practical skill in **robot modeling and control**.\nYou will choose a topic, implement/validate a method, and communicate results in a short technical report and presentation.\n:::\n\n---\n\n## Overview\n\n### Goal\nBuild and evaluate a robotics/control solution that connects course theory to a realistic problem.\n\n**Typical project directions**\n- Modeling + control of a manipulator (joint-space control, computed torque, gravity compensation)\n- Kinematics/IK with constraints and singularity handling\n- Trajectory generation and tracking performance comparison\n- Dynamics identification or parameter sensitivity analysis\n- Task-space control concepts (if covered/time-permitting)\n\n::: {.callout-tip appearance=\"minimal\"}\n### Recommended scope\nA strong project is **small but complete**: clear problem statement → method → implementation → evaluation → conclusions.\n:::\n\n---\n\n## Team rules\n\n- Teams of **1–3 students** (unless announced otherwise).\n- Everyone must contribute to implementation and writing.\n- You may use simulation environments and public libraries, but you must **cite** external resources and clearly state what you reused.\n\n---\n\n## Deliverables\n\n| Deliverable | What to submit | Notes |\n|---|---|---|\n| **Proposal** | 1–2 pages PDF | problem, approach, expected results, tools, timeline |\n| **Checkpoint** | short update (slides or memo) | what works, what doesn’t, next steps |\n| **Final report** | 6–10 pages PDF | conference-style writing with figures and results |\n| **Presentation / demo** | slides + (optional) short video | 8–12 minutes typical |\n\n::: {.callout-important appearance=\"minimal\"}\n### Report quality expectations\nYour report should include: **problem statement**, **method**, **implementation details**, **results**, and **discussion**.\nPlots must be labeled and readable; claims must be supported by results.\n:::\n\n---\n\n## Milestones (template)\n\nDates will be posted on the Schedule page. This is the typical flow:\n\n- **Week 2–3:** topic selection + team formation\n- **Week 4:** proposal due\n- **Week 7–8:** checkpoint / early results\n- **Final weeks:** final report + presentation/demo\n\n---\n\n## Evaluation rubric (high level)\n\n| Category | Weight | What we look for |\n|---|---:|---|\n| **Technical correctness** | 35% | correct formulation, sound method, correct implementation |\n| **Results & evaluation** | 30% | meaningful experiments, clear comparisons, insights |\n| **Clarity & communication** | 20% | well-structured report, readable figures, clear writing |\n| **Originality & ambition** | 15% | thoughtful problem choice, extensions beyond baseline |\n\n---\n\n## Topic ideas (starter list)\n\n- Compare **PD vs computed-torque** on a 2-link arm (tracking + robustness tests)\n- Study **IK methods** (Jacobian transpose vs pseudoinverse vs damped least squares)\n- Analyze **singularities** and mitigation strategies in task-space motion\n- Trajectory design: compare **cubic vs quintic** polynomials for smoothness and tracking\n- Add constraints: joint limits, velocity limits, simple obstacle avoidance\n\n---\n\n## Academic integrity\n\n::: {.callout-warning appearance=\"minimal\"}\nYou may collaborate within your team, but the final submission must reflect your team’s own work.\nAll external resources (code, figures, ideas) must be **cited**.\n:::\n\n---\n\n## FAQ\n\n**Do we need hardware?**  \nNo—simulation-only projects are acceptable and often recommended.\n\n**Can we reuse code?**  \nYes, but cite it and clearly state what you implemented vs reused.\n\n**What if our results are negative?**  \nThat’s okay. A good project can show what didn’t work and why, as long as the evaluation is thoughtful.",
     "crumbs": [
       "Home",
-      "Schedule",
-      "Schedule & Materials"
+      "Project",
+      "```markdown"
     ]
   },
   {
-    "objectID": "calendar.html#week-1",
-    "href": "calendar.html#week-1",
-    "title": "Schedule & Materials",
-    "section": "Week 1",
-    "text": "Week 1\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nJan 11\nCourse overview · Introduction to control\nSlides (PDF)\n\n\n\nJan 13\nDynamic systems · Differential equations\nSlides (PDF)\n\n\n\nJan 15\nLaplace review · Diff eqs → Laplace transforms\nSlides (PDF)",
-    "crumbs": [
-      "Home",
-      "Schedule",
-      "Schedule & Materials"
-    ]
-  },
-  {
-    "objectID": "calendar.html#week-2",
-    "href": "calendar.html#week-2",
-    "title": "Schedule & Materials",
-    "section": "Week 2",
-    "text": "Week 2\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nJan 18\nLaplace review (cont.) · Properties and examples\nSlides (PDF)\n\n\n\nJan 20\nModeling · DC motor modeling\nSlides (PDF)\n\n\n\nJan 22\nModeling · Mechanical systems, block diagrams\nSlides (PDF)\nHW1 out\n\n\n\n\n\n\n\n\n\nNoteNotes\n\n\n\n\nIf a slide link does not open, make sure you are logged in with your KFUPM account in the browser.\nThe schedule may be adjusted; updates will be posted on the Home → Announcements section.",
-    "crumbs": [
-      "Home",
-      "Schedule",
-      "Schedule & Materials"
-    ]
+    "objectID": "hw_policy.html",
+    "href": "hw_policy.html",
+    "title": "EE656: Robotics & Control",
+    "section": "",
+    "text": "---\ntitle: \"Homework Policies\"\nformat: html\ntoc: true\n---\n\n::: {.callout-note appearance=\"minimal\"}\n## Homework Policies (EE656)\nThis page contains homework rules and procedures. For due dates and files, see the\n[Homework](homework.qmd) page.\n:::\n\n---\n\n## Submission guidelines\n\n::: {.callout-tip appearance=\"minimal\"}\n### What to submit\n- Submit a **single PDF** unless the assignment explicitly requests additional files.\n- Your submission must be **clear and readable** (high-quality scan or direct PDF export).\n- If code is required, include it **as instructed** (either embedded in the PDF or as a separate upload).\n:::\n\n### Good practices\n- Start **each question on a new page** (recommended).\n- For multi-page answers, keep pages in order and label them clearly.\n- If using Gradescope, map **pages to questions** accurately.\n\n---\n\n## Late day policy\n\n::: {.callout-warning appearance=\"minimal\"}\nYou have **6 late days** total for the semester, with a maximum of **2 late days per assignment**.\n\n- Each late day is a **24-hour extension**.\n- No credit is given after **48 hours** past the deadline.\n- You are responsible for tracking your remaining late days.\n:::\n\n---\n\n## Collaboration policy and honor code\n\n::: {.callout-warning appearance=\"minimal\"}\n### Collaboration rules\n✅ **Allowed**\n- Discussing concepts and high-level approaches with classmates\n- Studying together and comparing understanding *without sharing written solutions*\n\n❌ **Not allowed**\n- Copying any part of another student’s solution\n- Sharing or copying code, derivations, or calculations\n- Submitting work that is not fully your own\n:::\n\nIf you use any external resources (e.g., a textbook example, an online reference, or a small snippet of code),\nyou must **cite it clearly** in your submission.\n\n---\n\n## Generative AI tools policy\n\n::: {.callout-important appearance=\"minimal\"}\nUnless explicitly permitted by the instructor for a specific homework, the use of generative AI tools for any part of your work is **not allowed** and will be treated as plagiarism.\n:::\n\n---\n\n## Regrade policy\n\nRegrade requests must be submitted via the course submission system (e.g., Gradescope) and must include a clear explanation.\n\n- Deadline: within **1 week** of receiving your grade, by **11:59 PM**.\n- We reserve the right to regrade the **entire** homework; your score may go **up or down**.\n\n### Legitimate regrade requests\n- Points were added incorrectly.\n- The grader missed your work because it was on a different page.\n- The grader claims your method fails in a specific case, but it works as implemented.\n\n### Illegitimate regrade requests\n- Disagreeing with the rubric without a grading error.\n- “My solution wasn’t clear, but what I meant is correct.”"
   }
 ]
