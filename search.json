@@ -142,7 +142,7 @@
     "href": "index.html",
     "title": "EE656: Robotics & Control",
     "section": "",
-    "text": "NoteEE656 — Robotics & Control\n\n\n\nSpring 2026 · Instructor: Dr. Ali AlBeladi\nA graduate-level course on modeling and control of robotic manipulators: kinematics, dynamics, trajectory generation, and control.",
+    "text": "NoteEE656 — Robotics & Control\n\n\n\nSpring 2026 · Instructor: Dr. Ali AlBeladi\nA graduate-level course on modeling and control of robotic manipulators: kinematics, dynamics, trajectory generation, and control.\n:::",
     "crumbs": [
       "Home",
       "Course Info",
@@ -155,18 +155,6 @@
     "title": "EE656: Robotics & Control",
     "section": "Start here",
     "text": "Start here\nBefore the first lecture - Read the Course Policy (grading, expectations, integrity) - Check the Schedule & Materials for this week’s topics and slides - Review the Homework page (deadlines and submission format) - Skim the Project page (milestones and deliverables)\n\n\n\n\n\n\nImportantWhere to look for updates\n\n\n\nThis website is the single source of truth for announcements, schedule updates, and deadlines.",
-    "crumbs": [
-      "Home",
-      "Course Info",
-      "EE656: Robotics & Control"
-    ]
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "EE656: Robotics & Control",
-    "section": "Quick links",
-    "text": "Quick links\n📘 Course Policy 📅 Schedule & Materials 📝 Homework 🧩 Modules 🚀 Project\n\n\n\n\n\n\nNoteThis week\n\n\n\n\nTopic: Course overview + rigid-body transformations\nMaterials: see the Schedule page\nDeliverable: check Homework for due dates",
     "crumbs": [
       "Home",
       "Course Info",

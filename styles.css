@@ -121,6 +121,18 @@ a:focus-visible{
   font-weight: 700;
 }
 
+/* Compact “Quick links” buttons on Home */
+.quick-links{
+  max-width: 340px;           /* prevents the column from feeling huge */
+}
+
+.quick-links .btn{
+  border-radius: 14px;        /* less “pill” than global 999px */
+  padding: 10px 12px;         /* smaller vertical height */
+  font-size: 0.98rem;
+  font-weight: 700;
+}
+
 /* ---- Quarto callouts: make them feel premium ---- */
 .callout{
   border-radius: var(--radius) !important;
