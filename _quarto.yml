@@ -40,9 +40,6 @@ website:
       - section: "Assignments"
         contents:
           - homework.qmd
-      - section: "Project"
-        contents:
-          - project.qmd
 
   page-footer:
     border: true
