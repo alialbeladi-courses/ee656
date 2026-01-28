@@ -17,8 +17,8 @@ website:
         text: Schedule
       - href: homework.qmd
         text: Homework
-      - href: project.qmd
-        text: Project
+      - href: policy.qmd
+        text: Policy
    
     right:
       - icon: github
