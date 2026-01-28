@@ -16,53 +16,48 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 ---
 
-## Week 1 — Foundations
+## Week 1 
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| J | **Course overview** · Logistics, grading, and expectations | Slides: *TBA* |  |
-| **TBA** | **Rigid-body transformations** · Frames, rotations, homogeneous transforms | Notes: *TBA* |  |
-| **TBA** | **Kinematics I** · Forward kinematics, DH convention | Notes: *TBA* | **HW1 out** |
+| **Jan 11** | **Course overview** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQDkE6K_xKNdTbgwkycPnKGNAXUg3OIx-EUd5zHeSedb2HA?e=gX3JHU){.btn .btn-sm .btn-outline-primary} |  |
+| **Jan 13** | **Slam in R2** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCpalXiMnTdR5mqPtHowerHAfZCgNacEFNVXaTb-3j13H0?e=df8Ht8){.btn .btn-sm .btn-outline-primary} |  |
 
 ---
 
-## Week 2 — Kinematics
+## Week 2 
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **TBA** | **Kinematics II** · Jacobians, velocities, singularities | Notes: *TBA* |  |
-| **TBA** | **Inverse kinematics** · Numeric IK, constraints | Notes: *TBA* |  |
-| **TBA** | **Trajectory generation** · Interpolation, timing laws | Notes: *TBA* | **HW1 due** |
+| **Jan 18** | **Essential Probabilities Background** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQC6P3VVWUZmSpRPb8seE6NJAVD9Wti3qOWX1--B-tUHOZA?e=EGbkub){.btn .btn-sm .btn-outline-primary} |  |
+| **Jan 20** | **Probabilistic SLAM in R2** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQBETO_2j4RcRp1gGjznHaKFAXwcv2dMW0TVEJwJUrSUzrs?e=C4nUwV){.btn .btn-sm .btn-outline-primary} |  |
 
 ---
 
-## Week 3 — Dynamics
+## Week 3 
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **TBA** | **Dynamics I** · Lagrange formulation | Notes: *TBA* | **Project teams** |
-| **TBA** | **Dynamics II** · Newton–Euler, recursive formulations | Notes: *TBA* |  |
-| **TBA** | **Manipulator dynamics** · Properties, structure, interpretation | Notes: *TBA* | **HW2 out** |
+| **Jan 25** | **Filtering vs. Smoothing** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCtWnJSDiCkTJJfCPFZ-kKmAeYmMgx1wkpKDv0uTctIZYo?e=y6BnbR){.btn .btn-sm .btn-outline-primary} | **Project teams** |
+| **Jan 27** | **Rigid-body transformations** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQC5GmwbJSS3QLV9tz6hm0A1AStxVPBQkPye9JKRd_pfDl4?e=N6tLKA){.btn .btn-sm .btn-outline-primary} |  |
 
 ---
 
-## Week 4 — Control of Robots
+## Week 4 
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **TBA** | **Joint-space control** · PD/PI, gravity compensation | Notes: *TBA* |  |
-| **TBA** | **Computed torque control** · Feedback linearization | Notes: *TBA* |  |
-| **TBA** | **Operational-space control** · Task-space control ideas | Notes: *TBA* | **HW2 due** |
+| **Feb 1** | **Differential kinematics** | Notes: *TBA* |  |
+| **Feb 3** | **Lie groups and Lie algebras** | Notes: *TBA* |  |
 
 ---
 
-## Week 5 — State Estimation and Constraints (Optional / time-permitting)
+## Week 5 
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **TBA** | **Sensors & state estimation** · encoders, IMU, filtering | Notes: *TBA* |  |
-| **TBA** | **Constraints** · contact, friction, simple models | Notes: *TBA* | **Project proposal due** |
-| **TBA** | **Special topic / review** | Notes: *TBA* |  |
+| **Feb 8** | **TBA** | Notes: *TBA* |  |
+| **Feb 10** | **TBA** | Notes: *TBA* | **Project proposal due** |
 
 ---
 
