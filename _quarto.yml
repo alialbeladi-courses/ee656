@@ -19,8 +19,7 @@ website:
         text: Homework
       - href: project.qmd
         text: Project
-      - href: policy.qmd
-        text: Policies
+   
     right:
       - icon: github
         href: https://github.com/alialbeladi-courses/ee656
