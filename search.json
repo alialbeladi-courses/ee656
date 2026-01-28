@@ -178,108 +178,63 @@
     "href": "project.html",
     "title": "Project",
     "section": "",
-    "text": "NoteEE656 Course Project\n\n\n\nThe project is a major part of the course and is designed to develop practical skill in robot modeling and control. You will choose a topic, implement/validate a method, and communicate results in a short technical report and presentation.",
-    "crumbs": [
-      "Home",
-      "Project",
-      "Project"
-    ]
+    "text": "NoteEE656 Course Project\n\n\n\nThe project is a major part of the course and is designed to develop practical skill in robot modeling and control. You will choose a topic, implement/validate a method, and communicate results in a short technical report and presentation."
   },
   {
     "objectID": "project.html#overview",
     "href": "project.html#overview",
     "title": "Project",
     "section": "Overview",
-    "text": "Overview\n\nGoal\nBuild and evaluate a robotics/control solution that connects course theory to a realistic problem.\nTypical project directions - Modeling + control of a manipulator (joint-space control, computed torque, gravity compensation) - Kinematics/IK with constraints and singularity handling - Trajectory generation and tracking performance comparison - Dynamics identification or parameter sensitivity analysis - Task-space control concepts (if covered/time-permitting)\n\n\n\n\n\n\nTipRecommended scope\n\n\n\nA strong project is small but complete: clear problem statement → method → implementation → evaluation → conclusions.",
-    "crumbs": [
-      "Home",
-      "Project",
-      "Project"
-    ]
+    "text": "Overview\n\nGoal\nBuild and evaluate a robotics/control solution that connects course theory to a realistic problem.\nTypical project directions - Modeling + control of a manipulator (joint-space control, computed torque, gravity compensation) - Kinematics/IK with constraints and singularity handling - Trajectory generation and tracking performance comparison - Dynamics identification or parameter sensitivity analysis - Task-space control concepts (if covered/time-permitting)\n\n\n\n\n\n\nTipRecommended scope\n\n\n\nA strong project is small but complete: clear problem statement → method → implementation → evaluation → conclusions."
   },
   {
     "objectID": "project.html#team-rules",
     "href": "project.html#team-rules",
     "title": "Project",
     "section": "Team rules",
-    "text": "Team rules\n\nTeams of 1–3 students (unless announced otherwise).\nEveryone must contribute to implementation and writing.\nYou may use simulation environments and public libraries, but you must cite external resources and clearly state what you reused.",
-    "crumbs": [
-      "Home",
-      "Project",
-      "Project"
-    ]
+    "text": "Team rules\n\nTeams of 1–3 students (unless announced otherwise).\nEveryone must contribute to implementation and writing.\nYou may use simulation environments and public libraries, but you must cite external resources and clearly state what you reused."
   },
   {
     "objectID": "project.html#deliverables",
     "href": "project.html#deliverables",
     "title": "Project",
     "section": "Deliverables",
-    "text": "Deliverables\n\n\n\n\n\n\n\n\nDeliverable\nWhat to submit\nNotes\n\n\n\n\nProposal\n1–2 pages PDF\nproblem, approach, expected results, tools, timeline\n\n\nCheckpoint\nshort update (slides or memo)\nwhat works, what doesn’t, next steps\n\n\nFinal report\n6–10 pages PDF\nconference-style writing with figures and results\n\n\nPresentation / demo\nslides + (optional) short video\n8–12 minutes typical\n\n\n\n\n\n\n\n\n\nImportantReport quality expectations\n\n\n\nYour report should include: problem statement, method, implementation details, results, and discussion. Plots must be labeled and readable; claims must be supported by results.",
-    "crumbs": [
-      "Home",
-      "Project",
-      "Project"
-    ]
+    "text": "Deliverables\n\n\n\n\n\n\n\n\nDeliverable\nWhat to submit\nNotes\n\n\n\n\nProposal\n1–2 pages PDF\nproblem, approach, expected results, tools, timeline\n\n\nCheckpoint\nshort update (slides or memo)\nwhat works, what doesn’t, next steps\n\n\nFinal report\n6–10 pages PDF\nconference-style writing with figures and results\n\n\nPresentation / demo\nslides + (optional) short video\n8–12 minutes typical\n\n\n\n\n\n\n\n\n\nImportantReport quality expectations\n\n\n\nYour report should include: problem statement, method, implementation details, results, and discussion. Plots must be labeled and readable; claims must be supported by results."
   },
   {
     "objectID": "project.html#milestones-template",
     "href": "project.html#milestones-template",
     "title": "Project",
     "section": "Milestones (template)",
-    "text": "Milestones (template)\nDates will be posted on the Schedule page. This is the typical flow:\n\nWeek 2–3: topic selection + team formation\nWeek 4: proposal due\nWeek 7–8: checkpoint / early results\nFinal weeks: final report + presentation/demo",
-    "crumbs": [
-      "Home",
-      "Project",
-      "Project"
-    ]
+    "text": "Milestones (template)\nDates will be posted on the Schedule page. This is the typical flow:\n\nWeek 2–3: topic selection + team formation\nWeek 4: proposal due\nWeek 7–8: checkpoint / early results\nFinal weeks: final report + presentation/demo"
   },
   {
     "objectID": "project.html#evaluation-rubric-high-level",
     "href": "project.html#evaluation-rubric-high-level",
     "title": "Project",
     "section": "Evaluation rubric (high level)",
-    "text": "Evaluation rubric (high level)\n\n\n\n\n\n\n\n\nCategory\nWeight\nWhat we look for\n\n\n\n\nTechnical correctness\n35%\ncorrect formulation, sound method, correct implementation\n\n\nResults & evaluation\n30%\nmeaningful experiments, clear comparisons, insights\n\n\nClarity & communication\n20%\nwell-structured report, readable figures, clear writing\n\n\nOriginality & ambition\n15%\nthoughtful problem choice, extensions beyond baseline",
-    "crumbs": [
-      "Home",
-      "Project",
-      "Project"
-    ]
+    "text": "Evaluation rubric (high level)\n\n\n\n\n\n\n\n\nCategory\nWeight\nWhat we look for\n\n\n\n\nTechnical correctness\n35%\ncorrect formulation, sound method, correct implementation\n\n\nResults & evaluation\n30%\nmeaningful experiments, clear comparisons, insights\n\n\nClarity & communication\n20%\nwell-structured report, readable figures, clear writing\n\n\nOriginality & ambition\n15%\nthoughtful problem choice, extensions beyond baseline"
   },
   {
     "objectID": "project.html#topic-ideas-starter-list",
     "href": "project.html#topic-ideas-starter-list",
     "title": "Project",
     "section": "Topic ideas (starter list)",
-    "text": "Topic ideas (starter list)\n\nCompare PD vs computed-torque on a 2-link arm (tracking + robustness tests)\nStudy IK methods (Jacobian transpose vs pseudoinverse vs damped least squares)\nAnalyze singularities and mitigation strategies in task-space motion\nTrajectory design: compare cubic vs quintic polynomials for smoothness and tracking\nAdd constraints: joint limits, velocity limits, simple obstacle avoidance",
-    "crumbs": [
-      "Home",
-      "Project",
-      "Project"
-    ]
+    "text": "Topic ideas (starter list)\n\nCompare PD vs computed-torque on a 2-link arm (tracking + robustness tests)\nStudy IK methods (Jacobian transpose vs pseudoinverse vs damped least squares)\nAnalyze singularities and mitigation strategies in task-space motion\nTrajectory design: compare cubic vs quintic polynomials for smoothness and tracking\nAdd constraints: joint limits, velocity limits, simple obstacle avoidance"
   },
   {
     "objectID": "project.html#academic-integrity",
     "href": "project.html#academic-integrity",
     "title": "Project",
     "section": "Academic integrity",
-    "text": "Academic integrity\n\n\n\n\n\n\nYou may collaborate within your team, but the final submission must reflect your team’s own work. All external resources (code, figures, ideas) must be cited.",
-    "crumbs": [
-      "Home",
-      "Project",
-      "Project"
-    ]
+    "text": "Academic integrity\n\n\n\n\n\n\nYou may collaborate within your team, but the final submission must reflect your team’s own work. All external resources (code, figures, ideas) must be cited."
   },
   {
     "objectID": "project.html#faq",
     "href": "project.html#faq",
     "title": "Project",
     "section": "FAQ",
-    "text": "FAQ\nDo we need hardware?\nNo—simulation-only projects are acceptable and often recommended.\nCan we reuse code?\nYes, but cite it and clearly state what you implemented vs reused.\nWhat if our results are negative?\nThat’s okay. A good project can show what didn’t work and why, as long as the evaluation is thoughtful.",
-    "crumbs": [
-      "Home",
-      "Project",
-      "Project"
-    ]
+    "text": "FAQ\nDo we need hardware?\nNo—simulation-only projects are acceptable and often recommended.\nCan we reuse code?\nYes, but cite it and clearly state what you implemented vs reused.\nWhat if our results are negative?\nThat’s okay. A good project can show what didn’t work and why, as long as the evaluation is thoughtful."
   },
   {
     "objectID": "hw_policy.html",
