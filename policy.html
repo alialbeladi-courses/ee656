@@ -396,7 +396,11 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#grading" id="toc-grading" class="nav-link active" data-scroll-target="#grading">Grading</a></li>
   <li><a href="#academic-integrity-and-collaboration" id="toc-academic-integrity-and-collaboration" class="nav-link" data-scroll-target="#academic-integrity-and-collaboration">Academic integrity and collaboration</a></li>
   <li><a href="#generative-ai-tools" id="toc-generative-ai-tools" class="nav-link" data-scroll-target="#generative-ai-tools">Generative AI tools</a></li>
-  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
+  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a>
+  <ul class="collapse">
+  <li><a href="#textbooks" id="toc-textbooks" class="nav-link" data-scroll-target="#textbooks">Textbooks</a></li>
+  <li><a href="#software" id="toc-software" class="nav-link" data-scroll-target="#software">Software</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -530,28 +534,19 @@ Updates will be reflected here throughout the semester.</p>
 </section>
 <section id="resources" class="level2">
 <h2 class="anchored" data-anchor-id="resources">Resources</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
 <section id="textbooks" class="level3">
 <h3 class="anchored" data-anchor-id="textbooks">Textbooks</h3>
 <ul>
-<li><p><em>TBF — Probabilistic Robotics</em> (Thrun, Burgard, Fox) Core foundations of probabilistic state estimation in robotics: Bayes filters, Kalman/particle filters, localization, mapping, and SLAM, with a strong emphasis on reasoning under uncertainty.</p></li>
-<li><p><em>BAR — State Estimation for Robotics</em> (Barfoot) A modern, implementation-oriented treatment of estimation: least-squares, Kalman filtering, nonlinear estimation, Lie groups, and continuous-time trajectory estimation.</p></li>
+<li><p><strong>[TBF] Probabilistic Robotics</strong> (Thrun, Burgard, Fox) Core foundations of probabilistic state estimation in robotics: Bayes filters, Kalman/particle filters, localization, mapping, and SLAM, with a strong emphasis on reasoning under uncertainty.</p></li>
+<li><p><strong>[BAR] State Estimation for Robotics</strong> (Barfoot) A modern, implementation-oriented treatment of estimation: least-squares, Kalman filtering, nonlinear estimation, Lie groups, and continuous-time trajectory estimation.</p></li>
+<li><p><strong>[CAK] SLAM Handbook: From Localization and Mapping to Spatial Intelligence</strong> (Carlone, Luca; Kim, Ayoung; Barfoot, Timothy; Cremers, Daniel; Dellaert, Frank) A broad handbook covering factor-graph SLAM foundations, sensing modalities (camera/LiDAR/radar/IMU), robust optimization, evaluation methodology, and emerging directions in spatial intelligence.</p></li>
 </ul>
 </section>
-<section id="cak-slam-handbook-from-localization-and-mapping-to-spatial-intelligence-carlone-luca-kim-ayoung-barfoot-timothy-cremers-daniel-dellaert-frank" class="level3">
-<h3 class="anchored" data-anchor-id="cak-slam-handbook-from-localization-and-mapping-to-spatial-intelligence-carlone-luca-kim-ayoung-barfoot-timothy-cremers-daniel-dellaert-frank"><em>CAK — SLAM Handbook: From Localization and Mapping to Spatial Intelligence</em> (Carlone, Luca; Kim, Ayoung; Barfoot, Timothy; Cremers, Daniel; Dellaert, Frank)</h3>
-<p>A broad handbook covering factor-graph SLAM foundations, sensing modalities (camera/LiDAR/radar/IMU), robust optimization, evaluation methodology, and emerging directions in spatial intelligence.</p>
-</section>
-</div><div class="column" style="width:50%;">
 <section id="software" class="level3">
 <h3 class="anchored" data-anchor-id="software">Software</h3>
 <ul>
 <li>MATLAB/Simulink and/or Python may be used for assignments and project work (details will be announced).</li>
 </ul>
-</section>
-</div>
-</div>
 <div class="callout callout-style-simple callout-tip no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -568,6 +563,7 @@ The Schedule page will list what you need for each week.</p>
 </div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
