@@ -64,7 +64,7 @@ Unless explicitly permitted by the instructor for a specific assignment, the use
 ::: {.columns}
 ::: {.column width="50%"}
 ### Textbooks
-- **Main:** *TBA* (will be announced in Week 1)
+- **TBF:** *TBA* (will be announced in Week 1)
 - **Optional:** *TBA*
 :::
 

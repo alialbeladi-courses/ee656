@@ -16,7 +16,7 @@ Submit via Gradescope (link/code will be posted when available).
 
 | Assignment | Release | Due | Files |
 |---|---:|---:|---|
-| **HW 1** | TBA | TBA | — |
+| **HW 1** | Jan. 28 | Feb. 7 | [HW1 folder](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/albeladi_kfupm_edu_sa/IgAwvTQsCYDlToO0XQA_om0cAbtevfBGd-lDneL8GVIDUi0?e=hL0NRN){.btn .btn-sm .btn-outline-primary} |
 | **HW 2** | TBA | TBA | — |
 | **HW 3** | TBA | TBA | — |
 
@@ -31,13 +31,6 @@ Submit via Gradescope (link/code will be posted when available).
 ---
 
 ## Policies
-
-::: {.callout-warning appearance="minimal"}
-### Late days
-You have **6 late days** total, with a maximum of **2 late days per assignment**.  
-Each late day is a **24-hour extension** (e.g., Wed 11:59 PM → Thu 11:59 PM = 1 late day).  
-No credit is given after **48 hours** past the deadline, or after late days are exhausted.
-:::
 
 ::: {.accordion}
 ::: {.accordion-item}
