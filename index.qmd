@@ -7,7 +7,7 @@ toc: false
 ::: {.callout-note appearance="minimal"}
 # EE656 — Robotics & Control
 **Spring 2026** · **Instructor:** Dr. Ali AlBeladi  
-A graduate-level course on modeling and control of robotic manipulators: kinematics, dynamics, trajectory generation, and control.
+A graduate-level course on Robotic Perception.
 :::
 
 ::: {.columns}
@@ -18,7 +18,7 @@ A graduate-level course on modeling and control of robotic manipulators: kinemat
 - Read the [Course Policy](policy.qmd) (grading, expectations, integrity)
 - Check the [Schedule & Materials](schedule.qmd) for this week’s topics and slides
 - Review the [Homework](homework.qmd) page (deadlines and submission format)
-- Skim the [Project](project.qmd) page (milestones and deliverables)
+- Skim the [Project](#) page [will be available soon] (milestones and deliverables)
 
 ::: {.callout-important appearance="minimal"}
 ### Where to look for updates
@@ -30,7 +30,7 @@ This website is the **single source of truth** for announcements, schedule updat
 [📘 Course Policy](policy.qmd){.btn .btn-primary .btn-sm w-100 .mb-2}
 [📅 Schedule & Materials](calendar.qmd){.btn .btn-outline-primary .btn-sm w-100 .mb-2}
 [📝 Homework](homework.qmd){.btn .btn-outline-primary .btn-sm w-100 .mb-2}
-[🚀 Project](project.qmd){.btn .btn-outline-primary .btn-sm w-100}
+[🚀 Project](#){.btn .btn-outline-primary .btn-sm w-100}
 :::
 
 ::: {.callout-note appearance="minimal"}
@@ -48,15 +48,16 @@ This website is the **single source of truth** for announcements, schedule updat
 
 ::: {.card .mb-3}
 ::: {.card-body}
-### Week 1 — Getting started
-Welcome! Please review the [Course Policy](policy.qmd) and bookmark the [Schedule](schedule.qmd) and [Homework](homework.qmd) pages.
+### Week 3 — HW1
+[Homework 1](homework.qmd) is posted and due Feb. 7.
 :::
 :::
 
 ::: {.card .mb-3}
 ::: {.card-body}
-### Week 1 — Project planning
-Project details are on the [Project](project.qmd) page. Start thinking about a topic early (even a rough idea is enough).
+### Week 1 — Welcome
+Welcome! Please review the [Course Policy](policy.qmd) and bookmark the [Schedule](schedule.qmd) and [Homework](homework.qmd) pages.
+Project details will be available in [Project](#) page. Start thinking about a topic early (even a rough idea is enough).
 :::
 :::
 
