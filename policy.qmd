@@ -61,24 +61,21 @@ Unless explicitly permitted by the instructor for a specific assignment, the use
 
 ## Resources
 
-::: {.columns}
-::: {.column width="50%"}
+
 ### Textbooks
-- *TBF — Probabilistic Robotics* (Thrun, Burgard, Fox)
+- **[TBF] Probabilistic Robotics** (Thrun, Burgard, Fox)
 Core foundations of probabilistic state estimation in robotics: Bayes filters, Kalman/particle filters, localization, mapping, and SLAM, with a strong emphasis on reasoning under uncertainty.
 
-- *BAR — State Estimation for Robotics* (Barfoot)
+- **[BAR] State Estimation for Robotics** (Barfoot)
 A modern, implementation-oriented treatment of estimation: least-squares, Kalman filtering, nonlinear estimation, Lie groups, and continuous-time trajectory estimation.
 
-### *CAK — SLAM Handbook: From Localization and Mapping to Spatial Intelligence* (Carlone, Luca; Kim, Ayoung; Barfoot, Timothy; Cremers, Daniel; Dellaert, Frank)
+- **[CAK] SLAM Handbook: From Localization and Mapping to Spatial Intelligence** (Carlone, Luca; Kim, Ayoung; Barfoot, Timothy; Cremers, Daniel; Dellaert, Frank)
 A broad handbook covering factor-graph SLAM foundations, sensing modalities (camera/LiDAR/radar/IMU), robust optimization, evaluation methodology, and emerging directions in spatial intelligence.
-:::
 
-::: {.column width="50%"}
+
 ### Software
 - MATLAB/Simulink and/or Python may be used for assignments and project work (details will be announced).
-:::
-:::
+
 
 ::: {.callout-tip appearance="minimal"}
 ### Recommendation
