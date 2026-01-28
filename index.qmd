@@ -36,7 +36,7 @@ This website is the **single source of truth** for announcements, schedule updat
 
 ::: {.callout-note appearance="minimal"}
 ### This week
-- Topic: *Course overview + rigid-body transformations*
+- Topic: * probabilistic SLAM in R2+ rigid-body transformations*
 - Materials: see the Schedule page
 - Deliverable: check Homework for due dates
 :::
