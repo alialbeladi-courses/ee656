@@ -7,39 +7,39 @@
     "text": "This is the official course schedule. Materials are typically posted before each lecture. Deadlines are listed in local time (Asia/Riyadh)."
   },
   {
-    "objectID": "schedule.html#week-1-foundations",
-    "href": "schedule.html#week-1-foundations",
+    "objectID": "schedule.html#week-1",
+    "href": "schedule.html#week-1",
     "title": "Schedule & Materials",
-    "section": "Week 1 — Foundations",
-    "text": "Week 1 — Foundations\n\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nJ\nCourse overview · Logistics, grading, and expectations\nSlides: TBA\n\n\n\nTBA\nRigid-body transformations · Frames, rotations, homogeneous transforms\nNotes: TBA\n\n\n\nTBA\nKinematics I · Forward kinematics, DH convention\nNotes: TBA\nHW1 out"
+    "section": "Week 1",
+    "text": "Week 1\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nJan 11\nCourse overview\nSlides (PDF)\n\n\n\nJan 13\nSlam in R2\nSlides (PDF)"
   },
   {
-    "objectID": "schedule.html#week-2-kinematics",
-    "href": "schedule.html#week-2-kinematics",
+    "objectID": "schedule.html#week-2",
+    "href": "schedule.html#week-2",
     "title": "Schedule & Materials",
-    "section": "Week 2 — Kinematics",
-    "text": "Week 2 — Kinematics\n\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nTBA\nKinematics II · Jacobians, velocities, singularities\nNotes: TBA\n\n\n\nTBA\nInverse kinematics · Numeric IK, constraints\nNotes: TBA\n\n\n\nTBA\nTrajectory generation · Interpolation, timing laws\nNotes: TBA\nHW1 due"
+    "section": "Week 2",
+    "text": "Week 2\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nJan 18\nEssential Probabilities Background\nSlides (PDF)\n\n\n\nJan 20\nProbabilistic SLAM in R2\nSlides (PDF)"
   },
   {
-    "objectID": "schedule.html#week-3-dynamics",
-    "href": "schedule.html#week-3-dynamics",
+    "objectID": "schedule.html#week-3",
+    "href": "schedule.html#week-3",
     "title": "Schedule & Materials",
-    "section": "Week 3 — Dynamics",
-    "text": "Week 3 — Dynamics\n\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nTBA\nDynamics I · Lagrange formulation\nNotes: TBA\nProject teams\n\n\nTBA\nDynamics II · Newton–Euler, recursive formulations\nNotes: TBA\n\n\n\nTBA\nManipulator dynamics · Properties, structure, interpretation\nNotes: TBA\nHW2 out"
+    "section": "Week 3",
+    "text": "Week 3\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nJan 25\nFiltering vs. Smoothing\nSlides (PDF)\nProject teams\n\n\nJan 27\nRigid-body transformations\nSlides (PDF)"
   },
   {
-    "objectID": "schedule.html#week-4-control-of-robots",
-    "href": "schedule.html#week-4-control-of-robots",
+    "objectID": "schedule.html#week-4",
+    "href": "schedule.html#week-4",
     "title": "Schedule & Materials",
-    "section": "Week 4 — Control of Robots",
-    "text": "Week 4 — Control of Robots\n\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nTBA\nJoint-space control · PD/PI, gravity compensation\nNotes: TBA\n\n\n\nTBA\nComputed torque control · Feedback linearization\nNotes: TBA\n\n\n\nTBA\nOperational-space control · Task-space control ideas\nNotes: TBA\nHW2 due"
+    "section": "Week 4",
+    "text": "Week 4\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nFeb 1\nDifferential kinematics\nNotes: TBA\n\n\n\nFeb 3\nLie groups and Lie algebras\nNotes: TBA"
   },
   {
-    "objectID": "schedule.html#week-5-state-estimation-and-constraints-optional-time-permitting",
-    "href": "schedule.html#week-5-state-estimation-and-constraints-optional-time-permitting",
+    "objectID": "schedule.html#week-5",
+    "href": "schedule.html#week-5",
     "title": "Schedule & Materials",
-    "section": "Week 5 — State Estimation and Constraints (Optional / time-permitting)",
-    "text": "Week 5 — State Estimation and Constraints (Optional / time-permitting)\n\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nTBA\nSensors & state estimation · encoders, IMU, filtering\nNotes: TBA\n\n\n\nTBA\nConstraints · contact, friction, simple models\nNotes: TBA\nProject proposal due\n\n\nTBA\nSpecial topic / review\nNotes: TBA\n\n\n\n\n\n\n\n\n\n\n\nWarningAccess note (if using SharePoint links)\n\n\n\nIf a file link does not open, ensure you are logged in with your KFUPM account in the same browser."
+    "section": "Week 5",
+    "text": "Week 5\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nFeb 8\nTBA\nNotes: TBA\n\n\n\nFeb 10\nTBA\nNotes: TBA\nProject proposal due\n\n\n\n\n\n\n\n\n\n\nWarningAccess note (if using SharePoint links)\n\n\n\nIf a file link does not open, ensure you are logged in with your KFUPM account in the same browser."
   },
   {
     "objectID": "homework.html",
