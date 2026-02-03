@@ -48,7 +48,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
 | **Feb 1** | **Differential kinematics** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQB05iYDV_HaS7pXvBQfYKMuAVKoRlft4mwluTf-rhRHPtE?e=hqeG3o){.btn .btn-sm .btn-outline-primary} |  |
-| **Feb 3** | **Lie groups and Lie algebras** | Notes: *TBA* |  |
+| **Feb 3** | **SE(2) and SE(3)** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQAIXoxPBtw3TpnwSWs1sGg6AXthRs027QHv0-uUDFqF2_I?e=T8PpPY) |  |
 
 ---
 
