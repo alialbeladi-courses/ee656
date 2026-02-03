@@ -38,7 +38,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **Jan 25** | **Filtering vs. Smoothing** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCtWnJSDiCkTJJfCPFZ-kKmAeYmMgx1wkpKDv0uTctIZYo?e=y6BnbR){.btn .btn-sm .btn-outline-primary} | **Project teams** |
+| **Jan 25** | **Filtering vs. Smoothing** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCtWnJSDiCkTJJfCPFZ-kKmAeYmMgx1wkpKDv0uTctIZYo?e=y6BnbR){.btn .btn-sm .btn-outline-primary} | [HW1 out](homework.qmd){.btn .btn-sm .btn-warning} |
 | **Jan 27** | **Rigid-body transformations** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQC5GmwbJSS3QLV9tz6hm0A1AStxVPBQkPye9JKRd_pfDl4?e=N6tLKA){.btn .btn-sm .btn-outline-primary} |  |
 
 ---
@@ -48,7 +48,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
 | **Feb 1** | **Differential kinematics** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQB05iYDV_HaS7pXvBQfYKMuAVKoRlft4mwluTf-rhRHPtE?e=hqeG3o){.btn .btn-sm .btn-outline-primary} |  |
-| **Feb 3** | **SE(2) and SE(3)** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQAIXoxPBtw3TpnwSWs1sGg6AXthRs027QHv0-uUDFqF2_I?e=T8PpPY) |  |
+| **Feb 3** | **SE(2) and SE(3)** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQAIXoxPBtw3TpnwSWs1sGg6AXthRs027QHv0-uUDFqF2_I?e=T8PpPY) | [HW1 due Feb. 7](homework.qmd){.btn .btn-sm .btn-warning} |
 
 ---
 
@@ -57,7 +57,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
 | **Feb 8** | **TBA** | Notes: *TBA* |  |
-| **Feb 10** | **TBA** | Notes: *TBA* | **Project proposal due** |
+| **Feb 10** | **TBA** | Notes: *TBA* |  |
 
 ---
 
