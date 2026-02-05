@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "!notes/"
 
 website:
   title: "EE656: Robotics & Control"
@@ -21,11 +24,6 @@ website:
         text: Policy
       - href: notes/
         text: Lecture Notes
-
-project:
-  render:
-    - "*.qmd"
-    - "!notes/"
    
     right:
       - icon: github
