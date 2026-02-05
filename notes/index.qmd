@@ -1,0 +1,9 @@
+# Preface {.unnumbered}
+
+Welcome to the lecture notes for **EE656: Robotics & Control**.
+
+These notes are designed to accompany the course lectures and provide a structured reference for students.
+
+## Contents
+
+The notes are organized into parts, starting with the basics of robotics modeling and moving towards advanced control techniques.

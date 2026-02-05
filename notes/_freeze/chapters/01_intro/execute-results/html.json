@@ -1,0 +1,12 @@
+{
+  "hash": "0f2600a7dfadae0b14bd61f87202ca8a",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "# Introduction to Robotics\n\nThis chapter introduces the fundamental concepts of robotics.\n\n## Mathematical Representation\n\nRobotics involves a lot of math. For example, the transformation matrix $T$ can be represented as:\n\n$$\nT = \\begin{bmatrix}\nR & p \\\\\n0 & 1\n\\end{bmatrix}\n$$\n\nwhere $R \\in SO(3)$ is a rotation matrix and $p \\in \\mathbb{R}^3$ is a position vector.\n\n## Python Example\n\nWe can use Python to perform calculations:\n\n::: {#27198601 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n\n# Define a 3x3 identity matrix\nR = np.eye(3)\np = np.array([1, 2, 3]).reshape(3, 1)\n\n# Construct transformation matrix\nT = np.block([\n    [R, p],\n    [np.zeros((1, 3)), 1]\n])\n\nprint(\"Transformation Matrix T:\")\nprint(T)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nTransformation Matrix T:\n[[1. 0. 0. 1.]\n [0. 1. 0. 2.]\n [0. 0. 1. 3.]\n [0. 0. 0. 1.]]\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "01_intro_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

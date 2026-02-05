@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lecture Notes",
+    "section": "",
+    "text": "Preface\nWelcome to the lecture notes for EE656: Robotics & Control.\nThese notes are designed to accompany the course lectures and provide a structured reference for students.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#contents",
+    "href": "index.html#contents",
+    "title": "Lecture Notes",
+    "section": "Contents",
+    "text": "Contents\nThe notes are organized into parts, starting with the basics of robotics modeling and moving towards advanced control techniques.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "chapters/01_intro.html",
+    "href": "chapters/01_intro.html",
+    "title": "1  Introduction to Robotics",
+    "section": "",
+    "text": "1.1 Mathematical Representation\nThis chapter introduces the fundamental concepts of robotics.\nRobotics involves a lot of math. For example, the transformation matrix \\(T\\) can be represented as:\n\\[\nT = \\begin{bmatrix}\nR & p \\\\\n0 & 1\n\\end{bmatrix}\n\\]\nwhere \\(R \\in SO(3)\\) is a rotation matrix and \\(p \\in \\mathbb{R}^3\\) is a position vector.",
+    "crumbs": [
+      "Basics",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Robotics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01_intro.html#python-example",
+    "href": "chapters/01_intro.html#python-example",
+    "title": "1  Introduction to Robotics",
+    "section": "1.2 Python Example",
+    "text": "1.2 Python Example\nWe can use Python to perform calculations:\n\nimport numpy as np\n\n# Define a 3x3 identity matrix\nR = np.eye(3)\np = np.array([1, 2, 3]).reshape(3, 1)\n\n# Construct transformation matrix\nT = np.block([\n    [R, p],\n    [np.zeros((1, 3)), 1]\n])\n\nprint(\"Transformation Matrix T:\")\nprint(T)\n\nTransformation Matrix T:\n[[1. 0. 0. 1.]\n [0. 1. 0. 2.]\n [0. 0. 1. 3.]\n [0. 0. 0. 1.]]",
+    "crumbs": [
+      "Basics",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Robotics</span>"
+    ]
+  }
+]

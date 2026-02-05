@@ -1,0 +1,27 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Lecture Notes"
+  author: "EE656 Instructor"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - part: "Basics"
+      chapters:
+        - chapters/01_intro.qmd
+
+format:
+  html:
+    theme:
+      light: [flatly, ../styles/shared.scss]
+      dark: [darkly, ../styles/shared.scss]
+    toc: true
+    code-copy: true
+    highlight-style: github
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

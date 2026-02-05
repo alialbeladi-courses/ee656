@@ -19,6 +19,13 @@ website:
         text: Homework
       - href: policy.qmd
         text: Policy
+      - href: notes/
+        text: Lecture Notes
+
+project:
+  render:
+    - "*.qmd"
+    - "!notes/"
    
     right:
       - icon: github
@@ -51,9 +58,8 @@ website:
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
-    css: styles.css
+      light: [flatly, styles/shared.scss]
+      dark: [darkly, styles/shared.scss]
     toc: true
     toc-location: right
     code-copy: true
