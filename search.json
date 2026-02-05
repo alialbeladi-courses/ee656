@@ -42,42 +42,6 @@
     "text": "Week 5\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nFeb 8\nTBA\nNotes: TBA\n\n\n\nFeb 10\nTBA\nNotes: TBA\n\n\n\n\n\n\n\n\n\n\n\nWarningAccess note (if using SharePoint links)\n\n\n\nIf a file link does not open, ensure you are logged in with your KFUPM account in the same browser."
   },
   {
-    "objectID": "homework.html",
-    "href": "homework.html",
-    "title": "Homework",
-    "section": "",
-    "text": "NoteSubmission\n\n\n\nHomework is due by 11:59 PM (Asia/Riyadh) unless stated otherwise.\nSubmit via Gradescope (link/code will be posted when available).",
-    "crumbs": [
-      "Home",
-      "Assignments",
-      "Homework"
-    ]
-  },
-  {
-    "objectID": "homework.html#assignments",
-    "href": "homework.html#assignments",
-    "title": "Homework",
-    "section": "Assignments",
-    "text": "Assignments\n\n\n\nAssignment\nRelease\nDue\nFiles\n\n\n\n\nHW 1\nJan. 28\nFeb. 7\nHW1 folder\n\n\nHW 2\nTBA\nTBA\n—\n\n\nHW 3\nTBA\nTBA\n—\n\n\n\n\n\n\n\n\n\nTipQuick checklist (submission)\n\n\n\n\nSubmit one PDF (clear scans, high contrast).\nStart each question on a new page (recommended).\nIf asked to submit code, include it in the PDF or as a separate file as instructed.\nMake sure your work is readable. Illegible submissions may lose points.",
-    "crumbs": [
-      "Home",
-      "Assignments",
-      "Homework"
-    ]
-  },
-  {
-    "objectID": "homework.html#policies",
-    "href": "homework.html#policies",
-    "title": "Homework",
-    "section": "Policies",
-    "text": "Policies\n\n\nCollaboration policy and honor code\nHomework must be completed individually.\nYou may discuss concepts and approaches at a high level, but your submitted work must be entirely your own.\n\nCopying any part of another student’s solution is not allowed.\nCopying code or derivations is not allowed.\n\nSmall snippets of publicly available code (e.g., StackOverflow) may be used only if properly attributed, and only when permitted by the homework instructions.\n\n\nGenerative AI tools policy\nUnless explicitly permitted by the instructor for a specific assignment, the use of generative AI tools for any part of your homework is not allowed and will be treated as plagiarism.\n\n\nRegrade policy\nRegrade requests are submitted through Gradescope. Include a clear explanation of the grading error.\n\nDeadline: within 1 week of receiving your grade, by 11:59 PM.\nWe may regrade the entire assignment (your score may go up or down).\n\nLegitimate requests - Points were added incorrectly. - The answer exists but was on a different page. - The grader claims a specific case fails, but your implementation works for that case.\nIllegitimate requests - Disagreeing with the rubric / asking for more partial credit without an error. - “My solution wasn’t clear, but what I meant was correct.”",
-    "crumbs": [
-      "Home",
-      "Assignments",
-      "Homework"
-    ]
-  },
-  {
     "objectID": "policy.html",
     "href": "policy.html",
     "title": "Course Policy",
@@ -135,6 +99,84 @@
       "Home",
       "Course Info",
       "Course Policy"
+    ]
+  },
+  {
+    "objectID": "hw_policy.html",
+    "href": "hw_policy.html",
+    "title": "Homework Policies",
+    "section": "",
+    "text": "NoteHomework Policies (EE656)\n\n\n\nThis page contains homework rules and procedures. For due dates and files, see the Homework page."
+  },
+  {
+    "objectID": "hw_policy.html#submission-guidelines",
+    "href": "hw_policy.html#submission-guidelines",
+    "title": "Homework Policies",
+    "section": "Submission guidelines",
+    "text": "Submission guidelines\n\n\n\n\n\n\nTipWhat to submit\n\n\n\n\nSubmit a single PDF unless the assignment explicitly requests additional files.\nYour submission must be clear and readable (high-quality scan or direct PDF export).\nIf code is required, include it as instructed (either embedded in the PDF or as a separate upload).\n\n\n\n\nGood practices\n\nStart each question on a new page (recommended).\nFor multi-page answers, keep pages in order and label them clearly.\nIf using Gradescope, map pages to questions accurately."
+  },
+  {
+    "objectID": "hw_policy.html#late-day-policy",
+    "href": "hw_policy.html#late-day-policy",
+    "title": "Homework Policies",
+    "section": "Late day policy",
+    "text": "Late day policy\n\n\n\n\n\n\nYou have 6 late days total for the semester, with a maximum of 2 late days per assignment.\n\nEach late day is a 24-hour extension.\nNo credit is given after 48 hours past the deadline.\nYou are responsible for tracking your remaining late days."
+  },
+  {
+    "objectID": "hw_policy.html#collaboration-policy-and-honor-code",
+    "href": "hw_policy.html#collaboration-policy-and-honor-code",
+    "title": "Homework Policies",
+    "section": "Collaboration policy and honor code",
+    "text": "Collaboration policy and honor code\n\n\n\n\n\n\nWarningCollaboration rules\n\n\n\n✅ Allowed - Discussing concepts and high-level approaches with classmates - Studying together and comparing understanding without sharing written solutions\n❌ Not allowed - Copying any part of another student’s solution - Sharing or copying code, derivations, or calculations - Submitting work that is not fully your own\n\n\nIf you use any external resources (e.g., a textbook example, an online reference, or a small snippet of code), you must cite it clearly in your submission."
+  },
+  {
+    "objectID": "hw_policy.html#generative-ai-tools-policy",
+    "href": "hw_policy.html#generative-ai-tools-policy",
+    "title": "Homework Policies",
+    "section": "Generative AI tools policy",
+    "text": "Generative AI tools policy\n\n\n\n\n\n\nUnless explicitly permitted by the instructor for a specific homework, the use of generative AI tools for any part of your work is not allowed and will be treated as plagiarism."
+  },
+  {
+    "objectID": "hw_policy.html#regrade-policy",
+    "href": "hw_policy.html#regrade-policy",
+    "title": "Homework Policies",
+    "section": "Regrade policy",
+    "text": "Regrade policy\nRegrade requests must be submitted via the course submission system (e.g., Gradescope) and must include a clear explanation.\n\nDeadline: within 1 week of receiving your grade, by 11:59 PM.\nWe reserve the right to regrade the entire homework; your score may go up or down.\n\n\nLegitimate regrade requests\n\nPoints were added incorrectly.\nThe grader missed your work because it was on a different page.\nThe grader claims your method fails in a specific case, but it works as implemented.\n\n\n\nIllegitimate regrade requests\n\nDisagreeing with the rubric without a grading error.\n“My solution wasn’t clear, but what I meant is correct.”"
+  },
+  {
+    "objectID": "homework.html",
+    "href": "homework.html",
+    "title": "Homework",
+    "section": "",
+    "text": "NoteSubmission\n\n\n\nHomework is due by 11:59 PM (Asia/Riyadh) unless stated otherwise.\nSubmit via Gradescope (link/code will be posted when available).",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Homework"
+    ]
+  },
+  {
+    "objectID": "homework.html#assignments",
+    "href": "homework.html#assignments",
+    "title": "Homework",
+    "section": "Assignments",
+    "text": "Assignments\n\n\n\nAssignment\nRelease\nDue\nFiles\n\n\n\n\nHW 1\nJan. 28\nFeb. 7\nHW1 folder\n\n\nHW 2\nTBA\nTBA\n—\n\n\nHW 3\nTBA\nTBA\n—\n\n\n\n\n\n\n\n\n\nTipQuick checklist (submission)\n\n\n\n\nSubmit one PDF (clear scans, high contrast).\nStart each question on a new page (recommended).\nIf asked to submit code, include it in the PDF or as a separate file as instructed.\nMake sure your work is readable. Illegible submissions may lose points.",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Homework"
+    ]
+  },
+  {
+    "objectID": "homework.html#policies",
+    "href": "homework.html#policies",
+    "title": "Homework",
+    "section": "Policies",
+    "text": "Policies\n\n\nCollaboration policy and honor code\nHomework must be completed individually.\nYou may discuss concepts and approaches at a high level, but your submitted work must be entirely your own.\n\nCopying any part of another student’s solution is not allowed.\nCopying code or derivations is not allowed.\n\nSmall snippets of publicly available code (e.g., StackOverflow) may be used only if properly attributed, and only when permitted by the homework instructions.\n\n\nGenerative AI tools policy\nUnless explicitly permitted by the instructor for a specific assignment, the use of generative AI tools for any part of your homework is not allowed and will be treated as plagiarism.\n\n\nRegrade policy\nRegrade requests are submitted through Gradescope. Include a clear explanation of the grading error.\n\nDeadline: within 1 week of receiving your grade, by 11:59 PM.\nWe may regrade the entire assignment (your score may go up or down).\n\nLegitimate requests - Points were added incorrectly. - The answer exists but was on a different page. - The grader claims a specific case fails, but your implementation works for that case.\nIllegitimate requests - Disagreeing with the rubric / asking for more partial credit without an error. - “My solution wasn’t clear, but what I meant was correct.”",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Homework"
     ]
   },
   {
@@ -235,47 +277,5 @@
     "title": "Project",
     "section": "FAQ",
     "text": "FAQ\nDo we need hardware?\nNo—simulation-only projects are acceptable and often recommended.\nCan we reuse code?\nYes, but cite it and clearly state what you implemented vs reused.\nWhat if our results are negative?\nThat’s okay. A good project can show what didn’t work and why, as long as the evaluation is thoughtful."
-  },
-  {
-    "objectID": "hw_policy.html",
-    "href": "hw_policy.html",
-    "title": "Homework Policies",
-    "section": "",
-    "text": "NoteHomework Policies (EE656)\n\n\n\nThis page contains homework rules and procedures. For due dates and files, see the Homework page."
-  },
-  {
-    "objectID": "hw_policy.html#submission-guidelines",
-    "href": "hw_policy.html#submission-guidelines",
-    "title": "Homework Policies",
-    "section": "Submission guidelines",
-    "text": "Submission guidelines\n\n\n\n\n\n\nTipWhat to submit\n\n\n\n\nSubmit a single PDF unless the assignment explicitly requests additional files.\nYour submission must be clear and readable (high-quality scan or direct PDF export).\nIf code is required, include it as instructed (either embedded in the PDF or as a separate upload).\n\n\n\n\nGood practices\n\nStart each question on a new page (recommended).\nFor multi-page answers, keep pages in order and label them clearly.\nIf using Gradescope, map pages to questions accurately."
-  },
-  {
-    "objectID": "hw_policy.html#late-day-policy",
-    "href": "hw_policy.html#late-day-policy",
-    "title": "Homework Policies",
-    "section": "Late day policy",
-    "text": "Late day policy\n\n\n\n\n\n\nYou have 6 late days total for the semester, with a maximum of 2 late days per assignment.\n\nEach late day is a 24-hour extension.\nNo credit is given after 48 hours past the deadline.\nYou are responsible for tracking your remaining late days."
-  },
-  {
-    "objectID": "hw_policy.html#collaboration-policy-and-honor-code",
-    "href": "hw_policy.html#collaboration-policy-and-honor-code",
-    "title": "Homework Policies",
-    "section": "Collaboration policy and honor code",
-    "text": "Collaboration policy and honor code\n\n\n\n\n\n\nWarningCollaboration rules\n\n\n\n✅ Allowed - Discussing concepts and high-level approaches with classmates - Studying together and comparing understanding without sharing written solutions\n❌ Not allowed - Copying any part of another student’s solution - Sharing or copying code, derivations, or calculations - Submitting work that is not fully your own\n\n\nIf you use any external resources (e.g., a textbook example, an online reference, or a small snippet of code), you must cite it clearly in your submission."
-  },
-  {
-    "objectID": "hw_policy.html#generative-ai-tools-policy",
-    "href": "hw_policy.html#generative-ai-tools-policy",
-    "title": "Homework Policies",
-    "section": "Generative AI tools policy",
-    "text": "Generative AI tools policy\n\n\n\n\n\n\nUnless explicitly permitted by the instructor for a specific homework, the use of generative AI tools for any part of your work is not allowed and will be treated as plagiarism."
-  },
-  {
-    "objectID": "hw_policy.html#regrade-policy",
-    "href": "hw_policy.html#regrade-policy",
-    "title": "Homework Policies",
-    "section": "Regrade policy",
-    "text": "Regrade policy\nRegrade requests must be submitted via the course submission system (e.g., Gradescope) and must include a clear explanation.\n\nDeadline: within 1 week of receiving your grade, by 11:59 PM.\nWe reserve the right to regrade the entire homework; your score may go up or down.\n\n\nLegitimate regrade requests\n\nPoints were added incorrectly.\nThe grader missed your work because it was on a different page.\nThe grader claims your method fails in a specific case, but it works as implemented.\n\n\n\nIllegitimate regrade requests\n\nDisagreeing with the rubric without a grading error.\n“My solution wasn’t clear, but what I meant is correct.”"
   }
 ]

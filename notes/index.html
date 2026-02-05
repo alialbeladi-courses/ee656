@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="EE656 Instructor">
+<meta name="dcterms.date" content="2026-02-05">
 
-<title>Homework Policies – EE656: Robotics &amp; Control</title>
+<title>Lecture Notes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +32,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./chapters/01_intro.html" rel="next">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -42,15 +45,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-8b4baf804e461d9b72633f0de59a0cac.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-53c5ebc449d387a588d89e31f54849ef.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-e108e1ddb79919010488eab12554991c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-53c5ebc449d387a588d89e31f54849ef.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c739e10f4c0e9ef093932954520ecc75.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-d3eaaee887113be1758f198bb33f4d80.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-c739e10f4c0e9ef093932954520ecc75.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
+  "location": "sidebar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
+  "panel-placement": "start",
+  "type": "textbox",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -77,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar floating nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-sidebar floating quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -243,59 +246,12 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
-      <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">EE656: Robotics &amp; Control</span>
-    </a>
-  </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-  <span class="navbar-toggler-icon"></span>
-</button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./schedule.html"> 
-<span class="menu-text">Schedule</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./homework.html"> 
-<span class="menu-text">Homework</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./policy.html"> 
-<span class="menu-text">Policy</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./notes/"> 
-<span class="menu-text">Lecture Notes</span></a>
-  </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/alialbeladi-courses/ee656"> <i class="bi bi-github" role="img" aria-label="GitHub">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-</ul>
-          </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-</div>
-      </div> <!-- /container-fluid -->
-    </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Homework Policies</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Preface</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -305,9 +261,17 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Lecture Notes</a> 
+        <div class="sidebar-tools-main">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+    </div>
+      </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
@@ -315,56 +279,25 @@ ul.task-list li input[type="checkbox"] {
         </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
- <span class="menu-text">Course Info</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
-          <li class="sidebar-item">
+        <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">EE656: Robotics &amp; Control</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Preface</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./policy.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Course Policy</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
- <span class="menu-text">Schedule</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Basics</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
-          <li class="sidebar-item">
- <span class="menu-text">calendar.qmd</span>
-  </li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
- <span class="menu-text">Assignments</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./homework.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Homework</span></a>
+  <a href="./chapters/01_intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction to Robotics</span></span></a>
   </div>
 </li>
       </ul>
@@ -376,20 +309,12 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
+    <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#submission-guidelines" id="toc-submission-guidelines" class="nav-link active" data-scroll-target="#submission-guidelines">Submission guidelines</a>
+  <li><a href="#preface" id="toc-preface" class="nav-link active" data-scroll-target="#preface">Preface</a>
   <ul class="collapse">
-  <li><a href="#good-practices" id="toc-good-practices" class="nav-link" data-scroll-target="#good-practices">Good practices</a></li>
-  </ul></li>
-  <li><a href="#late-day-policy" id="toc-late-day-policy" class="nav-link" data-scroll-target="#late-day-policy">Late day policy</a></li>
-  <li><a href="#collaboration-policy-and-honor-code" id="toc-collaboration-policy-and-honor-code" class="nav-link" data-scroll-target="#collaboration-policy-and-honor-code">Collaboration policy and honor code</a></li>
-  <li><a href="#generative-ai-tools-policy" id="toc-generative-ai-tools-policy" class="nav-link" data-scroll-target="#generative-ai-tools-policy">Generative AI tools policy</a></li>
-  <li><a href="#regrade-policy" id="toc-regrade-policy" class="nav-link" data-scroll-target="#regrade-policy">Regrade policy</a>
-  <ul class="collapse">
-  <li><a href="#legitimate-regrade-requests" id="toc-legitimate-regrade-requests" class="nav-link" data-scroll-target="#legitimate-regrade-requests">Legitimate regrade requests</a></li>
-  <li><a href="#illegitimate-regrade-requests" id="toc-illegitimate-regrade-requests" class="nav-link" data-scroll-target="#illegitimate-regrade-requests">Illegitimate regrade requests</a></li>
+  <li><a href="#contents" id="toc-contents" class="nav-link" data-scroll-target="#contents">Contents</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -400,14 +325,26 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Homework Policies</h1>
+<h1 class="title">Lecture Notes</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>EE656 Instructor </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 5, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -417,122 +354,13 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="callout callout-style-simple callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Homework Policies (EE656)
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>This page contains homework rules and procedures. For due dates and files, see the <a href="./homework.html">Homework</a> page.</p>
-</div>
-</div>
-<hr>
-<section id="submission-guidelines" class="level2">
-<h2 class="anchored" data-anchor-id="submission-guidelines">Submission guidelines</h2>
-<div class="callout callout-style-simple callout-tip no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>What to submit
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Submit a <strong>single PDF</strong> unless the assignment explicitly requests additional files.</li>
-<li>Your submission must be <strong>clear and readable</strong> (high-quality scan or direct PDF export).</li>
-<li>If code is required, include it <strong>as instructed</strong> (either embedded in the PDF or as a separate upload).</li>
-</ul>
-</div>
-</div>
-<section id="good-practices" class="level3">
-<h3 class="anchored" data-anchor-id="good-practices">Good practices</h3>
-<ul>
-<li>Start <strong>each question on a new page</strong> (recommended).</li>
-<li>For multi-page answers, keep pages in order and label them clearly.</li>
-<li>If using Gradescope, map <strong>pages to questions</strong> accurately.</li>
-</ul>
-<hr>
-</section>
-</section>
-<section id="late-day-policy" class="level2">
-<h2 class="anchored" data-anchor-id="late-day-policy">Late day policy</h2>
-<div class="callout callout-style-simple callout-warning no-icon">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-body-container">
-<p>You have <strong>6 late days</strong> total for the semester, with a maximum of <strong>2 late days per assignment</strong>.</p>
-<ul>
-<li>Each late day is a <strong>24-hour extension</strong>.</li>
-<li>No credit is given after <strong>48 hours</strong> past the deadline.</li>
-<li>You are responsible for tracking your remaining late days.</li>
-</ul>
-</div>
-</div>
-</div>
-<hr>
-</section>
-<section id="collaboration-policy-and-honor-code" class="level2">
-<h2 class="anchored" data-anchor-id="collaboration-policy-and-honor-code">Collaboration policy and honor code</h2>
-<div class="callout callout-style-simple callout-warning no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Warning</span>Collaboration rules
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>✅ <strong>Allowed</strong> - Discussing concepts and high-level approaches with classmates - Studying together and comparing understanding <em>without sharing written solutions</em></p>
-<p>❌ <strong>Not allowed</strong> - Copying any part of another student’s solution - Sharing or copying code, derivations, or calculations - Submitting work that is not fully your own</p>
-</div>
-</div>
-<p>If you use any external resources (e.g., a textbook example, an online reference, or a small snippet of code), you must <strong>cite it clearly</strong> in your submission.</p>
-<hr>
-</section>
-<section id="generative-ai-tools-policy" class="level2">
-<h2 class="anchored" data-anchor-id="generative-ai-tools-policy">Generative AI tools policy</h2>
-<div class="callout callout-style-simple callout-important no-icon">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-body-container">
-<p>Unless explicitly permitted by the instructor for a specific homework, the use of generative AI tools for any part of your work is <strong>not allowed</strong> and will be treated as plagiarism.</p>
-</div>
-</div>
-</div>
-<hr>
-</section>
-<section id="regrade-policy" class="level2">
-<h2 class="anchored" data-anchor-id="regrade-policy">Regrade policy</h2>
-<p>Regrade requests must be submitted via the course submission system (e.g., Gradescope) and must include a clear explanation.</p>
-<ul>
-<li>Deadline: within <strong>1 week</strong> of receiving your grade, by <strong>11:59 PM</strong>.</li>
-<li>We reserve the right to regrade the <strong>entire</strong> homework; your score may go <strong>up or down</strong>.</li>
-</ul>
-<section id="legitimate-regrade-requests" class="level3">
-<h3 class="anchored" data-anchor-id="legitimate-regrade-requests">Legitimate regrade requests</h3>
-<ul>
-<li>Points were added incorrectly.</li>
-<li>The grader missed your work because it was on a different page.</li>
-<li>The grader claims your method fails in a specific case, but it works as implemented.</li>
-</ul>
-</section>
-<section id="illegitimate-regrade-requests" class="level3">
-<h3 class="anchored" data-anchor-id="illegitimate-regrade-requests">Illegitimate regrade requests</h3>
-<ul>
-<li>Disagreeing with the rubric without a grading error.</li>
-<li>“My solution wasn’t clear, but what I meant is correct.”</li>
-</ul>
+<section id="preface" class="level1 unnumbered">
+<h1 class="unnumbered">Preface</h1>
+<p>Welcome to the lecture notes for <strong>EE656: Robotics &amp; Control</strong>.</p>
+<p>These notes are designed to accompany the course lectures and provide a structured reference for students.</p>
+<section id="contents" class="level2">
+<h2 class="anchored" data-anchor-id="contents">Contents</h2>
+<p>The notes are organized into parts, starting with the basics of robotics modeling and moving towards advanced control techniques.</p>
 
 
 </section>
@@ -625,7 +453,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/alialbeladi-courses\.github\.io\/ee656");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -957,26 +785,16 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
-</div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-<p>EE656 — Robotics &amp; Control · KFUPM</p>
-</div>   
-    <div class="nav-footer-center">
-      &nbsp;
-    </div>
-    <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item">
-    <a class="nav-link" href="https://github.com/alialbeladi-courses/ee656">
-<p>GitHub</p>
-</a>
-  </li>  
-</ul>
-    </div>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
   </div>
-</footer>
+  <div class="nav-page nav-page-next">
+      <a href="./chapters/01_intro.html" class="pagination-link" aria-label="Introduction to Robotics">
+        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction to Robotics</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
 
 
 
