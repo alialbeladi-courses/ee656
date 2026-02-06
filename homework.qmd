@@ -7,7 +7,7 @@ toc: true
 ::: {.callout-note appearance="minimal"}
 ## Submission
 Homework is due by **11:59 PM (Asia/Riyadh)** unless stated otherwise.  
-Submit via Gradescope (link/code will be posted when available).
+Submit via [Gradescope](https://www.gradescope.com/courses/1252980/). Your code should be given as a shared folder (e.g. Onedrive) or a Github repository.
 :::
 
 ---
