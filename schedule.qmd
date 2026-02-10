@@ -57,7 +57,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
 | **Feb 8** | **Uncertainty in SE(3) 1** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCju6s2nueZTrO48BzexQiJAdZE_4Umr0nmpmg6GKjwW9o?e=QgQJMM){.btn .btn-sm .btn-outline-primary}  |  |
-| **Feb 10** | **Uncertainty in SE(3) 2** | Notes: *TBA* |  |
+| **Feb 10** | **Uncertainty in SE(3) 2** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQD_XYCYigZ_QqH7DndeqvAGAeCfKeWAhAbrIqVN_-EQNtM?e=42CcaR){.btn .btn-sm .btn-outline-primary} |  |
 
 ---
 
