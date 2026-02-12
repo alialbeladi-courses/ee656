@@ -17,7 +17,7 @@ Submit via [Gradescope](https://www.gradescope.com/courses/1252980/). Your code 
 | Assignment | Release | Due | Files |
 |---|---:|---:|---|
 | **HW 1** | Jan. 28 | Feb. 7 | [HW1 folder](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/albeladi_kfupm_edu_sa/IgAwvTQsCYDlToO0XQA_om0cAbtevfBGd-lDneL8GVIDUi0?e=hL0NRN){.btn .btn-sm .btn-outline-primary} |
-| **HW 2** | Feb. 12 | Feb. 20 |[HW2 folder](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQD33hl28b19SZLGK4slhgPeAe1HApDJQLP84Rqpdb9OmEg?e=NnC9VK){.btn .btn-sm .btn-outline-primary} |
+| **HW 2** | Feb. 12 | Feb. 20 |[HW2 folder](https://kfupmedusa-my.sharepoint.com/:f:/g/personal/albeladi_kfupm_edu_sa/IgCgL5Vc47MwQq-pbuwV6NZ4AUr9oNkHljGejke7PENddTI?e=W73eM6){.btn .btn-sm .btn-outline-primary} |
 | **HW 3** | TBA | TBA | — |
 
 ::: {.callout-tip appearance="minimal"}
