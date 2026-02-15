@@ -39,7 +39,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
 | **Jan 25** | **Filtering vs. Smoothing** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCtWnJSDiCkTJJfCPFZ-kKmAeYmMgx1wkpKDv0uTctIZYo?e=y6BnbR){.btn .btn-sm .btn-outline-primary} | [HW1 out](homework.qmd){.btn .btn-sm .btn-warning} |
-| **Jan 27** | **Rigid-body transformations** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQC5GmwbJSS3QLV9tz6hm0A1AStxVPBQkPye9JKRd_pfDl4?e=N6tLKA){.btn .btn-sm .btn-outline-primary} <br> Reading: [[LP] Chp. 3.1](policy.qmd\textbooks)  |  |
+| **Jan 27** | **Rigid-body transformations** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQC5GmwbJSS3QLV9tz6hm0A1AStxVPBQkPye9JKRd_pfDl4?e=N6tLKA){.btn .btn-sm .btn-outline-primary} <br> Reading: [[LP] Chp. 3.1](policy.qmd#textbooks)  |  |
 
 ---
 
