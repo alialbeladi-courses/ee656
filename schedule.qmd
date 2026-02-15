@@ -39,7 +39,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
 | **Jan 25** | **Filtering vs. Smoothing** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCtWnJSDiCkTJJfCPFZ-kKmAeYmMgx1wkpKDv0uTctIZYo?e=y6BnbR){.btn .btn-sm .btn-outline-primary} | [HW1 out](homework.qmd){.btn .btn-sm .btn-warning} |
-| **Jan 27** | **Rigid-body transformations** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQC5GmwbJSS3QLV9tz6hm0A1AStxVPBQkPye9JKRd_pfDl4?e=N6tLKA){.btn .btn-sm .btn-outline-primary} |  |
+| **Jan 27** | **Rigid-body transformations** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQC5GmwbJSS3QLV9tz6hm0A1AStxVPBQkPye9JKRd_pfDl4?e=N6tLKA){.btn .btn-sm .btn-outline-primary} <br> Modern Robotics  |  |
 
 ---
 
@@ -57,7 +57,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
 | **Feb 8** | **Uncertainty in SE(3) 1** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCju6s2nueZTrO48BzexQiJAdZE_4Umr0nmpmg6GKjwW9o?e=QgQJMM){.btn .btn-sm .btn-outline-primary}  |  |
-| **Feb 10** | **Uncertainty in SE(3) 2** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQD_XYCYigZ_QqH7DndeqvAGAeCfKeWAhAbrIqVN_-EQNtM?e=42CcaR){.btn .btn-sm .btn-outline-primary} |  |
+| **Feb 10** | **Uncertainty in SE(3) 2** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQD_XYCYigZ_QqH7DndeqvAGAeCfKeWAhAbrIqVN_-EQNtM?e=42CcaR){.btn .btn-sm .btn-outline-primary} | [HW2 out](homework.qmd){.btn .btn-sm .btn-warning} |
 
 ---
 
