@@ -72,6 +72,7 @@ A modern, implementation-oriented treatment of estimation: least-squares, Kalman
 - **[CAK] SLAM Handbook: From Localization and Mapping to Spatial Intelligence** (Carlone, Luca; Kim, Ayoung; Barfoot, Timothy; Cremers, Daniel; Dellaert, Frank)
 A broad handbook covering factor-graph SLAM foundations, sensing modalities (camera/LiDAR/radar/IMU), robust optimization, evaluation methodology, and emerging directions in spatial intelligence.
 
+- **[LP] Modern Robotics: Mechanics, Planning, and Control** (Lynch KM, Park FC), Cambridge University Press; 2017.
 
 ### Software
 - MATLAB/Simulink and/or Python may be used for assignments and project work (details will be announced).
