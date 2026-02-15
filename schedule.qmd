@@ -61,6 +61,15 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 ---
 
+## Week 6 
+
+| Date | Topic | Materials | Deadlines |
+|---|---|---|---|
+| **Feb 15** | **Uncertainty in SE(3) 3** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQDmKx0I-5mGRLB-zj_14HcvAb8sllz6ns7uK5kad4CAZI8?e=qcnmCx){.btn .btn-sm .btn-outline-primary}  |  |
+| **Feb 17** | **Uncertainty in SE(3) 2** |  ||
+
+
+
 ::: {.callout-warning appearance="minimal"}
 ### Access note (if using SharePoint links)
 If a file link does not open, ensure you are logged in with your **KFUPM** account in the same browser.
