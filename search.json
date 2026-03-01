@@ -49,6 +49,42 @@
     "text": "Week 6\n\n\n\nDate\nTopic\nMaterials\nDeadlines\n\n\n\n\nFeb 15\nUncertainty in SE(3) 3\nSlides (PDF)\n\n\n\nFeb 17\nUncertainty in SE(3) 2\n\n\n\n\n\n\n\n\n\n\n\nWarningAccess note (if using SharePoint links)\n\n\n\nIf a file link does not open, ensure you are logged in with your KFUPM account in the same browser."
   },
   {
+    "objectID": "project/index.html",
+    "href": "project/index.html",
+    "title": "Course Project",
+    "section": "",
+    "text": "NoteEE656 Course Project\n\n\n\nThe project is a major component of the course. You will choose a topic in robotics perception, implement or validate a method, and communicate your results in a short technical report and presentation.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Course Project"
+    ]
+  },
+  {
+    "objectID": "project/index.html#key-dates",
+    "href": "project/index.html#key-dates",
+    "title": "Course Project",
+    "section": "Key Dates",
+    "text": "Key Dates\n\n\n\nMilestone\nDate\n\n\n\n\nProposal due\nMar 10\n\n\nProgress report\nApr 12\n\n\nFinal report\nMay 12",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Course Project"
+    ]
+  },
+  {
+    "objectID": "project/index.html#project-pages",
+    "href": "project/index.html#project-pages",
+    "title": "Course Project",
+    "section": "Project Pages",
+    "text": "Project Pages\n\n\n\n\n🧭 Guidelines\nScope, team policy, acceptable project types, grading philosophy, and reproducibility expectations.\nRead the guidelines →\n\n\n\n\n\n\n📝 Proposal\nWhat to submit, required sections, and a self-check checklist.\nProposal instructions →",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Course Project"
+    ]
+  },
+  {
     "objectID": "policy.html",
     "href": "policy.html",
     "title": "Course Policy",
@@ -223,66 +259,147 @@
     ]
   },
   {
-    "objectID": "project.html",
-    "href": "project.html",
-    "title": "Project",
+    "objectID": "project/guidelines.html",
+    "href": "project/guidelines.html",
+    "title": "Project Guidelines",
     "section": "",
-    "text": "NoteEE656 Course Project\n\n\n\nThe project is a major part of the course and is designed to develop practical skill in robot modeling and control. You will choose a topic, implement/validate a method, and communicate results in a short technical report and presentation."
+    "text": "Key dates · Proposal Mar 10 · Progress report Apr 12 · Final report May 12",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project Guidelines"
+    ]
   },
   {
-    "objectID": "project.html#overview",
-    "href": "project.html#overview",
-    "title": "Project",
-    "section": "Overview",
-    "text": "Overview\n\nGoal\nBuild and evaluate a robotics/control solution that connects course theory to a realistic problem.\nTypical project directions - Modeling + control of a manipulator (joint-space control, computed torque, gravity compensation) - Kinematics/IK with constraints and singularity handling - Trajectory generation and tracking performance comparison - Dynamics identification or parameter sensitivity analysis - Task-space control concepts (if covered/time-permitting)\n\n\n\n\n\n\nTipRecommended scope\n\n\n\nA strong project is small but complete: clear problem statement → method → implementation → evaluation → conclusions."
+    "objectID": "project/guidelines.html#purpose",
+    "href": "project/guidelines.html#purpose",
+    "title": "Project Guidelines",
+    "section": "Purpose",
+    "text": "Purpose\nThe course project is your chance to try something new in robotics perception and produce a result that is useful and defensible: a solid reimplementation, a careful evaluation, a meaningful extension, a dataset/toolkit, or a hardware demo with clear analysis.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project Guidelines"
+    ]
   },
   {
-    "objectID": "project.html#team-rules",
-    "href": "project.html#team-rules",
-    "title": "Project",
-    "section": "Team rules",
-    "text": "Team rules\n\nTeams of 1–3 students (unless announced otherwise).\nEveryone must contribute to implementation and writing.\nYou may use simulation environments and public libraries, but you must cite external resources and clearly state what you reused."
+    "objectID": "project/guidelines.html#team-policy",
+    "href": "project/guidelines.html#team-policy",
+    "title": "Project Guidelines",
+    "section": "Team policy",
+    "text": "Team policy\n\nProjects are done in pairs (2 students).\nSolo projects require instructor approval.\nUse MS Teams channels:\n\nProject teammate search\nProject Ideas\n\nTalk to the instructor early if you’re uncertain about scope or feasibility.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project Guidelines"
+    ]
   },
   {
-    "objectID": "project.html#deliverables",
-    "href": "project.html#deliverables",
-    "title": "Project",
-    "section": "Deliverables",
-    "text": "Deliverables\n\n\n\n\n\n\n\n\nDeliverable\nWhat to submit\nNotes\n\n\n\n\nProposal\n1–2 pages PDF\nproblem, approach, expected results, tools, timeline\n\n\nCheckpoint\nshort update (slides or memo)\nwhat works, what doesn’t, next steps\n\n\nFinal report\n6–10 pages PDF\nconference-style writing with figures and results\n\n\nPresentation / demo\nslides + (optional) short video\n8–12 minutes typical\n\n\n\n\n\n\n\n\n\nImportantReport quality expectations\n\n\n\nYour report should include: problem statement, method, implementation details, results, and discussion. Plots must be labeled and readable; claims must be supported by results."
+    "objectID": "project/guidelines.html#what-makes-a-strong-project",
+    "href": "project/guidelines.html#what-makes-a-strong-project",
+    "title": "Project Guidelines",
+    "section": "What makes a strong project",
+    "text": "What makes a strong project\nA strong project has:\n\nA clear question — what are you trying to learn / verify / build?\nA measurable outcome — metrics, ablations, failure cases, qualitative demos.\nA baseline and a fair comparison.\nEvidence of real work beyond “running someone else’s repo.”",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project Guidelines"
+    ]
   },
   {
-    "objectID": "project.html#milestones-template",
-    "href": "project.html#milestones-template",
-    "title": "Project",
-    "section": "Milestones (template)",
-    "text": "Milestones (template)\nDates will be posted on the Schedule page. This is the typical flow:\n\nWeek 2–3: topic selection + team formation\nWeek 4: proposal due\nWeek 7–8: checkpoint / early results\nFinal weeks: final report + presentation/demo"
+    "objectID": "project/guidelines.html#acceptable-project-types",
+    "href": "project/guidelines.html#acceptable-project-types",
+    "title": "Project Guidelines",
+    "section": "Acceptable project types",
+    "text": "Acceptable project types\nPick one “flavor”:\n\n\nReimplementation + validation\nReproduce a key claim/plot from a paper and add one extension.\n\n\nCode + experimentation\nStart from open-source code, but do systematic evaluation, comparisons, and modifications.\n\n\nProblem-driven system\nDesign and implement a perception/estimation pipeline with testable outputs.\n\n\nDataset / benchmark / toolkit\nInclude baselines, evaluation scripts, and at least one insight enabled by the dataset.\n\n\nHardware-in-the-loop\nImplement class methods on real sensors or logged data; document calibration and limitations.\n\n\n\n\n\n\n\n\nNot sufficient: Running the authors’ code on the authors’ data and reporting their numbers.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project Guidelines"
+    ]
   },
   {
-    "objectID": "project.html#evaluation-rubric-high-level",
-    "href": "project.html#evaluation-rubric-high-level",
-    "title": "Project",
-    "section": "Evaluation rubric (high level)",
-    "text": "Evaluation rubric (high level)\n\n\n\n\n\n\n\n\nCategory\nWeight\nWhat we look for\n\n\n\n\nTechnical correctness\n35%\ncorrect formulation, sound method, correct implementation\n\n\nResults & evaluation\n30%\nmeaningful experiments, clear comparisons, insights\n\n\nClarity & communication\n20%\nwell-structured report, readable figures, clear writing\n\n\nOriginality & ambition\n15%\nthoughtful problem choice, extensions beyond baseline"
+    "objectID": "project/guidelines.html#minimum-target-stretch-goals",
+    "href": "project/guidelines.html#minimum-target-stretch-goals",
+    "title": "Project Guidelines",
+    "section": "Minimum / Target / Stretch goals",
+    "text": "Minimum / Target / Stretch goals\nEvery team must define three tiers of goals:\n\n\n\n\n\n\n\nTier\nWhat it means\n\n\n\n\nMinimum (must succeed)\nWorking pipeline + baseline + dataset + at least one metric\n\n\nTarget\nSolid experiments + ablations + clear conclusions + good visuals\n\n\nStretch\nAmbitious extension if time allows\n\n\n\nThis framing helps you avoid overcommitment and helps us grade fairly.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project Guidelines"
+    ]
   },
   {
-    "objectID": "project.html#topic-ideas-starter-list",
-    "href": "project.html#topic-ideas-starter-list",
-    "title": "Project",
-    "section": "Topic ideas (starter list)",
-    "text": "Topic ideas (starter list)\n\nCompare PD vs computed-torque on a 2-link arm (tracking + robustness tests)\nStudy IK methods (Jacobian transpose vs pseudoinverse vs damped least squares)\nAnalyze singularities and mitigation strategies in task-space motion\nTrajectory design: compare cubic vs quintic polynomials for smoothness and tracking\nAdd constraints: joint limits, velocity limits, simple obstacle avoidance"
+    "objectID": "project/guidelines.html#reproducibility-expectations",
+    "href": "project/guidelines.html#reproducibility-expectations",
+    "title": "Project Guidelines",
+    "section": "Reproducibility expectations",
+    "text": "Reproducibility expectations\nBy the end, your project should be reproducible by a competent student:\n\nClear README\nHow to get data / expected folder structure\nDependencies / environment notes\nCommands to run\nWhat outputs should look like",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project Guidelines"
+    ]
   },
   {
-    "objectID": "project.html#academic-integrity",
-    "href": "project.html#academic-integrity",
-    "title": "Project",
-    "section": "Academic integrity",
-    "text": "Academic integrity\n\n\n\n\n\n\nYou may collaborate within your team, but the final submission must reflect your team’s own work. All external resources (code, figures, ideas) must be cited."
+    "objectID": "project/guidelines.html#academic-integrity-and-credit",
+    "href": "project/guidelines.html#academic-integrity-and-credit",
+    "title": "Project Guidelines",
+    "section": "Academic integrity and credit",
+    "text": "Academic integrity and credit\n\n\n\n\n\n\n\nExternal code and libraries are allowed with citation.\nYour grade reflects your contribution: modifications, experiments, analysis, and code you wrote.\nClearly separate: reused, modified, and written from scratch.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project Guidelines"
+    ]
   },
   {
-    "objectID": "project.html#faq",
-    "href": "project.html#faq",
-    "title": "Project",
-    "section": "FAQ",
-    "text": "FAQ\nDo we need hardware?\nNo—simulation-only projects are acceptable and often recommended.\nCan we reuse code?\nYes, but cite it and clearly state what you implemented vs reused.\nWhat if our results are negative?\nThat’s okay. A good project can show what didn’t work and why, as long as the evaluation is thoughtful."
+    "objectID": "project/guidelines.html#grading-philosophy",
+    "href": "project/guidelines.html#grading-philosophy",
+    "title": "Project Guidelines",
+    "section": "Grading philosophy",
+    "text": "Grading philosophy\nWe grade based on project quality and report clarity:\n\n\n\n\n\n\n\nDimension\nWhat we look for\n\n\n\n\nTechnical correctness & depth\nSound formulation, correct implementation\n\n\nExperimental methodology\nBaselines, metrics, fair comparisons\n\n\nInsight\nFailure analysis, interpretation of results\n\n\nOriginality\nIdea, extension, evaluation, or dataset choice\n\n\nReproducibility & writing\nClean repo, readable report\n\n\n\n\n\n\n\n\n\nNegative results can still score well if the exploration is thorough and the analysis is thoughtful.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project Guidelines"
+    ]
+  },
+  {
+    "objectID": "project/proposal.html",
+    "href": "project/proposal.html",
+    "title": "Project Proposal",
+    "section": "",
+    "text": "Due: Mar 10 · Length: 2–3 pages (PDF) · Submit via Gradescope (one teammate submits; include both names)",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project Proposal"
+    ]
+  },
+  {
+    "objectID": "project/proposal.html#required-contents",
+    "href": "project/proposal.html#required-contents",
+    "title": "Project Proposal",
+    "section": "Required contents",
+    "text": "Required contents\nSubmit a 2–3 page PDF covering the following sections, in order:\n\n1. Team members\nFull names and IDs of all team members.\n\n\n2. Project title\nSpecific and informative — avoid vague titles like “SLAM Project.”\n\n\n3. Problem statement & motivation\nWhat are you trying to do, and why does it matter?\n\n\n4. Approach (high-level plan)\n\nWhat are the core components / pipeline stages?\nKey assumptions or design choices.\n\n\n\n5. Evaluation plan\n\nDataset(s) you will use (include links) or your data collection plan.\nMetrics you will report.\nBaseline(s) you will compare against.\n\n\n\n6. Goals\n\n\n\nTier\nDescription\n\n\n\n\nMinimum\nBrief but concrete\n\n\nTarget\nBrief but concrete\n\n\nStretch\nBrief but concrete\n\n\n\n\n\n7. Team roles\nWho owns which components? How will integration happen?\n\n\n8. Resources\nCompute needs, sensors, libraries, external code you will use, and how you will build on it.\n\n\n9. Risks & fallback plan\nWhat could go wrong? What will you do if it does?\n\n\n10. Relationship to your background\nWhat is new vs. familiar? If related to your research / RA work, describe the overlap and the novelty.",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project Proposal"
+    ]
+  },
+  {
+    "objectID": "project/proposal.html#proposal-checklist",
+    "href": "project/proposal.html#proposal-checklist",
+    "title": "Project Proposal",
+    "section": "Proposal checklist",
+    "text": "Proposal checklist\nUse this quick self-check before submitting:\n\nClear question and scope\nDataset + metrics + baseline identified\nMinimum goal is realistic\nRisks + Plan B stated\nRole split is concrete",
+    "crumbs": [
+      "Home",
+      "Project",
+      "Project Proposal"
+    ]
   }
 ]
