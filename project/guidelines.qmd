@@ -14,6 +14,17 @@ toc: true
 
 The course project is your chance to try something new in robotics perception and produce a result that is **useful and defensible**: a solid reimplementation, a careful evaluation, a meaningful extension, a dataset/toolkit, or a hardware demo with clear analysis.
 
+::: {.callout-tip appearance="minimal"}
+**Where to find project ideas.** Start from recent papers at top robotics venues:
+
+- [**ICRA**](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings) — IEEE International Conference on Robotics and Automation
+- [**IROS**](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings) — IEEE/RSJ International Conference on Intelligent Robots and Systems
+- [**RA-L**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369) — IEEE Robotics and Automation Letters
+- [**T-RO**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860) — IEEE Transactions on Robotics
+
+These conferences and journals set the standard for the kind of work we expect — well-scoped problems with clear experimental evaluation. Browsing their proceedings is the best way to find a topic at the right level of depth and rigor.
+:::
+
 ---
 
 ## Team policy
@@ -46,7 +57,7 @@ Pick one "flavor":
 
 ::: {.accordion-item}
 ### Reimplementation + validation
-Reproduce a key claim/plot from a paper and add one extension.
+Reproduce a key claim/plot from a recent ICRA/IROS/RA-L/T-RO paper and add one extension.
 :::
 
 ::: {.accordion-item}
