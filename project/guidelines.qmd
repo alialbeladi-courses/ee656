@@ -31,9 +31,8 @@ These conferences and journals set the standard for the kind of work we expect â
 
 - Projects are done in **pairs** (2 students).
 - Solo projects require **instructor approval**.
-- Use MS Teams channels:
+- Use MS Teams channel:
   - *Project teammate search*
-  - *Project Ideas*
 - Talk to the instructor early if you're uncertain about scope or feasibility.
 
 ---
