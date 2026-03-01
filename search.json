@@ -275,7 +275,7 @@
     "href": "project/guidelines.html#purpose",
     "title": "Project Guidelines",
     "section": "Purpose",
-    "text": "Purpose\nThe course project is your chance to try something new in robotics perception and produce a result that is useful and defensible: a solid reimplementation, a careful evaluation, a meaningful extension, a dataset/toolkit, or a hardware demo with clear analysis.",
+    "text": "Purpose\nThe course project is your chance to try something new in robotics perception and produce a result that is useful and defensible: a solid reimplementation, a careful evaluation, a meaningful extension, a dataset/toolkit, or a hardware demo with clear analysis.\n\n\n\n\n\n\nWhere to find project ideas. Start from recent papers at top robotics venues:\n\nICRA — IEEE International Conference on Robotics and Automation\nIROS — IEEE/RSJ International Conference on Intelligent Robots and Systems\nRA-L — IEEE Robotics and Automation Letters\nT-RO — IEEE Transactions on Robotics\n\nThese conferences and journals set the standard for the kind of work we expect — well-scoped problems with clear experimental evaluation. Browsing their proceedings is the best way to find a topic at the right level of depth and rigor.",
     "crumbs": [
       "Home",
       "Project",
@@ -311,7 +311,7 @@
     "href": "project/guidelines.html#acceptable-project-types",
     "title": "Project Guidelines",
     "section": "Acceptable project types",
-    "text": "Acceptable project types\nPick one “flavor”:\n\n\nReimplementation + validation\nReproduce a key claim/plot from a paper and add one extension.\n\n\nCode + experimentation\nStart from open-source code, but do systematic evaluation, comparisons, and modifications.\n\n\nProblem-driven system\nDesign and implement a perception/estimation pipeline with testable outputs.\n\n\nDataset / benchmark / toolkit\nInclude baselines, evaluation scripts, and at least one insight enabled by the dataset.\n\n\nHardware-in-the-loop\nImplement class methods on real sensors or logged data; document calibration and limitations.\n\n\n\n\n\n\n\n\nNot sufficient: Running the authors’ code on the authors’ data and reporting their numbers.",
+    "text": "Acceptable project types\nPick one “flavor”:\n\n\nReimplementation + validation\nReproduce a key claim/plot from a recent ICRA/IROS/RA-L/T-RO paper and add one extension.\n\n\nCode + experimentation\nStart from open-source code, but do systematic evaluation, comparisons, and modifications.\n\n\nProblem-driven system\nDesign and implement a perception/estimation pipeline with testable outputs.\n\n\nDataset / benchmark / toolkit\nInclude baselines, evaluation scripts, and at least one insight enabled by the dataset.\n\n\nHardware-in-the-loop\nImplement class methods on real sensors or logged data; document calibration and limitations.\n\n\n\n\n\n\n\n\nNot sufficient: Running the authors’ code on the authors’ data and reporting their numbers.",
     "crumbs": [
       "Home",
       "Project",
