@@ -1,0 +1,130 @@
+---
+title: "Project Guidelines"
+format: html
+toc: true
+---
+
+::: {.callout-important appearance="minimal"}
+**Key dates** · Proposal **Mar 10** · Progress report **Apr 12** · Final report **May 12**
+:::
+
+---
+
+## Purpose
+
+The course project is your chance to try something new in robotics perception and produce a result that is **useful and defensible**: a solid reimplementation, a careful evaluation, a meaningful extension, a dataset/toolkit, or a hardware demo with clear analysis.
+
+---
+
+## Team policy
+
+- Projects are done in **pairs** (2 students).
+- Solo projects require **instructor approval**.
+- Use MS Teams channels:
+  - *Project teammate search*
+  - *Project Ideas*
+- Talk to the instructor early if you're uncertain about scope or feasibility.
+
+---
+
+## What makes a strong project
+
+A strong project has:
+
+1. A **clear question** — what are you trying to learn / verify / build?
+2. A **measurable outcome** — metrics, ablations, failure cases, qualitative demos.
+3. A **baseline and a fair comparison**.
+4. Evidence of **real work** beyond "running someone else's repo."
+
+---
+
+## Acceptable project types
+
+Pick one "flavor":
+
+::: {.accordion}
+
+::: {.accordion-item}
+### Reimplementation + validation
+Reproduce a key claim/plot from a paper and add one extension.
+:::
+
+::: {.accordion-item}
+### Code + experimentation
+Start from open-source code, but do systematic evaluation, comparisons, and modifications.
+:::
+
+::: {.accordion-item}
+### Problem-driven system
+Design and implement a perception/estimation pipeline with testable outputs.
+:::
+
+::: {.accordion-item}
+### Dataset / benchmark / toolkit
+Include baselines, evaluation scripts, and at least one insight enabled by the dataset.
+:::
+
+::: {.accordion-item}
+### Hardware-in-the-loop
+Implement class methods on real sensors or logged data; document calibration and limitations.
+:::
+
+:::
+
+::: {.callout-warning appearance="minimal"}
+**Not sufficient:** Running the authors' code on the authors' data and reporting their numbers.
+:::
+
+---
+
+## Minimum / Target / Stretch goals
+
+Every team must define three tiers of goals:
+
+| Tier | What it means |
+|---|---|
+| **Minimum** (must succeed) | Working pipeline + baseline + dataset + at least one metric |
+| **Target** | Solid experiments + ablations + clear conclusions + good visuals |
+| **Stretch** | Ambitious extension if time allows |
+
+This framing helps you avoid overcommitment and helps us grade fairly.
+
+---
+
+## Reproducibility expectations
+
+By the end, your project should be reproducible by a competent student:
+
+- Clear `README`
+- How to get data / expected folder structure
+- Dependencies / environment notes
+- Commands to run
+- What outputs should look like
+
+---
+
+## Academic integrity and credit
+
+::: {.callout-warning appearance="minimal"}
+- External code and libraries are **allowed with citation**.
+- Your grade reflects **your contribution**: modifications, experiments, analysis, and code you wrote.
+- Clearly separate: reused, modified, and written from scratch.
+:::
+
+---
+
+## Grading philosophy
+
+We grade based on **project quality** and **report clarity**:
+
+| Dimension | What we look for |
+|---|---|
+| Technical correctness & depth | Sound formulation, correct implementation |
+| Experimental methodology | Baselines, metrics, fair comparisons |
+| Insight | Failure analysis, interpretation of results |
+| Originality | Idea, extension, evaluation, or dataset choice |
+| Reproducibility & writing | Clean repo, readable report |
+
+::: {.callout-tip appearance="minimal"}
+**Negative results** can still score well if the exploration is thorough and the analysis is thoughtful.
+:::

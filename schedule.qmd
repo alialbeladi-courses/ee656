@@ -11,7 +11,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 ### How to use this page
 - **Slides/notes**: posted per lecture.
 - **Readings**: optional unless explicitly marked as required.
-- **Deadlines**: always cross-check the [Homework](homework.qmd) and [Project](project.qmd) pages.
+- **Deadlines**: always cross-check the [Homework](homework.qmd) and [Project](project/index.qmd) pages.
 :::
 
 ---

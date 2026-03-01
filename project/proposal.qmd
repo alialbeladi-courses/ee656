@@ -1,0 +1,72 @@
+---
+title: "Project Proposal"
+format: html
+toc: true
+---
+
+::: {.callout-important appearance="minimal"}
+**Due: Mar 10** · Length: 2–3 pages (PDF) · Submit via Gradescope (one teammate submits; include both names)
+:::
+
+::: {.callout-note appearance="minimal"}
+The proposal receives **written feedback** but does **not** carry a separate score.
+Take the feedback seriously — it will shape the quality of your final project.
+:::
+
+---
+
+## Required contents
+
+Submit a **2–3 page PDF** covering the following sections, **in order**:
+
+### 1. Team members
+Full names and IDs of all team members.
+
+### 2. Project title
+Specific and informative — avoid vague titles like "SLAM Project."
+
+### 3. Problem statement & motivation
+What are you trying to do, and why does it matter?
+
+### 4. Approach (high-level plan)
+
+- What are the core components / pipeline stages?
+- Key assumptions or design choices.
+
+### 5. Evaluation plan
+
+- **Dataset(s)** you will use (include links) or your data collection plan.
+- **Metrics** you will report.
+- **Baseline(s)** you will compare against.
+
+### 6. Goals
+
+| Tier | Description |
+|---|---|
+| **Minimum** | Brief but concrete |
+| **Target** | Brief but concrete |
+| **Stretch** | Brief but concrete |
+
+### 7. Team roles
+Who owns which components? How will integration happen?
+
+### 8. Resources
+Compute needs, sensors, libraries, external code you will use, and how you will build on it.
+
+### 9. Risks & fallback plan
+What could go wrong? What will you do if it does?
+
+### 10. Relationship to your background
+What is new vs. familiar? If related to your research / RA work, describe the overlap and the novelty.
+
+---
+
+## Proposal checklist
+
+Use this quick self-check before submitting:
+
+- [ ] Clear question and scope
+- [ ] Dataset + metrics + baseline identified
+- [ ] Minimum goal is realistic
+- [ ] Risks + Plan B stated
+- [ ] Role split is concrete

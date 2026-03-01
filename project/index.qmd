@@ -1,0 +1,52 @@
+---
+title: "Course Project"
+format: html
+toc: true
+---
+
+::: {.callout-note appearance="minimal"}
+## EE656 Course Project
+The project is a major component of the course. You will choose a topic in **robotics perception**, implement or validate a method, and communicate your results in a short technical report and presentation.
+:::
+
+---
+
+## Key Dates
+
+| Milestone | Date |
+|---|---:|
+| **Proposal due** | Mar 10 |
+| **Progress report** | Apr 12 |
+| **Final report** | May 12 |
+
+---
+
+## Project Pages
+
+::: {.grid}
+
+::: {.g-col-6}
+::: {.card .border-primary .h-100}
+::: {.card-body}
+### 🧭 Guidelines {.card-title}
+
+Scope, team policy, acceptable project types, grading philosophy, and reproducibility expectations.
+
+[Read the guidelines →](guidelines.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+:::
+
+::: {.g-col-6}
+::: {.card .border-primary .h-100}
+::: {.card-body}
+### 📝 Proposal {.card-title}
+
+What to submit, required sections, and a self-check checklist.
+
+[Proposal instructions →](proposal.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+:::
+
+:::

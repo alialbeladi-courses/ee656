@@ -3,6 +3,8 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
+    - "project/*.qmd"
+    - "!project/final.qmd"
     - "!notes/"
 
 website:
@@ -20,6 +22,14 @@ website:
         text: Schedule
       - href: homework.qmd
         text: Homework
+      - text: Project
+        menu:
+          - href: project/index.qmd
+            text: Overview
+          - href: project/guidelines.qmd
+            text: Guidelines
+          - href: project/proposal.qmd
+            text: Proposal
       - href: policy.qmd
         text: Policy
       - href: notes/
@@ -45,6 +55,11 @@ website:
       - section: "Assignments"
         contents:
           - homework.qmd
+      - section: "Project"
+        contents:
+          - project/index.qmd
+          - project/guidelines.qmd
+          - project/proposal.qmd
 
   page-footer:
     border: true
