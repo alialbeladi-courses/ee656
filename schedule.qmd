@@ -66,9 +66,16 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
 | **Feb 15** | **Uncertainty in SE(3) 3** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQDmKx0I-5mGRLB-zj_14HcvAb8sllz6ns7uK5kad4CAZI8?e=qcnmCx){.btn .btn-sm .btn-outline-primary}  |  |
-| **Feb 17** | **Uncertainty in SE(3) 2** |  ||
+| **Feb 17** | **Linear Optimization** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQBccdEg2YqdR5APCIO9zCvDAQFyf7T2zNclm4Jt-uUOKEM?e=MWraiz){.btn .btn-sm .btn-outline-primary}  | |
 
+---
 
+## Week 7
+
+| Date | Topic | Materials | Deadlines |
+|---|---|---|---|
+| **Feb 22** | **Holiday** |  |  |
+| **Feb 24** | **NonLinear Optimization** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCXZwuHSJHxSJiduU9xe56aAVIQYeVpFiNjQYYgTYKFBKU?e=TmWi5i){.btn .btn-sm .btn-outline-primary}  | |
 
 ::: {.callout-warning appearance="minimal"}
 ### Access note (if using SharePoint links)
