@@ -77,6 +77,15 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 | **Feb 22** | **Holiday** |  |  |
 | **Feb 24** | **NonLinear Optimization** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCXZwuHSJHxSJiduU9xe56aAVIQYeVpFiNjQYYgTYKFBKU?e=TmWi5i){.btn .btn-sm .btn-outline-primary}  | |
 
+---
+
+## Week 8
+
+| Date | Topic | Materials | Deadlines |
+|---|---|---|---|
+| **Mar 1** | **No Class** |  |  |
+| **Mar 3** | **NonLinear Optimization** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCqeM7F86JURbgE7UGzfKDyAWMdBmsotIkA9C1nqZKd0R0?e=A2wVl1){.btn .btn-sm .btn-outline-primary}  | |
+
 ::: {.callout-warning appearance="minimal"}
 ### Access note (if using SharePoint links)
 If a file link does not open, ensure you are logged in with your **KFUPM** account in the same browser.
