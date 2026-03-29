@@ -86,6 +86,76 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 | **Mar 1** | **No Class** |  |  |
 | **Mar 3** | **NonLinear Optimization** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCqeM7F86JURbgE7UGzfKDyAWMdBmsotIkA9C1nqZKd0R0?e=A2wVl1){.btn .btn-sm .btn-outline-primary}  | |
 
+---
+
+## Week 9
+
+| Date | Topic | Materials | Deadlines |
+|---|---|---|---|
+| **Mar 8** |  |  |  |
+| **Mar 10** |  |  | [Proposal due](project/proposal.qmd){.btn .btn-sm .btn-danger} |
+
+---
+
+::: {.callout-note appearance="minimal"}
+### Mid-semester break
+**Mar 15 – Mar 27** — No classes.
+:::
+
+---
+
+## Week 10
+
+| Date | Topic | Materials | Deadlines |
+|---|---|---|---|
+| **Mar 29** |  |  |  |
+| **Mar 31** |  |  |  |
+
+---
+
+## Week 11
+
+| Date | Topic | Materials | Deadlines |
+|---|---|---|---|
+| **Apr 5** |  |  |  |
+| **Apr 7** |  |  |  |
+
+---
+
+## Week 12
+
+| Date | Topic | Materials | Deadlines |
+|---|---|---|---|
+| **Apr 12** |  |  | [Progress report due](project/index.qmd){.btn .btn-sm .btn-danger} |
+| **Apr 14** |  |  |  |
+
+---
+
+## Week 13
+
+| Date | Topic | Materials | Deadlines |
+|---|---|---|---|
+| **Apr 19** |  |  |  |
+| **Apr 21** |  |  |  |
+
+---
+
+## Week 14
+
+| Date | Topic | Materials | Deadlines |
+|---|---|---|---|
+| **Apr 26** |  |  |  |
+| **Apr 28** |  |  |  |
+
+---
+
+## Week 15
+
+| Date | Topic | Materials | Deadlines |
+|---|---|---|---|
+| **May 3** |  |  |  |
+| **May 5** |  |  | [Final report due May 12](project/final.qmd){.btn .btn-sm .btn-danger} |
+
 ::: {.callout-warning appearance="minimal"}
 ### Access note (if using SharePoint links)
 If a file link does not open, ensure you are logged in with your **KFUPM** account in the same browser.
