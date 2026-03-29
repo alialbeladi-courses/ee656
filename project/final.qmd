@@ -1,0 +1,99 @@
+---
+title: "Final Submission"
+format: html
+toc: true
+draft: true
+---
+
+<!-- 
+  DRAFT — This page is not yet linked in the website navigation.
+  Review and update the content below before publishing.
+-->
+
+::: {.callout-important appearance="minimal"}
+**Due: May 12** · Submit via Gradescope (one teammate submits; include both names)
+:::
+
+---
+
+## Deliverables
+
+| Item | Format | Notes |
+|---|---|---|
+| **Final report** | PDF, 6–10 pages | Conference-style (see structure below) |
+| **Code repository** | GitHub link | Must include README with reproduction instructions |
+| **Presentation** | Slides (PDF or PPTX) | 10–12 minutes + Q&A |
+
+::: {.callout-note appearance="minimal"}
+All deliverables should be submitted as a **single Gradescope submission** with the report PDF as the primary file and the repo link included in the report.
+:::
+
+---
+
+## Report structure
+
+Your final report should follow this outline:
+
+### 1. Abstract
+One paragraph summarizing the problem, approach, and key findings.
+
+### 2. Introduction & motivation
+What problem are you solving? Why does it matter? How does it relate to course topics?
+
+### 3. Related work
+Brief survey of relevant methods. Highlight what you build on and what you do differently.
+
+### 4. Method
+Describe your approach clearly enough that a classmate could reproduce it. Include:
+
+- Pipeline overview (diagrams encouraged)
+- Key algorithms and design choices
+- Assumptions and limitations
+
+### 5. Experiments & results
+
+- **Setup:** datasets, hardware, parameters, baselines
+- **Metrics:** clearly defined and justified
+- **Results:** tables, figures, qualitative examples
+- **Ablations:** what components matter and why
+
+### 6. Discussion
+Interpret your results. What worked? What didn't? Why? Include failure-case analysis.
+
+### 7. Conclusion
+Summary of contributions, limitations, and potential future work.
+
+### 8. References
+Cite all external resources: papers, code, datasets, libraries.
+
+---
+
+## Presentation guidelines
+
+- **Duration:** 10–12 minutes + 3–5 minutes Q&A.
+- **Content:** Focus on motivation, method, key results, and lessons learned.
+- **Demos:** Live or recorded demos are encouraged but optional.
+- All team members should present.
+
+---
+
+## Grading rubric
+
+| Category | Weight | What we look for |
+|---|---:|---|
+| **Technical correctness** | 30% | Sound formulation, correct implementation |
+| **Results & evaluation** | 30% | Meaningful experiments, fair comparisons, ablations |
+| **Clarity & communication** | 20% | Well-structured report, readable figures, clear presentation |
+| **Originality & ambition** | 10% | Thoughtful problem choice, extensions beyond baseline |
+| **Reproducibility** | 10% | Clean repo, clear README, documented dependencies |
+
+---
+
+## Submission checklist
+
+- [ ] Report is 6–10 pages, follows the structure above
+- [ ] All figures are labeled, captioned, and readable
+- [ ] Code repo link is included and accessible
+- [ ] README has setup, data, run, and output instructions
+- [ ] Presentation slides are ready
+- [ ] Both team members' names are on the submission
