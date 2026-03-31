@@ -108,7 +108,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **Mar 29** |  |  |  |
+| **Mar 29** |  |  [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:p:/g/personal/albeladi_kfupm_edu_sa/IQDEoarsm9IbTphQnzHsp4tJAVUjzNCDBVIoWFGaT1VY5Fg?e=ZY4kl3){.btn .btn-sm .btn-outline-primary}|  |
 | **Mar 31** |  |  |  |
 
 ---
