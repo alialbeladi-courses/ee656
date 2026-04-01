@@ -92,8 +92,8 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **Mar 8** |  |  |  |
-| **Mar 10** |  |  | [Proposal due](project/proposal.qmd){.btn .btn-sm .btn-danger} |
+| **Mar 8** | **NonLinear Optimization** |  |  |
+| **Mar 10** | **No Class** |  | [Proposal due](project/proposal.qmd){.btn .btn-sm .btn-danger} |
 
 ---
 
@@ -108,8 +108,8 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **Mar 29** |  |  [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:p:/g/personal/albeladi_kfupm_edu_sa/IQDEoarsm9IbTphQnzHsp4tJAVUjzNCDBVIoWFGaT1VY5Fg?e=ZY4kl3){.btn .btn-sm .btn-outline-primary}|  |
-| **Mar 31** |  |  |  |
+| **Mar 29** | **Point Cloud Registration** |  [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:p:/g/personal/albeladi_kfupm_edu_sa/IQDEoarsm9IbTphQnzHsp4tJAVUjzNCDBVIoWFGaT1VY5Fg?e=ZY4kl3){.btn .btn-sm .btn-outline-primary}|  |
+| **Mar 31** | **Occupancy Grid Mapping** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQBX_bwUrWuWTK3TANGQG61gAQBK8_E8HeMBI1-e1odnSfA?e=LY1DoJ){.btn .btn-sm .btn-outline-primary} |  |
 
 ---
 
@@ -117,7 +117,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **Apr 5** |  |  |  |
+| **Apr 5** |  |  |  | 
 | **Apr 7** |  |  |  |
 
 ---
