@@ -117,8 +117,8 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **Apr 5** |  |  |  | 
-| **Apr 7** |  |  |  |
+| **Apr 5** | **Camera Model**| [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQCqU_BBlZrRSbvEJ4d575grAYlIsamWrxxrYAbMNR6Q9Xk?e=vfQtW7){.btn .btn-sm .btn-outline-primary} |  | 
+| **Apr 7** | **Visual Odometry**| [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQAdttFH9RCPSqtKt3WUKUV_AYfyD_6V2Kzk4mwUwV1dl98?e=75oghC){.btn .btn-sm .btn-outline-primary} |  |  |
 
 ---
 
@@ -126,8 +126,8 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **Apr 12** |  |  | [Progress report due](project/index.qmd){.btn .btn-sm .btn-danger} |
-| **Apr 14** |  |  |  |
+| **Apr 12** | **Project Progress Presentations**| | [Progress report due](project/index.qmd){.btn .btn-sm .btn-danger} | 
+| **Apr 14** | **Robustness to Outliers** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQBp_0YNC1O8SrIUYUMTYg2vAYetos77tes5Dwf0vxteSqU?e=JP6LA4){.btn .btn-sm .btn-outline-primary}  |  |
 
 ---
 
