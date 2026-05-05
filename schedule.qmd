@@ -135,8 +135,8 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **Apr 19** |  |  |  |
-| **Apr 21** |  |  |  |
+| **Apr 19** | **Robustness to Outliers 2** | [Slides (PDF)] (https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQD3SAicU8a6Q4DsNG3PAbpsAT9UFeYj4GuJ8ccL8Gaiq80?e=qEEMH0){.btn .btn-sm .btn-outline-primary}   |  |
+| **Apr 21** | **Robustness to Outliers 3** | [Slides (PDF)] (https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQDHPEK2RDuHR6oDY6wyQookAcg55UYJuBhDXvTO7hR7zZk?e=IOTKfE){.btn .btn-sm .btn-outline-primary}   |  |
 
 ---
 
@@ -144,8 +144,8 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **Apr 26** |  |  |  |
-| **Apr 28** |  |  |  |
+| **Apr 26** | **Visual Inertial Odometry** |  |  |
+| **Apr 28** | **Visual Inertial Odometry 2** |  |  |
 
 ---
 
@@ -153,7 +153,7 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **May 3** |  |  |  |
+| **May 3** | **Utilizing Sparsity** |  |  |
 | **May 5** |  |  | [Final report due May 12](project/final.qmd){.btn .btn-sm .btn-danger} |
 
 ::: {.callout-warning appearance="minimal"}
