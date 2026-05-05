@@ -135,8 +135,8 @@ Deadlines are listed in **local time (Asia/Riyadh)**.
 
 | Date | Topic | Materials | Deadlines |
 |---|---|---|---|
-| **Apr 19** | **Robustness to Outliers 2** | [Slides (PDF)] (https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQD3SAicU8a6Q4DsNG3PAbpsAT9UFeYj4GuJ8ccL8Gaiq80?e=qEEMH0){.btn .btn-sm .btn-outline-primary}   |  |
-| **Apr 21** | **Robustness to Outliers 3** | [Slides (PDF)] (https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQDHPEK2RDuHR6oDY6wyQookAcg55UYJuBhDXvTO7hR7zZk?e=IOTKfE){.btn .btn-sm .btn-outline-primary}   |  |
+| **Apr 19** | **Robustness to Outliers 2** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQD3SAicU8a6Q4DsNG3PAbpsAT9UFeYj4GuJ8ccL8Gaiq80?e=qEEMH0){.btn .btn-sm .btn-outline-primary}   |  |
+| **Apr 21** | **Robustness to Outliers 3** | [Slides (PDF)](https://kfupmedusa-my.sharepoint.com/:b:/g/personal/albeladi_kfupm_edu_sa/IQDHPEK2RDuHR6oDY6wyQookAcg55UYJuBhDXvTO7hR7zZk?e=IOTKfE){.btn .btn-sm .btn-outline-primary}   |  |
 
 ---
 
